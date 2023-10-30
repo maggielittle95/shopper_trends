@@ -1,0 +1,4901 @@
+customer_id,first_name,last_name,tiktok_campaign,tiktok_cpa,tiktok_conversion,tiktok_dates,email_campaign,email_cpa,email_conversion,email_dates,customer_segment
+1,Noelyn,Krout,frequency purchase,$1.17,false,12/14/2022,cross product,$1.76,true,11/12/2022,Daily
+2,Daryn,Vivians,frequency purchase,$5.72,false,01/29/2022,we missed you,$3.82,true,10/7/2022,Never
+3,Osborne,Karpman,abandoned cart,$8.64,false,08/10/2022,cross product,$4.08,false,1/15/2022,Yearly
+4,Caitrin,Aistrop,cross product,$9.68,true,01/05/2022,abandoned cart,$2.21,false,8/15/2022,Daily
+5,Carlyle,Galland,cross product,$0.27,true,09/25/2022,cross product,$4.12,true,9/13/2022,Often
+6,Iona,Gilman,abandoned cart,$8.84,false,08/18/2022,cross product,$7.75,false,8/8/2022,Once
+7,Wilmar,Beachem,product launch,$0.52,true,07/27/2022,we missed you,$6.80,false,4/6/2022,Monthly
+8,Gwenneth,Andresser,product launch,$2.10,true,06/14/2022,product launch,$9.68,true,9/9/2022,Often
+9,Sheilah,Presho,cross product,$4.08,true,04/23/2022,product launch,$7.37,false,9/4/2022,Yearly
+10,Bevin,Keningham,cross product,$6.11,true,04/02/2022,cross product,$8.99,true,9/30/2022,Once
+11,Clyde,MacLoughlin,welcome,$6.76,false,04/04/2022,cross product,$0.64,false,2/4/2022,Monthly
+12,Kingsley,Acome,we missed you,$0.72,true,02/10/2022,product launch,$2.95,false,7/7/2022,Often
+13,Karina,Alcott,frequency purchase,$7.23,false,05/08/2022,abandoned cart,$1.73,false,11/19/2022,Never
+14,Gaylor,Legendre,product launch,$8.82,false,10/08/2022,frequency purchase,$8.43,true,2/17/2022,Yearly
+15,Halimeda,Quarry,frequency purchase,$2.64,false,01/09/2022,product launch,$1.22,false,12/19/2022,Seldom
+16,Levi,Bezant,abandoned cart,$3.17,false,02/16/2022,abandoned cart,$0.26,false,3/9/2022,Yearly
+17,Phoebe,Lindenbluth,cross product,$8.76,true,03/18/2022,we missed you,$3.18,true,12/22/2022,Once
+18,Nannie,Ormrod,cross product,$4.57,true,08/12/2022,frequency purchase,$3.73,true,1/16/2022,Seldom
+19,Moina,Yielding,abandoned cart,$5.45,true,01/02/2022,abandoned cart,$3.04,true,11/20/2022,Yearly
+20,Chester,Jouhning,frequency purchase,$6.96,true,04/12/2022,frequency purchase,$4.47,false,9/29/2022,Seldom
+21,Hallsy,Hearl,welcome,$3.56,true,08/13/2022,welcome,$3.03,true,3/16/2022,Yearly
+22,Timmi,Birdwhistell,cross product,$0.24,false,04/20/2022,abandoned cart,$7.63,true,12/15/2022,Weekly
+23,Farlie,Edgecombe,frequency purchase,$6.12,true,08/14/2022,cross product,$9.89,true,2/6/2022,Yearly
+24,Cart,Leggon,product launch,$2.39,false,08/03/2022,abandoned cart,$4.28,false,10/20/2022,Weekly
+25,Meredithe,Pidler,we missed you,$8.72,true,04/14/2022,frequency purchase,$2.41,true,10/7/2022,Never
+26,Patrice,Helliwell,we missed you,$7.52,false,03/30/2022,abandoned cart,$6.04,false,1/3/2022,Monthly
+27,Renelle,Wolfit,welcome,$3.42,true,08/29/2022,cross product,$1.11,true,12/4/2022,Yearly
+28,Brittney,Batisse,frequency purchase,$4.66,true,07/24/2022,abandoned cart,$8.63,false,9/28/2022,Weekly
+29,June,Mallaby,we missed you,$6.76,false,03/28/2022,welcome,$8.83,false,7/29/2022,Daily
+30,Ettie,Boake,frequency purchase,$8.29,false,10/19/2022,frequency purchase,$9.36,true,6/26/2022,Often
+31,Ogdon,Cullington,welcome,$6.71,true,09/22/2022,we missed you,$2.09,true,8/15/2022,Often
+32,Chloette,Mortimer,frequency purchase,$9.66,true,08/22/2022,abandoned cart,$4.53,true,9/14/2022,Once
+33,Tamara,Peevor,frequency purchase,$4.57,false,07/05/2022,abandoned cart,$8.55,false,1/12/2022,Weekly
+34,Yurik,Cullington,product launch,$2.74,true,02/14/2022,abandoned cart,$9.36,true,3/5/2022,Weekly
+35,Ham,Gilligan,we missed you,$1.89,true,03/16/2022,product launch,$2.45,false,10/7/2022,Weekly
+36,Melisandra,Gotthard,cross product,$1.62,false,02/18/2022,frequency purchase,$0.74,false,9/1/2022,Daily
+37,Jasun,De Caville,product launch,$1.80,true,11/25/2022,cross product,$2.65,true,8/30/2022,Monthly
+38,Korrie,Demann,product launch,$6.83,false,06/23/2022,welcome,$5.25,false,12/13/2022,Often
+39,Thurstan,Bushel,frequency purchase,$9.07,true,07/16/2022,cross product,$8.36,false,10/18/2022,Never
+40,Carrie,Lippo,abandoned cart,$9.60,true,02/25/2022,we missed you,$4.36,true,9/19/2022,Daily
+41,Talbert,Porkiss,welcome,$5.64,true,02/03/2022,welcome,$0.43,true,7/15/2022,Often
+42,Jaine,Bassam,welcome,$2.21,false,03/19/2022,abandoned cart,$1.63,true,9/14/2022,Daily
+43,Nikolaus,O'Feeney,product launch,$1.32,false,11/23/2022,product launch,$0.16,false,8/11/2022,Weekly
+44,Nerissa,Jindra,we missed you,$3.52,false,06/03/2022,product launch,$2.46,false,6/29/2022,Never
+45,Chevy,Forth,we missed you,$8.93,false,06/07/2022,we missed you,$6.86,true,6/6/2022,Never
+46,Merrile,Gregoriou,frequency purchase,$7.77,true,12/27/2022,we missed you,$7.48,true,6/28/2022,Often
+47,Myriam,Ramsier,abandoned cart,$4.64,false,10/10/2022,welcome,$1.91,true,7/27/2022,Monthly
+48,Hedwig,Kohneke,abandoned cart,$4.22,false,02/21/2022,we missed you,$4.25,false,4/28/2022,Monthly
+49,Lebbie,Parren,cross product,$0.99,false,10/02/2022,abandoned cart,$7.51,false,11/8/2022,Seldom
+50,Obadias,Cussen,welcome,$5.64,false,05/05/2022,welcome,$2.92,true,1/1/2022,Often
+51,Elianora,Tremouille,cross product,$5.85,false,02/10/2022,frequency purchase,$6.17,true,4/17/2022,Weekly
+52,Jessie,Ewings,abandoned cart,$8.45,true,04/26/2022,we missed you,$9.31,true,1/14/2022,Daily
+53,Taber,Bushen,cross product,$9.31,false,04/16/2022,we missed you,$4.32,false,9/1/2022,Never
+54,Garvy,Morse,frequency purchase,$9.89,true,01/19/2022,welcome,$6.47,false,5/2/2022,Yearly
+55,Gamaliel,Sollner,welcome,$6.61,true,09/04/2022,we missed you,$2.21,false,2/1/2022,Once
+56,Josie,Dewi,frequency purchase,$1.82,true,02/23/2022,cross product,$8.13,true,5/18/2022,Monthly
+57,Neron,Loudwell,product launch,$3.55,true,06/11/2022,abandoned cart,$0.80,false,1/14/2022,Once
+58,Lynette,Puckring,welcome,$5.49,true,02/16/2022,welcome,$5.03,false,4/12/2022,Daily
+59,Del,Izhak,product launch,$9.66,false,12/06/2022,abandoned cart,$8.22,false,9/11/2022,Monthly
+60,Gunar,Doorbar,frequency purchase,$7.35,false,03/16/2022,welcome,$3.89,true,5/16/2022,Seldom
+61,Ariella,Ingledew,welcome,$1.72,false,10/26/2022,frequency purchase,$6.50,true,12/19/2022,Seldom
+62,Wade,Gyles,abandoned cart,$1.58,true,10/10/2022,abandoned cart,$7.36,true,6/11/2022,Daily
+63,Brandyn,Beckers,abandoned cart,$6.33,true,04/28/2022,we missed you,$7.50,true,7/21/2022,Yearly
+64,Grier,Mandifield,cross product,$7.59,false,06/20/2022,frequency purchase,$4.25,true,1/29/2022,Seldom
+65,Ferne,Lavall,abandoned cart,$0.14,true,06/02/2022,cross product,$1.36,true,9/7/2022,Never
+66,Rowen,Seals,abandoned cart,$4.01,false,10/09/2022,frequency purchase,$0.80,false,5/17/2022,Often
+67,Salomo,Castelyn,we missed you,$9.61,false,06/15/2022,we missed you,$4.77,true,11/23/2022,Often
+68,Dexter,Grzegorzewski,welcome,$2.83,true,05/17/2022,we missed you,$1.22,true,2/6/2022,Monthly
+69,Traci,Berisford,product launch,$3.14,true,10/29/2022,product launch,$3.36,false,9/16/2022,Daily
+70,Harmonia,Florez,cross product,$0.84,true,06/08/2022,welcome,$7.93,false,5/29/2022,Once
+71,Ab,Viles,cross product,$0.27,true,01/21/2022,cross product,$8.74,false,1/12/2022,Often
+72,Ruy,Lodewick,frequency purchase,$2.02,true,12/05/2022,abandoned cart,$7.75,true,10/2/2022,Monthly
+73,Thane,Wennington,product launch,$9.07,true,11/29/2022,we missed you,$1.20,true,6/11/2022,Never
+74,Othilia,Bebis,welcome,$3.39,true,06/26/2022,welcome,$5.86,false,11/3/2022,Weekly
+75,Clea,Malyj,abandoned cart,$3.24,false,04/22/2022,welcome,$4.64,false,12/9/2022,Daily
+76,Drucill,Gatesman,we missed you,$3.00,false,09/17/2022,we missed you,$2.28,false,7/18/2022,Never
+77,Claudina,Youson,we missed you,$9.37,true,05/30/2022,abandoned cart,$3.18,false,5/22/2022,Yearly
+78,Bear,Wilfing,product launch,$8.06,true,01/25/2022,cross product,$2.75,false,6/9/2022,Once
+79,Skipp,MacMaster,we missed you,$1.83,true,07/24/2022,cross product,$8.72,true,5/10/2022,Monthly
+80,Somerset,Decort,we missed you,$3.31,false,12/29/2022,we missed you,$6.33,false,7/31/2022,Monthly
+81,Miner,Kenset,product launch,$2.20,true,01/27/2022,abandoned cart,$0.15,false,12/28/2022,Never
+82,Janelle,Croxford,frequency purchase,$5.44,false,09/23/2022,welcome,$4.83,false,6/1/2022,Daily
+83,Shanda,Bewly,cross product,$8.41,false,07/01/2022,product launch,$5.87,true,12/23/2022,Never
+84,Susette,Merrigan,abandoned cart,$3.68,true,04/05/2022,cross product,$4.60,false,9/20/2022,Often
+85,Dallas,Solomon,cross product,$5.86,false,08/26/2022,we missed you,$7.48,false,7/6/2022,Weekly
+86,Warden,Sawney,welcome,$4.54,false,03/27/2022,abandoned cart,$3.74,true,11/23/2022,Yearly
+87,Minor,Hazley,frequency purchase,$7.71,false,09/10/2022,product launch,$6.29,false,6/1/2022,Never
+88,Giralda,Ternouth,we missed you,$5.83,true,04/02/2022,cross product,$7.14,false,6/18/2022,Monthly
+89,Syman,Casson,product launch,$7.17,false,07/14/2022,frequency purchase,$2.24,true,12/5/2022,Once
+90,Harriet,Delouch,product launch,$1.59,true,12/02/2022,frequency purchase,$3.83,false,3/16/2022,Yearly
+91,Shem,MacMaster,welcome,$7.72,true,01/24/2022,we missed you,$0.96,true,9/10/2022,Once
+92,Kattie,Sweett,product launch,$6.18,true,02/05/2022,welcome,$3.61,false,3/21/2022,Weekly
+93,Carilyn,Greetland,cross product,$6.32,true,10/01/2022,product launch,$6.82,true,2/23/2022,Monthly
+94,Gretel,Brimble,frequency purchase,$9.73,false,02/05/2022,cross product,$9.81,false,10/21/2022,Seldom
+95,Gerrard,Jossum,abandoned cart,$3.13,true,07/15/2022,we missed you,$0.93,true,11/18/2022,Weekly
+96,Gertruda,Jeaneau,cross product,$0.73,true,05/28/2022,frequency purchase,$9.23,false,6/30/2022,Once
+97,Adara,Beagles,frequency purchase,$9.16,true,06/26/2022,frequency purchase,$0.58,true,3/17/2022,Monthly
+98,Ade,Budge,welcome,$1.85,false,02/21/2022,welcome,$8.02,true,9/10/2022,Never
+99,Lissa,Kerbler,frequency purchase,$1.03,false,03/25/2022,we missed you,$4.41,false,8/24/2022,Never
+100,Boy,Defau,cross product,$0.58,false,03/31/2022,product launch,$4.47,false,7/3/2022,Seldom
+101,Jeno,Ixer,welcome,$0.15,false,04/22/2022,frequency purchase,$4.63,false,11/5/2022,Yearly
+102,Rowan,Ostler,abandoned cart,$7.30,false,10/01/2022,welcome,$6.91,true,4/23/2022,Often
+103,Ad,Swinburn,welcome,$6.04,true,09/30/2022,frequency purchase,$6.99,true,6/7/2022,Monthly
+104,Louella,Stife,abandoned cart,$5.84,false,08/01/2022,abandoned cart,$2.83,true,8/8/2022,Often
+105,Gipsy,Alan,cross product,$5.06,true,11/18/2022,we missed you,$6.17,false,4/13/2022,Yearly
+106,Casey,Baudou,abandoned cart,$0.29,false,03/02/2022,cross product,$2.43,true,12/1/2022,Seldom
+107,Leighton,Brunelli,frequency purchase,$6.41,false,04/01/2022,cross product,$9.35,true,11/24/2022,Seldom
+108,Stevana,Shakshaft,we missed you,$4.65,true,06/25/2022,cross product,$5.40,false,2/25/2022,Monthly
+109,Erin,Dranfield,frequency purchase,$5.94,true,12/22/2022,we missed you,$7.13,false,10/24/2022,Monthly
+110,Jamal,Clive,we missed you,$1.11,false,02/26/2022,we missed you,$1.31,true,4/14/2022,Weekly
+111,Blinnie,Gouley,cross product,$9.38,false,10/10/2022,abandoned cart,$4.69,true,4/20/2022,Daily
+112,Toni,Hillhouse,product launch,$5.36,true,04/06/2022,we missed you,$0.93,true,10/21/2022,Once
+113,Conway,Timbs,we missed you,$4.15,true,08/11/2022,cross product,$4.28,false,8/19/2022,Often
+114,Broddie,Husby,abandoned cart,$9.93,true,05/31/2022,abandoned cart,$5.83,false,4/19/2022,Daily
+115,Humbert,Fairbrass,welcome,$3.97,true,01/08/2022,we missed you,$7.50,false,5/3/2022,Never
+116,Leshia,Wilflinger,product launch,$4.39,false,12/06/2022,abandoned cart,$7.50,true,5/29/2022,Yearly
+117,Archie,Umfrey,frequency purchase,$2.69,true,06/23/2022,product launch,$8.50,false,4/6/2022,Seldom
+118,Dunc,McGiffin,frequency purchase,$5.59,false,05/11/2022,cross product,$4.38,true,9/12/2022,Yearly
+119,Elfreda,Gilson,abandoned cart,$7.98,true,09/13/2022,cross product,$1.61,false,11/6/2022,Seldom
+120,Arnuad,Springthorp,abandoned cart,$2.76,true,12/12/2022,welcome,$1.70,false,6/18/2022,Seldom
+121,Ediva,Sevitt,abandoned cart,$5.18,true,10/13/2022,welcome,$8.07,true,9/2/2022,Daily
+122,Harman,Labuschagne,abandoned cart,$8.13,false,06/16/2022,product launch,$1.98,true,1/26/2022,Weekly
+123,Iolanthe,Scouse,we missed you,$8.48,false,09/22/2022,frequency purchase,$5.35,false,4/12/2022,Seldom
+124,Ondrea,Quinion,cross product,$0.18,false,09/03/2022,cross product,$1.09,false,9/8/2022,Seldom
+125,Dermot,Tutin,product launch,$5.86,false,11/23/2022,frequency purchase,$3.41,true,4/30/2022,Seldom
+126,Colene,Brand,frequency purchase,$7.34,false,02/22/2022,product launch,$5.85,false,11/27/2022,Never
+127,Kim,Satterthwaite,product launch,$0.95,false,04/25/2022,welcome,$5.54,true,4/6/2022,Monthly
+128,Barbra,Trail,cross product,$7.22,true,08/01/2022,product launch,$6.94,false,7/18/2022,Monthly
+129,Malissia,Talboy,welcome,$2.83,true,06/14/2022,cross product,$4.14,false,12/9/2022,Monthly
+130,Andrey,Flett,welcome,$2.20,false,08/31/2022,product launch,$0.53,false,4/7/2022,Daily
+131,Ebenezer,Clevely,product launch,$6.94,true,09/15/2022,abandoned cart,$2.07,false,7/1/2022,Monthly
+132,Shaughn,Bridson,we missed you,$3.64,true,10/13/2022,abandoned cart,$0.97,false,5/15/2022,Often
+133,Cody,Don,welcome,$8.42,false,09/13/2022,welcome,$4.48,false,2/3/2022,Yearly
+134,Iseabal,McIlwreath,product launch,$2.20,false,08/28/2022,product launch,$0.71,true,6/13/2022,Weekly
+135,Duff,Whitter,we missed you,$3.10,true,09/19/2022,abandoned cart,$3.43,false,2/16/2022,Often
+136,Anett,Dast,abandoned cart,$7.38,false,08/03/2022,welcome,$0.54,false,5/15/2022,Monthly
+137,Leigha,Bridger,cross product,$2.88,true,01/08/2022,we missed you,$9.09,true,5/17/2022,Monthly
+138,Daven,Geeson,frequency purchase,$5.79,true,01/16/2022,abandoned cart,$1.31,false,4/4/2022,Monthly
+139,Mordy,Bertram,product launch,$3.38,true,12/13/2022,we missed you,$2.88,true,11/21/2022,Never
+140,Haslett,Dugdale,product launch,$1.21,false,01/09/2022,abandoned cart,$5.57,true,10/14/2022,Often
+141,Mirabella,Calcut,we missed you,$5.85,false,05/14/2022,abandoned cart,$8.66,true,12/17/2022,Monthly
+142,Niel,Prahl,abandoned cart,$9.02,false,05/20/2022,frequency purchase,$1.52,false,12/17/2022,Daily
+143,Genny,Thurske,welcome,$9.20,true,03/27/2022,cross product,$9.32,false,9/24/2022,Never
+144,Aurel,Voase,abandoned cart,$0.75,true,05/16/2022,cross product,$9.37,false,8/9/2022,Yearly
+145,Austine,Checci,frequency purchase,$9.01,true,02/07/2022,welcome,$4.28,false,2/3/2022,Seldom
+146,Jeanne,Kearns,we missed you,$8.33,false,06/01/2022,frequency purchase,$1.43,true,7/5/2022,Never
+147,Cristina,Ivic,cross product,$1.69,true,06/30/2022,product launch,$1.65,false,1/22/2022,Weekly
+148,Lilli,Purdie,welcome,$4.42,true,06/09/2022,cross product,$4.58,true,9/2/2022,Monthly
+149,Domenico,Priel,abandoned cart,$4.15,true,12/17/2022,product launch,$2.39,false,5/9/2022,Daily
+150,Lodovico,Shinfield,welcome,$6.67,true,05/07/2022,cross product,$3.77,true,3/24/2022,Weekly
+151,Sheelah,Benam,cross product,$9.08,true,05/20/2022,welcome,$5.79,true,3/16/2022,Often
+152,Sherrie,Eliyahu,welcome,$5.03,true,06/23/2022,frequency purchase,$4.41,false,7/27/2022,Yearly
+153,Kessia,Kops,product launch,$2.06,false,05/06/2022,welcome,$3.37,true,5/27/2022,Yearly
+154,Kellia,Piperley,cross product,$2.58,false,09/30/2022,abandoned cart,$3.56,true,5/18/2022,Often
+155,Hurlee,Vanacci,frequency purchase,$2.50,false,12/24/2022,frequency purchase,$2.30,true,9/14/2022,Once
+156,Wendel,Stanfield,abandoned cart,$4.18,true,09/16/2022,abandoned cart,$2.11,true,3/5/2022,Seldom
+157,Darnall,Bruneau,product launch,$3.85,false,01/17/2022,welcome,$2.08,true,8/25/2022,Once
+158,Conny,Shildrick,product launch,$7.52,true,08/30/2022,abandoned cart,$9.05,true,2/5/2022,Daily
+159,Hetty,Kinman,product launch,$1.33,true,08/31/2022,product launch,$1.12,true,11/7/2022,Daily
+160,Gale,Shillington,frequency purchase,$0.62,false,06/12/2022,cross product,$3.99,true,12/14/2022,Weekly
+161,Daron,Bech,we missed you,$2.75,true,06/11/2022,cross product,$7.30,false,9/11/2022,Once
+162,Irvine,Knolles-Green,product launch,$9.92,true,08/09/2022,frequency purchase,$2.54,true,5/17/2022,Yearly
+163,Kort,Simeoli,frequency purchase,$8.02,true,05/15/2022,frequency purchase,$0.78,true,5/11/2022,Yearly
+164,Vinnie,Battisson,welcome,$7.76,false,12/26/2022,abandoned cart,$9.32,true,6/22/2022,Once
+165,Kassia,Sleep,welcome,$6.37,false,09/04/2022,welcome,$8.60,false,10/1/2022,Monthly
+166,Rosanna,Eicke,cross product,$4.98,true,04/03/2022,product launch,$2.66,false,3/9/2022,Daily
+167,Mab,Gyurko,cross product,$3.22,false,06/16/2022,product launch,$7.41,false,8/5/2022,Weekly
+168,Katya,Petrasek,cross product,$2.05,true,05/15/2022,abandoned cart,$8.00,false,1/1/2022,Daily
+169,Estelle,Meeus,product launch,$1.95,true,09/26/2022,we missed you,$8.57,false,10/15/2022,Monthly
+170,Georg,Dunstone,product launch,$3.07,true,01/16/2022,abandoned cart,$3.89,false,3/2/2022,Monthly
+171,Vivianne,Alliband,welcome,$1.51,false,07/23/2022,we missed you,$1.33,false,12/25/2022,Yearly
+172,Krisha,Ferrarini,product launch,$8.62,true,06/21/2022,product launch,$0.49,true,12/25/2022,Daily
+173,Emmye,Molineux,product launch,$0.72,false,03/20/2022,frequency purchase,$2.41,false,11/28/2022,Never
+174,Mallory,Hartropp,cross product,$7.93,true,12/05/2022,frequency purchase,$8.04,false,10/5/2022,Monthly
+175,Deirdre,Vyvyan,cross product,$5.51,false,08/03/2022,we missed you,$2.79,true,7/31/2022,Weekly
+176,Obadias,Kelcher,frequency purchase,$3.25,false,04/17/2022,product launch,$8.29,false,3/29/2022,Weekly
+177,Linnell,McElrath,welcome,$4.14,true,01/30/2022,welcome,$6.83,true,1/31/2022,Daily
+178,Lamont,Gouny,product launch,$4.82,false,03/20/2022,abandoned cart,$5.02,true,10/22/2022,Often
+179,Kris,Gauson,frequency purchase,$0.44,true,01/09/2022,abandoned cart,$5.59,false,10/28/2022,Often
+180,Jeffry,Freyn,frequency purchase,$4.57,false,07/20/2022,welcome,$3.17,true,3/9/2022,Monthly
+181,Dario,Benedidick,cross product,$2.00,true,02/22/2022,cross product,$3.46,true,11/3/2022,Yearly
+182,Yovonnda,Lyttle,frequency purchase,$6.58,false,03/03/2022,product launch,$1.06,true,9/13/2022,Weekly
+183,Donovan,Hackley,abandoned cart,$3.62,false,11/17/2022,frequency purchase,$8.59,true,5/12/2022,Never
+184,Sheppard,Brion,frequency purchase,$8.15,false,11/29/2022,cross product,$4.40,true,6/4/2022,Daily
+185,Windham,Ferrarello,cross product,$0.63,false,11/20/2022,welcome,$8.88,false,5/22/2022,Weekly
+186,Cynthea,Franklyn,cross product,$0.52,false,01/14/2022,product launch,$5.63,false,12/6/2022,Monthly
+187,Nanete,Spera,welcome,$4.09,true,03/22/2022,we missed you,$9.10,false,9/24/2022,Monthly
+188,Kessiah,Andrick,abandoned cart,$8.96,false,03/06/2022,product launch,$3.63,false,2/14/2022,Weekly
+189,Anastassia,Bantham,product launch,$4.52,false,10/05/2022,frequency purchase,$8.62,true,8/22/2022,Daily
+190,Ginni,Ingle,welcome,$1.99,false,06/27/2022,cross product,$8.59,true,10/2/2022,Daily
+191,Barbara,Lavelle,abandoned cart,$1.08,false,03/18/2022,welcome,$0.95,false,6/29/2022,Seldom
+192,Clemmie,Andrzej,abandoned cart,$5.29,true,02/16/2022,we missed you,$8.13,false,12/13/2022,Daily
+193,Jacquetta,Bilfoot,product launch,$8.18,false,08/04/2022,cross product,$2.87,true,9/8/2022,Never
+194,Annmaria,Ondracek,we missed you,$4.23,false,06/11/2022,cross product,$6.09,true,4/28/2022,Yearly
+195,Guido,Pechard,product launch,$2.58,false,04/13/2022,we missed you,$4.30,false,7/19/2022,Monthly
+196,Roz,Flawn,cross product,$0.28,false,01/10/2022,welcome,$8.80,true,12/15/2022,Weekly
+197,Sue,Breslin,product launch,$9.38,true,06/10/2022,welcome,$4.74,false,8/15/2022,Once
+198,Mart,Braga,cross product,$5.19,false,01/24/2022,abandoned cart,$7.87,true,1/3/2022,Often
+199,Nels,Danielkiewicz,frequency purchase,$0.23,true,03/22/2022,we missed you,$4.30,true,10/2/2022,Weekly
+200,Cacilia,Aslet,frequency purchase,$0.40,true,03/07/2022,we missed you,$1.37,true,5/19/2022,Never
+201,Max,Brideoke,welcome,$8.04,false,01/06/2022,we missed you,$0.56,false,12/22/2022,Seldom
+202,Raphael,Skrine,abandoned cart,$3.12,true,12/22/2022,cross product,$8.08,false,6/2/2022,Monthly
+203,Idelle,Nathon,welcome,$8.28,true,02/26/2022,product launch,$2.46,false,8/18/2022,Often
+204,Clementia,Lembke,cross product,$5.09,false,11/02/2022,frequency purchase,$0.90,false,4/28/2022,Seldom
+205,Lonni,Lamar,product launch,$7.09,true,09/19/2022,abandoned cart,$7.91,true,7/10/2022,Often
+206,Aguie,Hachette,frequency purchase,$3.53,true,04/10/2022,welcome,$6.26,true,3/18/2022,Seldom
+207,Paddie,Petrashkov,abandoned cart,$9.13,true,06/09/2022,we missed you,$3.79,true,8/6/2022,Yearly
+208,Natasha,Kornacki,abandoned cart,$6.50,false,11/02/2022,we missed you,$0.04,true,5/18/2022,Seldom
+209,Emalee,Dallin,product launch,$4.99,false,09/27/2022,cross product,$6.04,true,4/26/2022,Monthly
+210,Byram,Garret,frequency purchase,$4.70,false,06/08/2022,cross product,$2.40,true,9/6/2022,Weekly
+211,Perren,Dron,we missed you,$9.09,true,11/26/2022,frequency purchase,$6.90,false,5/8/2022,Monthly
+212,Lyndell,Chaloner,frequency purchase,$9.04,false,05/01/2022,cross product,$7.33,false,9/11/2022,Often
+213,Antonia,Cavan,welcome,$0.99,true,02/15/2022,frequency purchase,$7.15,true,5/28/2022,Often
+214,Teodoro,Antecki,welcome,$6.32,false,10/01/2022,cross product,$1.18,false,5/6/2022,Often
+215,Rollins,Borit,abandoned cart,$9.14,true,12/10/2022,frequency purchase,$4.04,false,1/19/2022,Yearly
+216,Shena,McGeachie,frequency purchase,$9.94,true,10/13/2022,frequency purchase,$5.87,false,9/16/2022,Often
+217,Walker,Dods,we missed you,$5.44,false,10/24/2022,welcome,$1.37,false,4/6/2022,Often
+218,Romonda,McMichael,abandoned cart,$2.15,true,10/16/2022,product launch,$8.80,false,10/4/2022,Daily
+219,Karia,Hauch,we missed you,$2.61,true,06/04/2022,welcome,$6.98,false,3/16/2022,Once
+220,Stefa,Klas,abandoned cart,$3.17,true,08/05/2022,cross product,$5.80,false,2/1/2022,Weekly
+221,Ravi,Newsham,frequency purchase,$6.87,true,09/14/2022,we missed you,$1.20,true,10/13/2022,Weekly
+222,Kynthia,Eveling,frequency purchase,$4.17,false,06/22/2022,cross product,$9.95,false,6/22/2022,Once
+223,Pauli,Di Baudi,abandoned cart,$6.24,false,01/27/2022,abandoned cart,$6.57,false,4/7/2022,Yearly
+224,Rhiamon,Dalyiel,product launch,$2.10,false,03/07/2022,welcome,$7.14,true,11/15/2022,Yearly
+225,Gail,Jodlkowski,cross product,$4.13,true,08/10/2022,frequency purchase,$7.85,true,3/18/2022,Weekly
+226,Quintilla,Mingard,abandoned cart,$4.76,false,07/11/2022,welcome,$9.81,false,7/23/2022,Daily
+227,Margeaux,Teasdale,welcome,$3.15,true,08/09/2022,frequency purchase,$4.45,true,3/25/2022,Seldom
+228,Austine,Coogan,we missed you,$0.63,false,06/02/2022,cross product,$6.09,false,11/30/2022,Yearly
+229,Kurtis,Matuskiewicz,welcome,$6.62,false,11/01/2022,we missed you,$8.07,false,5/5/2022,Daily
+230,Mada,Kensy,welcome,$1.77,true,07/30/2022,we missed you,$4.40,true,4/26/2022,Weekly
+231,Ferd,Ingyon,welcome,$7.36,false,12/10/2022,cross product,$2.52,true,8/20/2022,Once
+232,Elwira,Cotte,we missed you,$4.97,false,04/11/2022,welcome,$9.38,true,8/30/2022,Never
+233,Lilas,Longstaffe,cross product,$0.84,true,03/29/2022,welcome,$5.20,true,6/26/2022,Yearly
+234,Rosalia,Brogiotti,product launch,$2.91,false,08/10/2022,frequency purchase,$1.34,false,5/9/2022,Yearly
+235,Templeton,Rettie,abandoned cart,$5.22,true,08/05/2022,we missed you,$4.26,true,4/24/2022,Often
+236,Skylar,Lindhe,cross product,$4.27,false,11/11/2022,product launch,$1.34,false,12/16/2022,Never
+237,Frances,Howison,abandoned cart,$0.80,true,02/18/2022,product launch,$8.38,false,11/13/2022,Daily
+238,Glad,Meneux,welcome,$2.60,true,11/14/2022,frequency purchase,$7.05,false,5/19/2022,Weekly
+239,Shae,Kerrane,product launch,$1.48,true,06/06/2022,product launch,$0.43,true,2/26/2022,Monthly
+240,Romain,Dwelley,welcome,$5.01,true,08/24/2022,abandoned cart,$0.58,false,8/8/2022,Monthly
+241,Carolina,Inchcomb,we missed you,$3.98,false,04/11/2022,frequency purchase,$7.78,false,6/12/2022,Seldom
+242,Kirstin,Reddington,product launch,$6.29,false,07/31/2022,abandoned cart,$4.56,true,6/13/2022,Often
+243,Marabel,Smeeth,abandoned cart,$5.01,false,10/01/2022,frequency purchase,$6.54,false,12/28/2022,Once
+244,Jarrad,MacKall,product launch,$1.91,true,11/25/2022,product launch,$1.15,false,9/16/2022,Yearly
+245,Reginald,Levesley,we missed you,$1.69,false,03/06/2022,cross product,$4.61,true,8/14/2022,Yearly
+246,Aaron,Yerby,frequency purchase,$8.41,true,09/09/2022,we missed you,$2.75,true,2/17/2022,Weekly
+247,Cecelia,Duligal,frequency purchase,$2.28,false,09/28/2022,we missed you,$7.14,false,10/9/2022,Seldom
+248,Keeley,Shanks,product launch,$9.72,true,10/01/2022,abandoned cart,$6.27,true,10/7/2022,Once
+249,Zsa zsa,Ibbs,welcome,$2.40,true,01/24/2022,product launch,$6.39,false,10/5/2022,Once
+250,Ingaborg,Parken,welcome,$3.67,false,08/13/2022,cross product,$7.76,false,4/26/2022,Daily
+251,Tadeo,Chamberlain,product launch,$9.83,true,11/03/2022,cross product,$2.50,true,4/6/2022,Never
+252,Sula,Findon,welcome,$8.89,true,04/05/2022,welcome,$8.69,true,3/6/2022,Yearly
+253,Jessie,Cuardall,frequency purchase,$4.79,true,05/13/2022,we missed you,$4.74,false,8/21/2022,Weekly
+254,Nomi,Camsey,welcome,$3.82,true,12/03/2022,product launch,$6.59,false,4/7/2022,Often
+255,Fina,Du Fray,abandoned cart,$0.83,false,01/02/2022,cross product,$7.65,true,7/20/2022,Never
+256,Rutledge,Overpool,abandoned cart,$3.49,false,10/02/2022,cross product,$7.27,true,5/22/2022,Often
+257,Fitz,Ruthen,welcome,$8.27,false,01/27/2022,we missed you,$1.68,false,5/8/2022,Once
+258,Rollo,Gyurko,we missed you,$6.24,true,11/15/2022,abandoned cart,$1.81,true,2/25/2022,Weekly
+259,William,Baradel,product launch,$1.88,false,07/25/2022,welcome,$5.83,false,5/1/2022,Daily
+260,Myron,Mullender,welcome,$7.89,true,11/18/2022,we missed you,$5.30,false,3/27/2022,Daily
+261,Viva,Cornell,we missed you,$4.90,true,01/22/2022,product launch,$1.87,false,6/13/2022,Once
+262,Britteny,Petters,cross product,$0.86,true,04/09/2022,welcome,$1.00,false,11/26/2022,Never
+263,Gamaliel,Screeton,welcome,$6.07,false,12/03/2022,abandoned cart,$7.32,true,9/26/2022,Often
+264,Redford,Rosenshine,frequency purchase,$5.04,true,01/31/2022,frequency purchase,$0.18,false,5/17/2022,Often
+265,Dory,Hefferon,product launch,$5.92,false,11/29/2022,product launch,$8.70,true,1/11/2022,Once
+266,Alta,Maclaine,we missed you,$1.64,true,04/21/2022,frequency purchase,$6.15,true,1/7/2022,Never
+267,Wyatt,Minmagh,abandoned cart,$7.34,true,11/20/2022,welcome,$7.80,true,8/2/2022,Often
+268,Maurene,Wrigley,we missed you,$2.09,true,07/23/2022,abandoned cart,$9.82,false,5/14/2022,Yearly
+269,Dewain,Karslake,cross product,$0.31,true,10/09/2022,welcome,$5.77,false,7/30/2022,Often
+270,De,Blenkin,product launch,$1.66,false,03/04/2022,we missed you,$5.95,false,5/7/2022,Often
+271,Seumas,Sperring,we missed you,$3.96,false,02/24/2022,product launch,$7.65,false,7/6/2022,Once
+272,Sherlocke,Wilkes,welcome,$4.29,true,07/16/2022,frequency purchase,$7.68,false,9/6/2022,Daily
+273,Jessika,McGeffen,frequency purchase,$1.14,true,04/16/2022,cross product,$8.91,false,2/9/2022,Weekly
+274,Vivien,Hunnam,cross product,$8.01,false,04/07/2022,abandoned cart,$5.34,false,1/11/2022,Weekly
+275,Willard,Stitle,abandoned cart,$0.13,true,06/25/2022,frequency purchase,$0.39,false,12/26/2022,Yearly
+276,Kirsteni,Fleay,frequency purchase,$9.60,true,08/18/2022,welcome,$6.11,true,3/19/2022,Monthly
+277,Fleur,Pumfrett,welcome,$3.36,true,04/22/2022,frequency purchase,$4.50,true,2/24/2022,Daily
+278,Pattin,Bainbridge,frequency purchase,$8.94,false,03/01/2022,welcome,$5.17,false,8/6/2022,Yearly
+279,Hedy,Housen,frequency purchase,$7.08,true,05/31/2022,cross product,$5.42,false,11/22/2022,Monthly
+280,Samuele,Carlucci,abandoned cart,$8.67,false,06/10/2022,abandoned cart,$9.06,false,2/14/2022,Daily
+281,Con,Antoniat,welcome,$8.65,false,05/21/2022,frequency purchase,$4.80,false,10/3/2022,Yearly
+282,Robert,Heinschke,frequency purchase,$1.03,true,01/29/2022,frequency purchase,$2.34,false,1/26/2022,Weekly
+283,Worden,Dinsale,product launch,$2.50,true,11/13/2022,welcome,$7.89,true,7/6/2022,Often
+284,Pepe,McConnal,cross product,$6.26,false,07/31/2022,product launch,$2.62,false,3/14/2022,Never
+285,Zebadiah,Blitz,we missed you,$6.94,false,10/13/2022,abandoned cart,$9.48,true,9/7/2022,Weekly
+286,Geraldine,Bagshawe,cross product,$7.35,true,12/05/2022,product launch,$5.04,false,9/14/2022,Seldom
+287,Charlie,Breckon,we missed you,$8.01,true,07/04/2022,frequency purchase,$0.59,true,4/1/2022,Weekly
+288,Deloris,Scrannage,welcome,$6.02,false,12/12/2022,cross product,$3.09,true,11/30/2022,Yearly
+289,Suzi,Wikey,we missed you,$6.51,false,07/18/2022,cross product,$5.90,true,1/4/2022,Yearly
+290,Anne-marie,Eriksson,cross product,$9.54,false,12/01/2022,we missed you,$8.31,false,9/1/2022,Once
+291,Kristan,Varty,frequency purchase,$0.27,false,02/05/2022,frequency purchase,$3.86,false,5/1/2022,Daily
+292,Valentia,Blackah,we missed you,$1.12,true,04/04/2022,abandoned cart,$1.03,true,8/19/2022,Never
+293,Dita,Barthelme,abandoned cart,$1.73,false,05/31/2022,cross product,$1.60,true,10/28/2022,Seldom
+294,Rana,Bragginton,abandoned cart,$3.06,false,11/29/2022,we missed you,$1.64,false,12/25/2022,Yearly
+295,Herbert,Bamlet,welcome,$1.25,true,04/18/2022,cross product,$4.09,true,4/27/2022,Often
+296,Griffie,Bosson,welcome,$5.77,true,09/06/2022,we missed you,$3.59,true,3/9/2022,Monthly
+297,Robbie,Yankishin,welcome,$3.00,true,03/14/2022,we missed you,$6.26,false,6/18/2022,Daily
+298,Tim,Burnard,cross product,$3.50,false,01/09/2022,we missed you,$3.01,true,7/4/2022,Yearly
+299,Tommie,Coneau,abandoned cart,$8.44,true,04/17/2022,product launch,$0.65,true,12/2/2022,Daily
+300,Philip,Vernazza,we missed you,$4.61,false,08/08/2022,cross product,$9.97,true,9/23/2022,Yearly
+301,Amalle,Rushton,we missed you,$8.88,false,10/25/2022,frequency purchase,$0.84,false,4/23/2022,Never
+302,Taber,Vanyakin,abandoned cart,$0.28,true,08/27/2022,product launch,$6.41,true,5/18/2022,Often
+303,Dori,Layzell,welcome,$1.60,false,06/02/2022,frequency purchase,$7.48,true,6/17/2022,Weekly
+304,Marthe,Larrett,product launch,$8.98,false,11/16/2022,product launch,$7.96,true,11/23/2022,Monthly
+305,Bail,Buntin,we missed you,$2.27,true,08/02/2022,we missed you,$6.45,true,7/3/2022,Seldom
+306,Luis,McKie,frequency purchase,$3.86,true,04/05/2022,cross product,$2.16,true,12/23/2022,Often
+307,Johnathan,Hurtic,welcome,$7.23,true,05/23/2022,product launch,$0.55,true,7/15/2022,Weekly
+308,Abbe,Tewkesberry,welcome,$2.87,false,11/06/2022,product launch,$9.46,true,7/24/2022,Once
+309,Bernadene,Coomer,welcome,$7.38,true,01/16/2022,cross product,$3.91,false,3/10/2022,Weekly
+310,Danyette,Gorini,we missed you,$0.74,false,03/10/2022,welcome,$2.14,true,2/2/2022,Never
+311,Stormy,Balaizot,cross product,$3.83,true,10/03/2022,product launch,$4.08,false,3/20/2022,Never
+312,Wendi,Roddick,frequency purchase,$5.73,false,09/05/2022,cross product,$7.08,false,2/17/2022,Weekly
+313,Gran,Annes,we missed you,$6.49,true,01/18/2022,cross product,$6.24,false,9/25/2022,Weekly
+314,Shirley,Millard,cross product,$9.41,true,03/13/2022,frequency purchase,$3.44,true,11/13/2022,Often
+315,Arly,Gambrell,frequency purchase,$2.78,false,02/19/2022,frequency purchase,$0.88,false,6/9/2022,Weekly
+316,Fiona,Piatek,product launch,$9.22,true,08/09/2022,product launch,$6.06,false,6/21/2022,Often
+317,Kaleb,Cusick,welcome,$8.55,true,05/18/2022,frequency purchase,$4.05,false,3/6/2022,Seldom
+318,Ced,Butchers,frequency purchase,$2.52,true,10/10/2022,we missed you,$5.98,false,5/27/2022,Daily
+319,Raphael,Calleja,abandoned cart,$0.13,false,03/07/2022,cross product,$6.91,false,11/18/2022,Often
+320,Bevvy,Coulman,we missed you,$8.24,true,10/31/2022,cross product,$5.43,true,9/12/2022,Often
+321,Danyette,Macak,abandoned cart,$6.68,true,10/02/2022,frequency purchase,$1.08,true,10/9/2022,Yearly
+322,Aguistin,Worsall,welcome,$2.16,false,05/08/2022,frequency purchase,$3.89,false,5/29/2022,Yearly
+323,Denys,Cornes,frequency purchase,$6.62,true,09/17/2022,welcome,$8.48,false,3/20/2022,Yearly
+324,Tabbie,Tisun,abandoned cart,$5.46,true,09/01/2022,product launch,$4.98,false,1/9/2022,Monthly
+325,Esdras,Insole,welcome,$7.80,false,09/11/2022,product launch,$0.16,true,5/5/2022,Daily
+326,Ellsworth,Keerl,product launch,$2.60,false,06/22/2022,cross product,$4.33,true,5/13/2022,Once
+327,Tedda,Gimblet,abandoned cart,$0.38,false,01/20/2022,we missed you,$5.12,false,10/11/2022,Daily
+328,Donaugh,Edy,welcome,$6.24,false,11/27/2022,frequency purchase,$5.95,true,1/12/2022,Once
+329,Lynett,Goodenough,welcome,$9.10,true,03/14/2022,frequency purchase,$7.76,false,11/9/2022,Weekly
+330,Othelia,Phinnessy,product launch,$7.83,false,05/25/2022,frequency purchase,$3.82,false,1/16/2022,Daily
+331,Rubina,Yakuntzov,abandoned cart,$1.61,false,07/23/2022,cross product,$7.25,false,4/19/2022,Monthly
+332,Andriana,Cawthery,we missed you,$0.50,true,05/02/2022,abandoned cart,$0.09,false,11/15/2022,Never
+333,Shari,Brittin,we missed you,$8.27,true,10/26/2022,welcome,$3.24,false,11/26/2022,Once
+334,Kiley,Bett,we missed you,$3.09,true,05/01/2022,cross product,$4.55,false,3/30/2022,Yearly
+335,Siffre,Mullineux,frequency purchase,$0.53,false,09/13/2022,frequency purchase,$7.71,false,4/12/2022,Never
+336,Elijah,Doull,product launch,$4.53,false,04/13/2022,frequency purchase,$0.38,true,11/21/2022,Yearly
+337,Angele,Dove,product launch,$1.15,true,07/20/2022,product launch,$6.85,false,2/5/2022,Monthly
+338,Ase,Berthod,product launch,$1.34,false,06/08/2022,product launch,$0.26,true,8/5/2022,Often
+339,Jackqueline,Burdfield,frequency purchase,$0.75,true,02/04/2022,we missed you,$9.03,false,9/23/2022,Weekly
+340,Jarred,Stonebridge,product launch,$6.33,false,02/06/2022,abandoned cart,$9.75,false,4/24/2022,Weekly
+341,Vick,Gounet,frequency purchase,$6.99,false,09/11/2022,frequency purchase,$8.50,true,3/23/2022,Yearly
+342,Eliza,Scala,welcome,$4.26,false,02/16/2022,frequency purchase,$9.07,false,11/28/2022,Once
+343,Rayna,Humpherson,product launch,$4.70,false,02/26/2022,welcome,$9.20,false,1/20/2022,Weekly
+344,Ogdon,Reddoch,we missed you,$2.54,true,11/08/2022,welcome,$4.47,true,10/4/2022,Often
+345,Lianne,MacMichael,product launch,$6.42,false,01/27/2022,we missed you,$7.19,false,11/15/2022,Never
+346,Arabele,Leavy,product launch,$6.49,false,08/09/2022,product launch,$7.52,false,4/28/2022,Seldom
+347,Gunilla,Warner,cross product,$3.57,true,03/28/2022,frequency purchase,$9.36,false,1/28/2022,Often
+348,Mireille,Tubridy,frequency purchase,$8.91,true,03/12/2022,welcome,$8.37,false,10/1/2022,Monthly
+349,Julie,Rex,product launch,$2.54,false,06/10/2022,product launch,$0.15,true,8/18/2022,Monthly
+350,Shannon,Dottridge,welcome,$6.59,true,04/09/2022,cross product,$2.94,true,10/23/2022,Once
+351,Kathye,Bimson,welcome,$1.41,true,05/22/2022,welcome,$7.44,true,9/10/2022,Often
+352,Claresta,Brunskill,abandoned cart,$1.64,false,11/24/2022,we missed you,$1.68,false,5/12/2022,Daily
+353,Skippie,Livsey,cross product,$9.85,false,05/09/2022,abandoned cart,$0.55,false,12/25/2022,Yearly
+354,Sheelagh,Loney,cross product,$3.60,false,02/20/2022,product launch,$6.33,true,4/18/2022,Often
+355,Ashil,Howbrook,welcome,$5.88,false,04/07/2022,welcome,$6.54,true,8/1/2022,Daily
+356,Addy,Cockayne,cross product,$9.64,true,07/24/2022,product launch,$0.19,true,5/7/2022,Often
+357,Randi,Farncombe,product launch,$4.09,true,06/02/2022,cross product,$4.86,false,6/27/2022,Weekly
+358,Brenna,Kapiloff,frequency purchase,$4.21,true,12/24/2022,product launch,$8.50,true,7/8/2022,Often
+359,Rodrick,Gaggen,frequency purchase,$6.66,true,11/04/2022,cross product,$3.94,false,4/10/2022,Weekly
+360,Blaine,Rimour,welcome,$3.57,false,07/07/2022,product launch,$7.37,true,12/24/2022,Once
+361,Amelia,Klimkiewich,welcome,$6.44,false,05/07/2022,we missed you,$3.98,true,3/26/2022,Often
+362,Andy,Cuerdall,frequency purchase,$5.74,true,09/29/2022,frequency purchase,$3.94,false,5/15/2022,Seldom
+363,Annice,Kenwrick,cross product,$9.41,true,12/07/2022,frequency purchase,$2.67,false,2/11/2022,Daily
+364,Jude,Heckner,frequency purchase,$3.83,true,10/24/2022,welcome,$3.01,true,11/4/2022,Never
+365,Igor,Cluff,product launch,$2.65,false,11/01/2022,welcome,$7.94,true,5/20/2022,Often
+366,Vergil,Sedwick,welcome,$0.82,true,06/18/2022,product launch,$6.82,true,5/2/2022,Yearly
+367,Gabie,MacDermott,frequency purchase,$1.00,false,08/13/2022,we missed you,$3.99,true,5/8/2022,Daily
+368,Marylou,Harsant,welcome,$9.91,true,10/23/2022,cross product,$3.49,true,7/28/2022,Once
+369,Sam,Mayston,product launch,$7.66,true,05/11/2022,cross product,$3.22,true,7/3/2022,Weekly
+370,Fanny,Grzelewski,cross product,$0.19,true,05/16/2022,cross product,$9.68,false,8/4/2022,Weekly
+371,Simona,Catteroll,product launch,$2.45,false,09/18/2022,welcome,$6.41,false,8/27/2022,Often
+372,Zenia,Arlidge,welcome,$4.89,true,04/27/2022,abandoned cart,$3.41,true,11/7/2022,Monthly
+373,Quintus,Frackiewicz,frequency purchase,$2.85,false,12/03/2022,cross product,$1.71,false,9/24/2022,Monthly
+374,Merv,Comsty,product launch,$2.08,true,01/30/2022,we missed you,$3.71,true,8/5/2022,Daily
+375,Toddy,Elbourn,product launch,$1.09,true,09/25/2022,product launch,$5.08,false,2/1/2022,Often
+376,Yard,Brayn,welcome,$4.02,true,10/18/2022,cross product,$1.71,false,10/12/2022,Once
+377,Janean,Bartomieu,we missed you,$7.11,true,10/25/2022,abandoned cart,$4.37,true,1/26/2022,Once
+378,Shannon,Bocking,cross product,$5.10,false,10/01/2022,we missed you,$8.10,true,12/4/2022,Once
+379,Traver,Pessolt,frequency purchase,$9.43,true,03/22/2022,welcome,$7.46,false,5/31/2022,Never
+380,Paige,Haighton,cross product,$3.59,true,03/06/2022,welcome,$2.30,false,8/27/2022,Yearly
+381,Kirk,Duguid,cross product,$1.03,true,12/16/2022,we missed you,$0.72,true,9/28/2022,Seldom
+382,Sherwin,Houndesome,product launch,$5.38,true,03/22/2022,welcome,$8.71,true,2/4/2022,Once
+383,Sissy,Pasque,product launch,$8.76,false,06/03/2022,frequency purchase,$3.59,false,3/8/2022,Daily
+384,Duncan,Markovich,we missed you,$0.93,false,05/22/2022,product launch,$4.86,true,4/15/2022,Monthly
+385,Kristen,Grimsdith,cross product,$4.43,true,09/16/2022,abandoned cart,$6.65,false,10/24/2022,Never
+386,Kippie,Gallymore,welcome,$0.94,true,04/20/2022,frequency purchase,$9.35,true,7/28/2022,Once
+387,Pearl,O' Neligan,cross product,$4.53,false,12/09/2022,welcome,$8.01,false,4/19/2022,Once
+388,Matty,Trainer,abandoned cart,$5.24,true,05/22/2022,abandoned cart,$3.04,false,5/27/2022,Never
+389,Georgy,Lanning,product launch,$0.96,false,11/13/2022,frequency purchase,$7.11,false,4/10/2022,Never
+390,Tersina,Ragbourne,we missed you,$9.85,false,11/25/2022,product launch,$3.15,false,12/16/2022,Seldom
+391,Sherrie,Langtry,product launch,$7.63,false,12/09/2022,product launch,$5.38,false,3/6/2022,Monthly
+392,Vanya,Kopke,welcome,$8.02,false,05/23/2022,we missed you,$2.21,true,8/2/2022,Monthly
+393,Camilla,Gliddon,abandoned cart,$0.41,true,12/26/2022,we missed you,$6.99,true,9/29/2022,Monthly
+394,Dall,Walsh,product launch,$6.99,true,03/25/2022,product launch,$0.43,true,1/3/2022,Seldom
+395,Jerri,Spence,cross product,$3.80,false,03/23/2022,welcome,$2.84,true,10/27/2022,Often
+396,Hal,Flukes,abandoned cart,$0.72,true,02/17/2022,we missed you,$0.19,true,3/11/2022,Weekly
+397,Manny,Geany,abandoned cart,$7.29,true,05/04/2022,cross product,$9.62,false,3/27/2022,Once
+398,Nikolia,MacPhaden,welcome,$0.22,false,12/24/2022,abandoned cart,$4.94,false,6/28/2022,Often
+399,Drona,Halfacre,welcome,$4.06,true,02/13/2022,product launch,$9.92,false,6/13/2022,Monthly
+400,Livvy,O'Garmen,welcome,$4.13,true,09/28/2022,frequency purchase,$2.05,false,7/11/2022,Yearly
+401,Trace,Swatton,cross product,$5.43,true,12/27/2022,product launch,$4.36,true,5/19/2022,Seldom
+402,Devin,Monget,cross product,$2.47,false,05/16/2022,abandoned cart,$1.19,false,11/14/2022,Yearly
+403,Jonie,Brader,welcome,$4.40,true,02/13/2022,welcome,$9.73,true,9/21/2022,Weekly
+404,Astra,Riguard,welcome,$0.63,true,04/30/2022,frequency purchase,$8.65,true,3/31/2022,Often
+405,Aline,Gladyer,cross product,$2.15,true,08/04/2022,welcome,$7.47,false,3/1/2022,Seldom
+406,Petra,Castiblanco,frequency purchase,$2.88,true,07/28/2022,frequency purchase,$7.80,true,10/9/2022,Monthly
+407,Jessie,Hars,welcome,$9.15,true,11/07/2022,welcome,$0.84,false,9/30/2022,Never
+408,Laney,Ewen,product launch,$0.96,true,03/10/2022,product launch,$4.58,false,1/12/2022,Daily
+409,Sydel,Blight,abandoned cart,$8.33,true,02/10/2022,frequency purchase,$3.69,false,9/17/2022,Yearly
+410,Tobe,Creaser,we missed you,$1.15,false,11/14/2022,we missed you,$4.01,false,4/7/2022,Never
+411,Thibaut,Rime,cross product,$4.45,true,02/01/2022,cross product,$6.64,true,5/17/2022,Once
+412,Ethelin,Ripon,abandoned cart,$0.55,true,06/29/2022,abandoned cart,$0.28,true,7/8/2022,Often
+413,Palmer,Virr,product launch,$7.72,false,06/11/2022,abandoned cart,$8.74,false,1/29/2022,Once
+414,Travis,Hugin,cross product,$5.17,true,01/29/2022,welcome,$9.68,true,9/7/2022,Daily
+415,Corly,Lanphere,welcome,$0.42,true,05/07/2022,frequency purchase,$6.16,true,2/26/2022,Never
+416,Roxie,Keymer,welcome,$9.30,true,07/23/2022,cross product,$3.23,false,8/18/2022,Daily
+417,Orella,Rampling,we missed you,$2.40,false,05/14/2022,frequency purchase,$7.87,false,1/13/2022,Never
+418,Anet,Kowalik,product launch,$4.99,false,09/11/2022,welcome,$3.48,true,5/24/2022,Seldom
+419,Alister,Dunkerk,product launch,$7.20,true,05/18/2022,welcome,$3.95,true,4/30/2022,Weekly
+420,Nilson,Jesper,we missed you,$9.90,false,03/25/2022,frequency purchase,$9.82,false,4/7/2022,Yearly
+421,Antin,Summergill,we missed you,$0.05,true,07/03/2022,cross product,$8.07,false,10/2/2022,Often
+422,Trudy,Bartolijn,product launch,$6.19,true,03/22/2022,abandoned cart,$0.08,false,1/1/2022,Daily
+423,Corey,Otson,welcome,$4.66,false,05/30/2022,cross product,$7.46,false,6/28/2022,Never
+424,Nady,Purvess,abandoned cart,$7.82,true,04/25/2022,we missed you,$0.91,false,8/17/2022,Yearly
+425,Homer,Haythornthwaite,we missed you,$3.02,false,05/08/2022,welcome,$0.76,true,8/6/2022,Often
+426,Juliet,Dyer,abandoned cart,$4.55,false,12/29/2022,frequency purchase,$1.45,false,10/25/2022,Daily
+427,Ericha,McGhee,we missed you,$8.82,false,08/07/2022,product launch,$2.69,true,1/16/2022,Often
+428,Letta,Stapylton,we missed you,$6.88,true,02/21/2022,abandoned cart,$1.58,false,4/14/2022,Seldom
+429,Noak,Coulthard,abandoned cart,$4.01,true,09/28/2022,frequency purchase,$3.17,false,7/2/2022,Seldom
+430,Gussie,Dulson,product launch,$7.10,true,04/11/2022,frequency purchase,$0.13,true,7/1/2022,Monthly
+431,Anthony,Camies,welcome,$7.52,false,03/23/2022,cross product,$6.17,false,9/7/2022,Daily
+432,Randa,Breche,abandoned cart,$6.89,false,08/21/2022,we missed you,$3.74,false,7/4/2022,Yearly
+433,Elana,Votier,abandoned cart,$4.65,false,05/19/2022,cross product,$5.65,false,7/26/2022,Monthly
+434,Nanci,Staves,we missed you,$1.51,true,01/25/2022,welcome,$0.03,true,6/18/2022,Never
+435,Mariejeanne,Robison,frequency purchase,$5.73,true,09/24/2022,product launch,$3.84,false,12/7/2022,Yearly
+436,Andrea,Abrahamson,we missed you,$6.72,true,12/10/2022,abandoned cart,$4.89,true,2/21/2022,Monthly
+437,Dore,Wrennall,product launch,$3.39,true,06/08/2022,abandoned cart,$0.49,false,7/23/2022,Seldom
+438,Lianna,Bance,welcome,$8.78,false,12/20/2022,welcome,$5.26,false,12/12/2022,Never
+439,Ruddy,Sillwood,we missed you,$0.84,false,01/28/2022,we missed you,$0.85,false,10/25/2022,Monthly
+440,Samantha,Kensington,frequency purchase,$5.92,true,03/06/2022,welcome,$8.99,false,10/14/2022,Never
+441,Ogden,Gaymar,cross product,$1.82,true,10/13/2022,abandoned cart,$3.93,false,8/11/2022,Monthly
+442,Stan,Pavlik,frequency purchase,$0.77,false,06/06/2022,welcome,$4.81,true,7/28/2022,Once
+443,Edee,Stooke,cross product,$9.53,false,09/01/2022,cross product,$4.02,false,7/4/2022,Never
+444,Vick,Rudge,welcome,$5.42,true,04/30/2022,frequency purchase,$5.45,true,4/12/2022,Daily
+445,Liva,Korous,welcome,$1.60,false,02/05/2022,product launch,$4.97,true,4/28/2022,Weekly
+446,Purcell,Whitchurch,product launch,$2.29,false,05/28/2022,we missed you,$5.19,true,9/30/2022,Once
+447,Baird,Jaggli,abandoned cart,$2.91,true,06/18/2022,product launch,$1.56,true,2/26/2022,Weekly
+448,Annette,Lathy,abandoned cart,$7.90,true,06/13/2022,frequency purchase,$6.11,false,1/20/2022,Yearly
+449,Fern,Cordall,welcome,$2.30,true,07/31/2022,welcome,$5.61,true,12/6/2022,Monthly
+450,Salomi,Keightley,we missed you,$5.22,true,01/27/2022,abandoned cart,$2.29,true,7/26/2022,Daily
+451,Leese,Fain,product launch,$1.20,true,06/30/2022,product launch,$1.13,false,2/12/2022,Yearly
+452,Mandel,Clelle,abandoned cart,$7.05,true,08/04/2022,welcome,$5.66,false,3/4/2022,Yearly
+453,Zeke,Akam,abandoned cart,$6.40,true,09/01/2022,cross product,$6.44,false,6/15/2022,Often
+454,Sergei,Mateu,product launch,$8.41,true,11/17/2022,frequency purchase,$3.23,true,3/6/2022,Often
+455,Corrianne,Rasher,abandoned cart,$0.02,true,11/09/2022,welcome,$8.69,true,1/9/2022,Monthly
+456,Vinny,Wehnerr,product launch,$0.97,true,02/23/2022,abandoned cart,$7.68,true,2/16/2022,Monthly
+457,Ilene,Shorte,cross product,$1.12,false,02/15/2022,product launch,$0.16,false,12/15/2022,Daily
+458,Mariam,McCarle,abandoned cart,$5.94,false,01/16/2022,abandoned cart,$9.95,false,4/26/2022,Seldom
+459,Jacenta,Casassa,frequency purchase,$3.36,false,07/27/2022,product launch,$2.34,true,1/2/2022,Seldom
+460,Valina,Coppeard,abandoned cart,$5.41,true,02/25/2022,welcome,$8.87,true,7/7/2022,Seldom
+461,Elayne,Boutellier,we missed you,$4.72,false,09/27/2022,abandoned cart,$2.28,true,3/24/2022,Often
+462,Don,Du Fray,product launch,$5.73,false,05/04/2022,abandoned cart,$3.68,false,6/22/2022,Yearly
+463,Hermine,Fresson,we missed you,$9.26,true,03/20/2022,abandoned cart,$8.85,true,6/7/2022,Often
+464,Bobby,Towse,frequency purchase,$4.50,true,03/15/2022,frequency purchase,$8.40,true,10/6/2022,Monthly
+465,Fletcher,Puzey,we missed you,$0.66,true,04/22/2022,abandoned cart,$2.77,false,12/22/2022,Never
+466,Dalila,Ceeley,we missed you,$8.12,false,03/23/2022,abandoned cart,$7.87,true,10/28/2022,Weekly
+467,Horatius,Leahair,cross product,$2.19,true,08/14/2022,frequency purchase,$1.63,true,3/23/2022,Never
+468,Gertrude,Collete,we missed you,$0.50,false,06/13/2022,welcome,$4.89,false,6/24/2022,Weekly
+469,Brianne,Jowitt,abandoned cart,$9.67,true,11/05/2022,we missed you,$5.26,false,2/23/2022,Daily
+470,Roxane,Finlay,frequency purchase,$5.36,false,04/09/2022,welcome,$5.06,true,8/16/2022,Often
+471,Kittie,McCreadie,frequency purchase,$0.23,true,10/26/2022,abandoned cart,$6.65,true,2/10/2022,Daily
+472,Myrlene,Medlin,product launch,$0.11,true,11/06/2022,product launch,$6.02,true,12/14/2022,Monthly
+473,Laina,Feitosa,frequency purchase,$3.01,false,10/28/2022,frequency purchase,$7.88,true,11/5/2022,Once
+474,Ines,Swyer,abandoned cart,$6.13,false,04/18/2022,product launch,$5.98,true,6/24/2022,Yearly
+475,Irv,Campbell,product launch,$6.23,true,11/14/2022,cross product,$0.33,false,6/15/2022,Seldom
+476,Orton,Draisey,we missed you,$4.95,false,03/23/2022,welcome,$0.61,false,2/12/2022,Monthly
+477,Reinaldo,Emloch,we missed you,$9.69,false,09/03/2022,abandoned cart,$6.43,true,1/10/2022,Never
+478,Chelsae,O' Liddy,cross product,$5.66,false,08/15/2022,frequency purchase,$2.08,true,10/25/2022,Monthly
+479,Sileas,Mathely,frequency purchase,$4.96,false,04/01/2022,product launch,$4.59,true,8/24/2022,Never
+480,Kev,Croy,welcome,$6.11,true,03/06/2022,abandoned cart,$9.37,false,11/7/2022,Monthly
+481,Cynthy,Rozanski,abandoned cart,$4.66,false,06/27/2022,cross product,$2.51,true,11/20/2022,Weekly
+482,Louella,Evemy,frequency purchase,$4.21,true,10/31/2022,abandoned cart,$6.85,true,1/5/2022,Yearly
+483,Maryanne,Gaukroger,product launch,$7.78,false,01/07/2022,we missed you,$7.88,true,5/6/2022,Weekly
+484,Darby,Meiklem,frequency purchase,$6.66,false,07/04/2022,product launch,$4.45,false,11/7/2022,Often
+485,Bradly,True,we missed you,$9.48,false,04/13/2022,abandoned cart,$3.61,true,7/22/2022,Weekly
+486,Wilmar,Rawlence,product launch,$4.62,false,11/20/2022,product launch,$8.06,true,3/25/2022,Seldom
+487,Rod,Kirkhouse,frequency purchase,$6.16,true,03/06/2022,we missed you,$1.19,true,4/3/2022,Daily
+488,Edi,Ingerfield,cross product,$1.86,false,08/23/2022,welcome,$6.63,true,7/1/2022,Seldom
+489,Neal,Hardin,abandoned cart,$6.02,true,08/06/2022,frequency purchase,$1.36,false,9/19/2022,Once
+490,Jacquette,Puddle,we missed you,$5.05,true,02/05/2022,welcome,$7.43,true,9/7/2022,Never
+491,Trix,Valente,frequency purchase,$9.12,true,09/24/2022,product launch,$9.96,false,9/7/2022,Never
+492,Brittne,Pinke,abandoned cart,$7.19,true,05/28/2022,we missed you,$0.92,true,6/18/2022,Never
+493,Parry,Naseby,frequency purchase,$0.30,true,04/30/2022,frequency purchase,$0.60,false,11/4/2022,Seldom
+494,Barth,Trythall,product launch,$0.92,true,04/28/2022,cross product,$5.23,true,11/6/2022,Monthly
+495,Callie,Roche,cross product,$0.94,true,02/08/2022,we missed you,$2.53,true,6/15/2022,Often
+496,Imojean,Haitlie,product launch,$0.49,true,10/02/2022,we missed you,$7.44,false,2/18/2022,Never
+497,Krisha,Jencey,abandoned cart,$9.99,false,03/10/2022,welcome,$4.92,true,1/10/2022,Once
+498,Sampson,Llewelyn,cross product,$0.52,false,11/12/2022,frequency purchase,$2.91,true,9/1/2022,Often
+499,Dickie,Houlton,we missed you,$1.00,true,03/06/2022,product launch,$8.77,true,5/13/2022,Often
+500,Colin,Parkman,we missed you,$9.70,true,06/05/2022,welcome,$4.44,false,4/22/2022,Yearly
+501,Shurwood,O'Fihily,frequency purchase,$6.59,false,06/22/2022,abandoned cart,$1.95,true,11/29/2022,Weekly
+502,Rudd,Le Port,product launch,$8.31,true,02/05/2022,abandoned cart,$4.97,true,3/25/2022,Monthly
+503,Aline,Christescu,cross product,$9.13,false,06/21/2022,cross product,$5.10,true,11/28/2022,Yearly
+504,Barnett,Elvey,frequency purchase,$9.18,true,05/29/2022,abandoned cart,$8.56,false,6/26/2022,Never
+505,Dahlia,Kitney,welcome,$5.85,false,02/21/2022,product launch,$7.43,false,2/4/2022,Never
+506,Erena,Klich,frequency purchase,$1.89,true,05/31/2022,cross product,$6.00,false,9/13/2022,Once
+507,Vick,Casetta,cross product,$9.34,false,02/25/2022,frequency purchase,$7.15,false,1/12/2022,Daily
+508,Camey,Briatt,frequency purchase,$4.07,false,07/17/2022,product launch,$9.70,false,2/24/2022,Yearly
+509,Xenos,Blyth,product launch,$4.73,false,12/26/2022,frequency purchase,$6.04,true,4/24/2022,Seldom
+510,Stefa,Espinel,we missed you,$7.95,true,10/04/2022,product launch,$0.02,false,12/22/2022,Weekly
+511,Isidora,Valenti,product launch,$2.62,false,03/21/2022,frequency purchase,$6.56,true,1/16/2022,Once
+512,Sigismund,Cisar,frequency purchase,$6.29,false,07/21/2022,welcome,$2.78,true,12/5/2022,Monthly
+513,Pryce,Oppie,we missed you,$6.74,false,02/23/2022,cross product,$4.09,true,3/25/2022,Yearly
+514,Clare,De Caroli,abandoned cart,$1.11,true,06/20/2022,product launch,$5.92,false,1/25/2022,Never
+515,Aurie,Kime,frequency purchase,$5.10,true,01/05/2022,abandoned cart,$8.91,true,1/22/2022,Often
+516,Gwenora,Vasin,abandoned cart,$6.12,false,11/03/2022,welcome,$5.65,true,5/1/2022,Daily
+517,Glen,Raisbeck,abandoned cart,$7.07,true,10/27/2022,product launch,$7.18,true,7/23/2022,Daily
+518,Jordanna,Furneaux,frequency purchase,$3.96,true,08/22/2022,abandoned cart,$7.63,false,5/6/2022,Seldom
+519,Caye,Elsip,abandoned cart,$0.26,false,10/25/2022,frequency purchase,$0.94,false,4/4/2022,Seldom
+520,Gui,Birkwood,product launch,$2.57,false,05/08/2022,product launch,$1.45,false,12/19/2022,Never
+521,Dasha,Rodenburg,cross product,$3.23,false,04/08/2022,frequency purchase,$4.30,false,6/30/2022,Monthly
+522,Lesly,Jansey,cross product,$3.71,false,04/15/2022,cross product,$6.60,true,2/12/2022,Once
+523,Curr,Filde,we missed you,$1.54,false,04/07/2022,cross product,$4.75,false,5/20/2022,Daily
+524,Arvin,Jaqueminet,welcome,$9.62,false,02/14/2022,cross product,$8.65,false,11/2/2022,Once
+525,Jacquenetta,Behnen,welcome,$4.92,false,06/02/2022,product launch,$9.09,false,11/13/2022,Yearly
+526,Nettie,Flatt,product launch,$4.43,false,03/19/2022,welcome,$9.61,true,10/13/2022,Seldom
+527,Meredeth,Bishell,abandoned cart,$8.61,false,02/15/2022,abandoned cart,$0.07,true,9/7/2022,Daily
+528,Leigh,Tune,frequency purchase,$2.76,false,09/13/2022,cross product,$8.31,true,6/25/2022,Seldom
+529,Amaleta,Siemon,frequency purchase,$5.15,false,01/25/2022,we missed you,$8.33,false,9/20/2022,Often
+530,Mehetabel,Wellen,frequency purchase,$4.18,true,05/09/2022,frequency purchase,$7.89,false,2/16/2022,Seldom
+531,Angy,Cristobal,frequency purchase,$5.88,true,06/21/2022,welcome,$1.06,true,1/31/2022,Daily
+532,Jabez,Hebblethwaite,welcome,$4.97,true,05/27/2022,we missed you,$7.56,true,1/21/2022,Once
+533,Silvia,Benzies,product launch,$5.78,false,12/22/2022,frequency purchase,$9.71,true,12/8/2022,Weekly
+534,Kristo,Conrad,abandoned cart,$2.12,true,01/15/2022,abandoned cart,$9.00,true,12/12/2022,Monthly
+535,Pete,Vasile,we missed you,$9.02,false,07/25/2022,cross product,$1.64,false,6/26/2022,Seldom
+536,Louisa,Simoneschi,we missed you,$2.79,true,07/08/2022,we missed you,$6.12,false,9/19/2022,Daily
+537,Gerrie,Drogan,frequency purchase,$8.57,false,04/19/2022,abandoned cart,$6.72,true,10/19/2022,Never
+538,Felisha,Bottoner,we missed you,$6.01,true,03/31/2022,we missed you,$1.97,true,9/2/2022,Once
+539,Shara,Clemence,product launch,$4.24,true,03/09/2022,frequency purchase,$9.48,false,11/3/2022,Never
+540,Aviva,Lavarack,we missed you,$5.72,true,06/29/2022,cross product,$2.80,false,7/21/2022,Once
+541,Wayland,Holston,frequency purchase,$8.70,false,09/13/2022,welcome,$8.46,false,4/11/2022,Daily
+542,Jordain,Gerrie,product launch,$0.11,true,10/03/2022,frequency purchase,$1.40,true,5/11/2022,Yearly
+543,Cortie,Dwelling,we missed you,$7.75,true,04/29/2022,frequency purchase,$7.91,false,3/31/2022,Often
+544,Natala,Allbones,product launch,$0.82,false,04/02/2022,frequency purchase,$3.41,true,7/1/2022,Weekly
+545,Chen,De La Coste,product launch,$2.90,true,10/09/2022,product launch,$5.21,true,9/22/2022,Often
+546,Estrella,Alldre,product launch,$7.67,false,01/05/2022,product launch,$0.08,false,11/30/2022,Seldom
+547,Gerianna,Beininck,welcome,$2.37,false,11/17/2022,we missed you,$1.48,true,6/21/2022,Once
+548,Josias,Ullyatt,frequency purchase,$3.48,true,06/20/2022,abandoned cart,$0.15,false,4/3/2022,Daily
+549,Alf,Rosendale,product launch,$4.87,false,10/29/2022,abandoned cart,$2.99,false,4/30/2022,Daily
+550,Hedy,Cancelier,abandoned cart,$3.33,true,11/04/2022,frequency purchase,$5.83,true,12/11/2022,Often
+551,Brade,Batcock,product launch,$4.23,true,03/20/2022,product launch,$4.46,false,8/31/2022,Seldom
+552,Andie,Brade,welcome,$5.09,true,09/04/2022,welcome,$4.45,true,1/16/2022,Often
+553,Bev,Piccop,we missed you,$9.49,true,04/07/2022,frequency purchase,$2.60,true,7/25/2022,Weekly
+554,Brier,Faudrie,welcome,$9.43,true,03/27/2022,abandoned cart,$4.24,false,11/4/2022,Weekly
+555,Byran,Lambird,we missed you,$7.61,true,07/28/2022,welcome,$6.15,true,12/4/2022,Once
+556,Lela,Clemon,we missed you,$7.91,false,06/13/2022,welcome,$6.79,false,7/20/2022,Weekly
+557,Sharron,Pouton,cross product,$4.68,false,02/17/2022,product launch,$8.76,true,4/25/2022,Monthly
+558,Raymond,Inder,frequency purchase,$4.49,true,01/01/2022,product launch,$9.65,true,6/2/2022,Monthly
+559,Ricki,Skirvane,frequency purchase,$8.32,false,06/28/2022,product launch,$5.01,true,11/10/2022,Seldom
+560,Katrinka,Seamark,frequency purchase,$7.02,true,06/15/2022,we missed you,$9.53,false,11/27/2022,Once
+561,Raul,McCallum,frequency purchase,$0.73,false,11/17/2022,cross product,$0.15,true,4/4/2022,Never
+562,Maura,Fargie,product launch,$1.09,false,01/06/2022,product launch,$8.85,false,9/20/2022,Daily
+563,Newton,Clutton,cross product,$2.40,true,03/17/2022,cross product,$8.10,false,11/28/2022,Yearly
+564,Evania,Bernath,we missed you,$6.54,true,07/02/2022,product launch,$9.15,false,4/8/2022,Never
+565,Saraann,Pellatt,product launch,$6.98,false,05/24/2022,abandoned cart,$2.24,true,11/7/2022,Once
+566,Mandy,Gandley,abandoned cart,$7.75,false,04/07/2022,abandoned cart,$4.97,true,5/30/2022,Weekly
+567,Rinaldo,Raycroft,abandoned cart,$3.80,false,11/11/2022,frequency purchase,$3.21,false,9/23/2022,Monthly
+568,Giselbert,Kirton,frequency purchase,$3.28,false,11/21/2022,welcome,$0.51,false,6/10/2022,Daily
+569,Roanne,Dall,cross product,$3.40,true,05/24/2022,welcome,$8.65,false,11/23/2022,Monthly
+570,Abra,Ortells,we missed you,$6.21,false,03/12/2022,frequency purchase,$3.61,true,12/1/2022,Often
+571,Ardith,Shapland,frequency purchase,$2.27,false,03/10/2022,welcome,$8.34,true,11/18/2022,Daily
+572,Natalya,Kirkam,cross product,$8.19,false,11/30/2022,abandoned cart,$5.31,false,4/22/2022,Seldom
+573,Dorine,Jeff,frequency purchase,$2.49,false,12/06/2022,abandoned cart,$7.51,true,2/2/2022,Often
+574,Grove,Segrott,product launch,$9.48,false,10/18/2022,we missed you,$1.31,false,6/10/2022,Seldom
+575,Noland,Shilstone,cross product,$9.86,true,07/27/2022,welcome,$8.77,true,3/19/2022,Once
+576,Hulda,Fearey,welcome,$2.97,true,11/10/2022,frequency purchase,$2.83,false,6/12/2022,Daily
+577,Ann-marie,Rabbage,cross product,$0.82,true,11/23/2022,welcome,$0.13,true,2/2/2022,Yearly
+578,Ferguson,Gilhespy,product launch,$7.32,false,10/28/2022,cross product,$8.41,false,9/19/2022,Never
+579,Dunstan,Cumes,welcome,$6.10,false,03/16/2022,cross product,$1.67,true,4/30/2022,Once
+580,Forester,Zorener,cross product,$8.13,true,05/31/2022,product launch,$7.66,true,2/26/2022,Once
+581,Hakim,Radley,we missed you,$5.62,true,04/12/2022,we missed you,$2.53,false,11/1/2022,Never
+582,Marissa,Le Ball,frequency purchase,$1.62,false,12/29/2022,abandoned cart,$6.59,true,1/19/2022,Never
+583,Jo,Forster,we missed you,$4.80,true,10/05/2022,we missed you,$6.03,true,2/17/2022,Weekly
+584,Fulvia,Learoid,frequency purchase,$0.99,true,07/05/2022,we missed you,$7.99,false,2/1/2022,Daily
+585,Harri,Fortnam,we missed you,$0.05,false,02/04/2022,abandoned cart,$1.16,false,7/4/2022,Yearly
+586,Shannon,Denney,welcome,$3.26,true,09/24/2022,we missed you,$6.41,true,7/20/2022,Monthly
+587,Jermain,Duckworth,abandoned cart,$9.03,true,07/01/2022,product launch,$6.61,true,11/14/2022,Once
+588,Ardelle,Storrar,product launch,$2.69,false,06/12/2022,we missed you,$4.90,false,7/12/2022,Daily
+589,Gino,Primak,frequency purchase,$5.18,false,01/16/2022,abandoned cart,$0.33,true,5/22/2022,Seldom
+590,Lark,Trayton,we missed you,$8.43,true,06/16/2022,frequency purchase,$2.78,false,3/25/2022,Monthly
+591,Ellsworth,Truswell,product launch,$6.44,true,08/18/2022,cross product,$7.79,true,9/13/2022,Daily
+592,Rene,Marjanovic,cross product,$0.79,true,12/16/2022,we missed you,$5.92,false,2/26/2022,Monthly
+593,Barbaraanne,Haensel,we missed you,$3.88,false,09/26/2022,welcome,$3.79,false,5/30/2022,Seldom
+594,Leanor,Muirhead,welcome,$8.84,true,12/22/2022,welcome,$8.51,true,10/24/2022,Often
+595,Melvyn,McColl,frequency purchase,$9.68,true,04/14/2022,product launch,$0.97,false,7/11/2022,Daily
+596,Daphne,Haverson,product launch,$6.99,true,10/07/2022,abandoned cart,$9.06,true,11/27/2022,Often
+597,Zara,Larrat,abandoned cart,$2.18,false,08/16/2022,we missed you,$0.71,true,12/29/2022,Seldom
+598,Emanuele,Ewbanks,we missed you,$8.22,true,02/18/2022,frequency purchase,$9.35,false,3/12/2022,Weekly
+599,Ailyn,Haggath,abandoned cart,$5.46,false,05/21/2022,abandoned cart,$4.36,true,7/7/2022,Seldom
+600,Ginelle,Carle,product launch,$7.46,false,10/09/2022,frequency purchase,$7.02,true,11/26/2022,Seldom
+601,Sascha,Capron,abandoned cart,$2.04,true,02/15/2022,we missed you,$6.12,false,3/12/2022,Yearly
+602,Llywellyn,Sproson,we missed you,$9.08,true,10/31/2022,cross product,$4.57,false,11/16/2022,Monthly
+603,Rica,Legerwood,product launch,$6.71,false,03/31/2022,we missed you,$3.41,false,3/12/2022,Never
+604,Raleigh,Stirman,welcome,$2.25,false,04/25/2022,we missed you,$9.26,false,4/21/2022,Seldom
+605,Francesca,Valintine,abandoned cart,$9.23,true,10/21/2022,frequency purchase,$1.28,true,4/4/2022,Never
+606,Di,Farlamb,we missed you,$0.48,true,02/03/2022,abandoned cart,$9.49,false,2/1/2022,Seldom
+607,Basia,Wyre,welcome,$1.81,false,01/11/2022,product launch,$7.71,true,7/20/2022,Weekly
+608,Phillip,Crowth,frequency purchase,$2.59,false,08/25/2022,abandoned cart,$7.50,false,9/19/2022,Once
+609,Mozelle,Pattisson,abandoned cart,$0.15,true,06/29/2022,abandoned cart,$5.94,true,3/20/2022,Daily
+610,Frasco,Brussell,welcome,$8.30,true,03/18/2022,we missed you,$1.27,true,11/7/2022,Never
+611,Anastasia,Comellini,we missed you,$1.84,true,01/24/2022,we missed you,$1.48,true,2/22/2022,Daily
+612,Anette,Boultwood,cross product,$8.18,false,02/18/2022,we missed you,$8.92,false,11/20/2022,Daily
+613,Iolanthe,Romanski,cross product,$3.24,false,07/19/2022,we missed you,$6.31,false,1/27/2022,Yearly
+614,Fannie,Shew,frequency purchase,$2.79,true,10/28/2022,cross product,$8.51,true,9/11/2022,Often
+615,Udall,Waitland,abandoned cart,$3.35,true,11/25/2022,product launch,$0.59,false,1/28/2022,Once
+616,Phillipp,Boulsher,welcome,$7.90,true,04/03/2022,abandoned cart,$6.22,true,6/13/2022,Yearly
+617,Lavina,Streetfield,cross product,$8.47,true,10/11/2022,cross product,$0.22,false,4/17/2022,Often
+618,Emlynn,Shaves,product launch,$5.16,false,10/10/2022,cross product,$5.85,false,2/24/2022,Daily
+619,Lin,Vaskin,abandoned cart,$2.88,false,05/10/2022,welcome,$5.10,false,11/16/2022,Monthly
+620,Calhoun,Rowena,product launch,$3.05,true,10/21/2022,we missed you,$8.52,true,9/24/2022,Daily
+621,Andriana,Greve,cross product,$8.89,false,10/08/2022,frequency purchase,$1.65,false,2/14/2022,Monthly
+622,Garrott,Hendrix,we missed you,$4.05,false,02/06/2022,welcome,$0.86,true,10/13/2022,Never
+623,Aundrea,Harlow,welcome,$5.29,false,05/21/2022,cross product,$2.56,false,6/6/2022,Seldom
+624,Leonanie,Byars,abandoned cart,$1.99,false,12/25/2022,abandoned cart,$6.60,true,4/23/2022,Monthly
+625,Debee,Jeskin,product launch,$3.43,false,07/25/2022,product launch,$1.91,true,6/2/2022,Yearly
+626,Ileane,Karlicek,welcome,$6.77,true,09/13/2022,abandoned cart,$7.02,false,11/24/2022,Daily
+627,Adelind,Southard,abandoned cart,$6.09,false,07/07/2022,product launch,$5.73,true,1/12/2022,Once
+628,Marylynne,Rickardes,abandoned cart,$8.08,false,12/03/2022,frequency purchase,$1.42,false,6/4/2022,Weekly
+629,Millisent,Littler,cross product,$8.68,true,04/05/2022,we missed you,$3.71,false,11/24/2022,Often
+630,Abner,Hembry,welcome,$9.38,false,11/07/2022,we missed you,$0.48,false,7/20/2022,Weekly
+631,Carmelita,Maase,abandoned cart,$5.73,false,03/31/2022,product launch,$9.05,true,2/19/2022,Seldom
+632,Nissy,Comrie,abandoned cart,$6.02,true,03/02/2022,frequency purchase,$8.46,true,6/29/2022,Daily
+633,Hunt,Sandyford,product launch,$9.86,true,06/04/2022,cross product,$6.60,false,9/20/2022,Yearly
+634,Hollyanne,Dymick,cross product,$8.37,true,09/01/2022,product launch,$5.88,true,6/30/2022,Seldom
+635,Anne,Macartney,we missed you,$3.46,false,02/27/2022,abandoned cart,$6.01,false,4/15/2022,Daily
+636,Gilly,Dundridge,abandoned cart,$2.67,true,07/24/2022,welcome,$4.39,true,3/29/2022,Daily
+637,Marsh,Dubois,abandoned cart,$6.11,false,11/17/2022,abandoned cart,$1.08,false,2/19/2022,Weekly
+638,Horatia,Zimmerman,we missed you,$4.06,true,04/02/2022,frequency purchase,$2.83,false,9/22/2022,Never
+639,Catriona,Klimov,abandoned cart,$5.57,false,10/16/2022,we missed you,$7.62,false,6/21/2022,Once
+640,Cacilia,Chater,we missed you,$6.98,false,10/15/2022,product launch,$3.76,true,2/24/2022,Often
+641,Gal,Brixey,abandoned cart,$7.65,true,08/31/2022,abandoned cart,$0.95,false,6/29/2022,Daily
+642,Linnie,Smithson,abandoned cart,$7.82,false,11/06/2022,we missed you,$9.85,false,8/12/2022,Seldom
+643,Veradis,McCrone,abandoned cart,$9.90,true,08/03/2022,we missed you,$2.69,false,11/15/2022,Weekly
+644,Katrina,Nelthrop,product launch,$1.84,false,01/16/2022,abandoned cart,$5.04,false,10/13/2022,Yearly
+645,Kaitlyn,Olwen,product launch,$8.32,false,11/06/2022,frequency purchase,$0.66,true,12/14/2022,Yearly
+646,Tye,Poschel,cross product,$4.50,true,12/29/2022,welcome,$8.48,false,10/9/2022,Often
+647,Odelinda,Hartfield,abandoned cart,$9.06,false,05/06/2022,product launch,$6.00,true,11/11/2022,Seldom
+648,Nalani,Poston,product launch,$8.62,true,05/15/2022,frequency purchase,$0.54,true,9/4/2022,Often
+649,Rori,Mothersole,abandoned cart,$2.48,true,02/24/2022,cross product,$3.76,false,4/18/2022,Daily
+650,Cedric,Shenfish,welcome,$3.97,false,03/16/2022,frequency purchase,$0.50,true,11/1/2022,Daily
+651,Whitney,Botright,abandoned cart,$2.78,false,01/16/2022,product launch,$9.25,false,10/14/2022,Once
+652,Norene,Wison,welcome,$4.26,false,09/26/2022,frequency purchase,$0.64,false,6/26/2022,Seldom
+653,Rosalind,Laverock,welcome,$2.89,false,12/22/2022,welcome,$8.44,false,6/12/2022,Daily
+654,Maryjo,Hazlegrove,cross product,$9.56,false,02/18/2022,cross product,$4.47,true,3/9/2022,Once
+655,Fredi,Scole,product launch,$9.04,false,01/31/2022,frequency purchase,$3.86,true,6/19/2022,Yearly
+656,Marjorie,Eads,product launch,$6.40,false,03/16/2022,product launch,$8.35,true,7/22/2022,Never
+657,Ashlie,Mishaw,abandoned cart,$7.31,false,04/19/2022,welcome,$9.67,false,1/13/2022,Weekly
+658,Germain,Delph,product launch,$1.42,true,01/25/2022,product launch,$9.23,true,9/12/2022,Seldom
+659,Brennan,Nussen,product launch,$4.11,true,10/26/2022,frequency purchase,$9.45,false,6/14/2022,Never
+660,Garald,Mea,frequency purchase,$0.64,false,10/19/2022,welcome,$5.57,false,8/24/2022,Daily
+661,Baryram,Awty,we missed you,$0.86,false,01/25/2022,product launch,$8.24,false,5/13/2022,Yearly
+662,Colman,Buddle,product launch,$9.60,false,07/05/2022,frequency purchase,$1.65,true,12/25/2022,Monthly
+663,Giorgia,Foulsham,product launch,$0.94,true,01/02/2022,cross product,$0.40,true,6/25/2022,Never
+664,Bertie,St Ledger,we missed you,$8.64,false,12/20/2022,welcome,$7.96,true,4/25/2022,Weekly
+665,Delcina,Luttgert,we missed you,$3.27,false,07/05/2022,abandoned cart,$8.20,true,6/9/2022,Yearly
+666,Carmelle,Dyble,we missed you,$2.76,true,06/13/2022,abandoned cart,$2.89,false,5/7/2022,Seldom
+667,Mart,Lapere,abandoned cart,$0.46,false,06/13/2022,product launch,$4.85,false,10/17/2022,Seldom
+668,Helena,Pidgeon,welcome,$5.12,true,05/29/2022,abandoned cart,$4.44,false,1/18/2022,Never
+669,Delainey,Pappin,cross product,$7.18,true,07/01/2022,abandoned cart,$4.53,false,10/13/2022,Never
+670,Jefferson,Oakenfall,we missed you,$4.30,false,12/26/2022,product launch,$2.04,true,8/15/2022,Monthly
+671,Koren,Birks,cross product,$5.40,true,09/30/2022,product launch,$3.71,false,10/12/2022,Never
+672,Blair,Bland,frequency purchase,$6.90,false,06/18/2022,abandoned cart,$1.58,false,2/7/2022,Never
+673,Michaelina,Nacey,we missed you,$4.46,true,08/14/2022,cross product,$4.79,true,8/2/2022,Once
+674,Kaspar,Skirving,frequency purchase,$6.99,true,02/13/2022,we missed you,$1.83,false,8/23/2022,Seldom
+675,Ashlee,Blanden,we missed you,$8.10,true,06/25/2022,cross product,$5.97,false,4/3/2022,Seldom
+676,Laverna,Burbury,cross product,$8.66,true,06/12/2022,we missed you,$7.57,false,9/7/2022,Often
+677,Stephanus,Haynesford,welcome,$4.16,true,06/12/2022,product launch,$9.60,false,7/5/2022,Never
+678,Wynn,Houndesome,frequency purchase,$7.43,true,06/04/2022,we missed you,$1.14,false,8/9/2022,Monthly
+679,Justina,Cosgriff,abandoned cart,$9.76,true,06/22/2022,cross product,$0.13,false,5/31/2022,Never
+680,Leeanne,Rosellini,we missed you,$6.69,false,09/22/2022,cross product,$2.42,true,5/15/2022,Often
+681,Heywood,Strongman,abandoned cart,$1.32,false,12/19/2022,abandoned cart,$5.77,false,1/30/2022,Monthly
+682,Bil,Iozefovich,frequency purchase,$0.85,false,06/06/2022,welcome,$9.22,true,9/20/2022,Weekly
+683,Lucian,Cantopher,cross product,$9.88,true,01/07/2022,welcome,$5.71,true,8/7/2022,Seldom
+684,Morris,Van der Krui,abandoned cart,$2.26,false,01/21/2022,product launch,$3.45,false,5/28/2022,Once
+685,Britta,Cowill,welcome,$3.55,false,10/03/2022,welcome,$7.09,false,3/11/2022,Daily
+686,Rebeka,Merritt,we missed you,$6.26,false,09/05/2022,welcome,$1.40,false,9/17/2022,Daily
+687,Kelcy,Downage,abandoned cart,$9.69,true,01/04/2022,abandoned cart,$8.80,false,11/8/2022,Often
+688,Napoleon,Schettini,cross product,$7.90,true,08/30/2022,welcome,$3.55,false,4/25/2022,Often
+689,Lorenza,Elphick,abandoned cart,$5.46,true,11/25/2022,frequency purchase,$9.87,false,4/16/2022,Yearly
+690,Rutherford,McTeggart,frequency purchase,$2.50,true,09/08/2022,welcome,$5.35,false,7/20/2022,Once
+691,Tonnie,Grahlman,welcome,$6.15,true,09/18/2022,cross product,$8.58,false,5/16/2022,Daily
+692,Mischa,Guillard,welcome,$4.44,false,04/20/2022,product launch,$7.64,false,9/6/2022,Never
+693,Leonora,Vynoll,frequency purchase,$3.55,false,01/13/2022,we missed you,$3.43,false,7/30/2022,Monthly
+694,Felipa,Breadmore,product launch,$9.52,false,10/23/2022,welcome,$2.09,false,8/18/2022,Often
+695,Vina,Jellard,welcome,$3.24,true,07/01/2022,abandoned cart,$0.70,false,5/20/2022,Yearly
+696,Baxter,Silver,we missed you,$2.61,true,06/21/2022,we missed you,$8.16,false,1/15/2022,Daily
+697,Anthea,Decaze,frequency purchase,$2.23,false,11/23/2022,abandoned cart,$4.76,false,6/18/2022,Monthly
+698,Mahalia,Coggings,welcome,$8.69,false,02/19/2022,welcome,$2.46,true,10/24/2022,Once
+699,Cecilla,Lowell,product launch,$4.24,true,12/14/2022,welcome,$9.30,true,4/14/2022,Often
+700,Eziechiele,Sekulla,frequency purchase,$8.25,false,05/02/2022,product launch,$1.13,false,5/14/2022,Seldom
+701,Arnie,Horche,welcome,$3.64,false,02/27/2022,cross product,$7.31,true,11/21/2022,Yearly
+702,Yankee,Pellington,product launch,$1.09,false,12/20/2022,product launch,$3.35,false,4/1/2022,Never
+703,Nicky,Cordeau,frequency purchase,$8.13,true,12/03/2022,product launch,$5.65,false,3/4/2022,Once
+704,Kylen,Station,abandoned cart,$5.23,true,09/19/2022,abandoned cart,$1.05,true,7/5/2022,Yearly
+705,Martin,Lionel,we missed you,$3.35,false,10/05/2022,frequency purchase,$5.30,true,2/10/2022,Monthly
+706,Theobald,Casajuana,cross product,$0.25,true,07/02/2022,frequency purchase,$1.53,false,1/6/2022,Often
+707,Mordy,Klasen,frequency purchase,$6.23,true,10/12/2022,product launch,$5.77,false,7/19/2022,Often
+708,Krystalle,Duro,product launch,$5.44,true,04/23/2022,frequency purchase,$1.13,true,11/13/2022,Seldom
+709,Kit,Bastock,cross product,$3.57,true,12/04/2022,frequency purchase,$3.60,true,4/11/2022,Yearly
+710,Oralla,Mowsdale,product launch,$3.66,true,04/03/2022,abandoned cart,$9.19,true,1/25/2022,Yearly
+711,Rebe,Le Provost,cross product,$1.84,false,08/11/2022,product launch,$2.83,true,5/29/2022,Daily
+712,Yard,Struss,cross product,$7.79,true,05/05/2022,abandoned cart,$1.53,true,10/23/2022,Weekly
+713,Lauren,Coan,product launch,$7.71,true,03/16/2022,cross product,$0.94,true,11/16/2022,Seldom
+714,Felicity,Van der Veldt,frequency purchase,$1.12,true,06/23/2022,cross product,$7.48,true,12/14/2022,Daily
+715,Johnath,Rennebach,product launch,$0.83,false,11/18/2022,cross product,$5.21,true,12/14/2022,Daily
+716,Tiff,Eliassen,welcome,$7.29,false,04/29/2022,cross product,$1.94,true,1/3/2022,Monthly
+717,Paxton,Lutty,cross product,$8.92,false,01/24/2022,we missed you,$4.37,true,9/6/2022,Monthly
+718,Chandra,Silliman,frequency purchase,$7.05,true,05/06/2022,welcome,$5.54,false,9/30/2022,Once
+719,Donaugh,Smithers,abandoned cart,$4.85,true,05/01/2022,frequency purchase,$2.24,false,3/14/2022,Never
+720,Quentin,Rummin,product launch,$6.26,true,05/11/2022,product launch,$2.26,false,12/14/2022,Yearly
+721,Bar,Blindt,welcome,$4.12,false,10/24/2022,we missed you,$6.52,false,9/11/2022,Weekly
+722,Lynett,Danaher,abandoned cart,$4.17,true,06/29/2022,product launch,$4.53,false,8/24/2022,Yearly
+723,Gratiana,McWaters,abandoned cart,$6.40,false,05/15/2022,welcome,$8.31,false,11/3/2022,Seldom
+724,Bjorn,Glascott,frequency purchase,$0.45,false,08/23/2022,cross product,$1.66,false,9/24/2022,Yearly
+725,Cale,Wisby,product launch,$9.19,false,11/26/2022,we missed you,$6.65,false,10/16/2022,Never
+726,Lavinie,St. Aubyn,cross product,$7.68,false,12/02/2022,product launch,$7.03,true,3/2/2022,Once
+727,Briant,Kennet,product launch,$7.30,false,09/20/2022,cross product,$8.36,false,9/28/2022,Monthly
+728,Price,Dahlbom,product launch,$5.69,false,04/13/2022,abandoned cart,$0.09,true,5/17/2022,Weekly
+729,Johannah,Venny,cross product,$9.56,true,02/13/2022,cross product,$8.85,true,6/20/2022,Never
+730,Chick,Crosen,welcome,$3.96,false,01/02/2022,cross product,$4.30,true,3/25/2022,Daily
+731,Rafaelia,Glowach,welcome,$8.07,false,11/07/2022,product launch,$1.94,true,12/11/2022,Monthly
+732,Shamus,Mault,product launch,$2.01,true,04/24/2022,cross product,$3.79,false,8/27/2022,Yearly
+733,Red,Arrow,we missed you,$7.56,true,05/25/2022,welcome,$3.28,true,6/28/2022,Yearly
+734,Dori,Sykes,welcome,$5.05,true,11/29/2022,cross product,$2.35,false,3/29/2022,Often
+735,Rossy,Josilowski,product launch,$8.82,true,03/28/2022,welcome,$5.00,false,8/6/2022,Yearly
+736,Brenn,Ruckhard,abandoned cart,$2.10,true,11/07/2022,abandoned cart,$6.18,true,6/3/2022,Seldom
+737,Fabiano,Pedrielli,cross product,$7.06,false,01/02/2022,frequency purchase,$9.56,true,9/22/2022,Yearly
+738,Winna,Vodden,welcome,$0.50,false,09/23/2022,abandoned cart,$8.54,true,1/26/2022,Daily
+739,Lindi,Learoyde,product launch,$1.33,false,02/03/2022,cross product,$9.71,true,7/2/2022,Monthly
+740,Eileen,Waddingham,frequency purchase,$1.67,false,06/15/2022,cross product,$0.31,false,12/25/2022,Yearly
+741,Garrott,Goolden,product launch,$5.31,false,02/11/2022,cross product,$0.07,false,3/10/2022,Never
+742,Phylis,Rosser,welcome,$3.25,true,12/10/2022,product launch,$5.15,true,11/17/2022,Seldom
+743,Winthrop,Jozwiak,welcome,$7.48,true,03/11/2022,abandoned cart,$9.89,true,9/14/2022,Weekly
+744,Hamish,Swanbourne,abandoned cart,$1.98,false,06/24/2022,we missed you,$1.25,true,9/5/2022,Weekly
+745,Yurik,Langford,we missed you,$0.53,false,03/26/2022,product launch,$5.78,true,1/28/2022,Weekly
+746,Sheri,Voaden,abandoned cart,$8.22,true,12/08/2022,frequency purchase,$5.57,false,10/21/2022,Once
+747,Griffy,Gilley,welcome,$1.05,false,03/17/2022,abandoned cart,$2.48,false,2/23/2022,Yearly
+748,Beilul,Armer,product launch,$6.40,false,03/27/2022,cross product,$0.19,false,6/12/2022,Yearly
+749,Anderson,Scotchforth,product launch,$0.79,true,03/17/2022,abandoned cart,$2.60,true,2/26/2022,Seldom
+750,Sigismondo,Milkin,abandoned cart,$4.73,true,06/15/2022,we missed you,$7.98,true,2/5/2022,Once
+751,Mandy,Berceros,abandoned cart,$6.06,false,03/15/2022,frequency purchase,$5.78,false,12/8/2022,Seldom
+752,Marcy,Byrth,frequency purchase,$8.28,false,06/10/2022,cross product,$6.25,true,9/20/2022,Weekly
+753,Pierre,Snelling,welcome,$2.38,false,09/14/2022,welcome,$8.10,true,12/7/2022,Yearly
+754,Emmanuel,Topes,product launch,$0.66,false,10/21/2022,product launch,$3.63,true,3/26/2022,Monthly
+755,Patrice,Godin,we missed you,$9.57,true,11/02/2022,cross product,$2.39,true,5/11/2022,Seldom
+756,Dani,McConnachie,we missed you,$3.64,false,08/18/2022,welcome,$8.79,true,10/30/2022,Monthly
+757,Roma,Le Marquis,welcome,$4.35,true,02/09/2022,we missed you,$6.53,false,8/6/2022,Daily
+758,Lissa,Mardee,frequency purchase,$3.11,true,06/10/2022,frequency purchase,$3.84,false,10/18/2022,Monthly
+759,Lane,Luchelli,we missed you,$1.93,true,12/20/2022,cross product,$3.12,true,5/28/2022,Weekly
+760,Mohandis,Flinn,welcome,$6.26,false,03/10/2022,product launch,$1.84,true,9/1/2022,Often
+761,Eugen,Mertin,product launch,$6.60,false,01/01/2022,welcome,$4.56,false,7/19/2022,Often
+762,Gloriane,Croce,welcome,$1.96,true,06/15/2022,cross product,$5.85,false,9/30/2022,Seldom
+763,Marleen,Weeden,product launch,$3.74,true,06/04/2022,cross product,$4.67,false,10/17/2022,Often
+764,Nance,Breddy,product launch,$6.68,false,06/08/2022,welcome,$7.05,true,9/19/2022,Never
+765,Roley,Gieves,product launch,$3.75,false,12/02/2022,product launch,$6.74,false,9/5/2022,Yearly
+766,Lora,Renyard,abandoned cart,$9.86,false,07/20/2022,welcome,$2.45,false,12/11/2022,Never
+767,Billye,Benton,we missed you,$3.63,true,09/23/2022,welcome,$5.24,false,11/2/2022,Yearly
+768,Eugenie,Grayling,abandoned cart,$1.01,true,10/26/2022,product launch,$7.18,false,10/23/2022,Never
+769,Sheela,Elegood,product launch,$1.11,false,03/19/2022,frequency purchase,$1.85,true,10/13/2022,Daily
+770,Martyn,McKelvey,welcome,$9.00,true,06/27/2022,welcome,$6.87,false,11/4/2022,Yearly
+771,Jerrilyn,Plumtree,abandoned cart,$6.34,false,10/21/2022,we missed you,$2.64,true,1/25/2022,Yearly
+772,Dougie,Moreton,welcome,$2.65,true,03/31/2022,frequency purchase,$4.15,true,8/6/2022,Never
+773,Cliff,Circuitt,abandoned cart,$8.82,false,11/27/2022,frequency purchase,$7.91,false,9/5/2022,Monthly
+774,Adelina,Rapa,product launch,$6.02,true,07/01/2022,frequency purchase,$2.73,false,8/10/2022,Once
+775,Ddene,Gillbard,cross product,$9.73,false,05/26/2022,cross product,$8.54,true,3/24/2022,Yearly
+776,Sheelagh,Scholz,we missed you,$3.55,false,10/19/2022,we missed you,$8.00,true,6/30/2022,Never
+777,Hendrika,Juniper,welcome,$3.42,false,11/01/2022,abandoned cart,$3.95,false,12/2/2022,Weekly
+778,Janot,Bloxholm,abandoned cart,$9.42,false,03/17/2022,cross product,$2.49,true,2/19/2022,Weekly
+779,Stefano,Whatling,welcome,$5.11,false,07/19/2022,we missed you,$7.41,false,5/22/2022,Yearly
+780,Godfry,Vassel,we missed you,$2.68,true,02/12/2022,product launch,$3.14,true,11/26/2022,Never
+781,Gaven,Brambell,we missed you,$0.26,false,06/27/2022,frequency purchase,$1.98,false,6/25/2022,Monthly
+782,Jamie,Cullity,cross product,$1.05,false,05/19/2022,cross product,$5.06,true,3/15/2022,Daily
+783,Katrina,Roze,frequency purchase,$2.75,false,03/25/2022,we missed you,$0.29,false,12/30/2022,Often
+784,Karlene,Faill,cross product,$3.35,false,12/23/2022,cross product,$0.29,true,4/13/2022,Seldom
+785,Brigit,Hammant,product launch,$5.14,false,08/17/2022,frequency purchase,$4.20,true,7/9/2022,Yearly
+786,Steffi,Wymer,abandoned cart,$5.45,false,05/05/2022,cross product,$2.79,true,1/15/2022,Weekly
+787,Sascha,Coie,we missed you,$6.14,false,04/13/2022,cross product,$2.16,false,4/11/2022,Never
+788,Daphne,Durram,product launch,$1.49,true,04/12/2022,cross product,$8.93,false,9/14/2022,Yearly
+789,Wilow,Mechic,we missed you,$8.45,false,07/12/2022,cross product,$6.17,true,1/3/2022,Often
+790,Engelbert,Crooks,abandoned cart,$2.11,true,12/12/2022,we missed you,$9.24,true,9/24/2022,Once
+791,Aubrette,Starford,product launch,$0.81,true,10/25/2022,abandoned cart,$6.08,false,10/19/2022,Often
+792,Waldon,Crosier,product launch,$3.57,true,12/10/2022,cross product,$8.77,false,7/20/2022,Often
+793,Rab,Bugge,product launch,$3.27,false,08/25/2022,abandoned cart,$4.38,true,2/18/2022,Never
+794,Almira,Worcs,product launch,$8.22,true,04/15/2022,welcome,$9.18,false,3/5/2022,Yearly
+795,Lucian,de Lloyd,cross product,$8.56,true,06/06/2022,cross product,$2.54,true,11/21/2022,Never
+796,Emlyn,Cadogan,abandoned cart,$7.31,false,09/11/2022,abandoned cart,$9.32,false,1/16/2022,Seldom
+797,Larine,Harriss,we missed you,$3.92,false,12/07/2022,abandoned cart,$7.07,false,2/9/2022,Once
+798,Merridie,Still,we missed you,$9.37,true,09/08/2022,we missed you,$0.04,false,3/16/2022,Weekly
+799,Helsa,Almak,cross product,$9.39,true,01/09/2022,cross product,$2.68,false,12/23/2022,Daily
+800,Maureene,Aggus,welcome,$3.03,false,08/30/2022,frequency purchase,$9.59,false,5/16/2022,Weekly
+801,Scarlett,Neeson,frequency purchase,$8.27,false,03/13/2022,abandoned cart,$0.32,true,1/8/2022,Once
+802,Kerrin,Moughton,welcome,$3.95,false,05/25/2022,abandoned cart,$6.49,true,5/28/2022,Once
+803,Zulema,Boards,frequency purchase,$5.02,false,02/28/2022,we missed you,$7.85,false,12/23/2022,Daily
+804,Darci,Sorsby,welcome,$7.90,false,11/19/2022,welcome,$0.52,true,6/15/2022,Once
+805,Jaquelyn,Rayer,welcome,$1.63,false,08/04/2022,cross product,$9.18,false,12/5/2022,Once
+806,Lainey,Macro,product launch,$9.34,true,09/13/2022,product launch,$1.18,true,4/13/2022,Once
+807,Myrtie,Pigden,abandoned cart,$9.81,false,01/23/2022,product launch,$6.35,true,6/23/2022,Never
+808,Teri,Brennan,product launch,$3.22,false,09/29/2022,welcome,$8.26,true,2/8/2022,Weekly
+809,Tiphani,Jzak,frequency purchase,$5.36,true,06/23/2022,frequency purchase,$6.89,false,11/26/2022,Never
+810,Stafford,Hugk,cross product,$8.31,false,09/06/2022,we missed you,$0.43,true,5/31/2022,Weekly
+811,Jo-ann,Mosco,product launch,$2.89,false,10/31/2022,frequency purchase,$9.57,false,10/14/2022,Once
+812,Murry,Stuehmeier,we missed you,$1.97,true,02/08/2022,cross product,$9.67,true,1/17/2022,Once
+813,Arleyne,Hallmark,cross product,$0.05,true,04/16/2022,welcome,$7.06,false,1/30/2022,Seldom
+814,Waverly,Scurr,abandoned cart,$9.27,true,11/10/2022,abandoned cart,$0.75,true,3/4/2022,Weekly
+815,Finley,Vertigan,abandoned cart,$2.97,false,08/26/2022,cross product,$9.21,false,12/27/2022,Yearly
+816,Saraann,Bleacher,cross product,$9.52,true,12/25/2022,abandoned cart,$5.57,true,11/27/2022,Often
+817,Christian,Treker,cross product,$8.21,true,07/01/2022,frequency purchase,$2.03,false,11/1/2022,Weekly
+818,Rouvin,Clendennen,welcome,$7.21,true,06/20/2022,cross product,$8.29,false,7/25/2022,Monthly
+819,Marietta,Rylance,we missed you,$9.33,false,05/25/2022,abandoned cart,$4.27,false,2/1/2022,Once
+820,Read,Mussotti,abandoned cart,$2.95,true,05/25/2022,product launch,$6.06,false,4/1/2022,Never
+821,Mikel,Buddell,cross product,$7.66,false,04/29/2022,frequency purchase,$3.64,true,7/17/2022,Daily
+822,Shannah,Gauchier,cross product,$7.08,true,01/14/2022,product launch,$9.24,false,12/27/2022,Yearly
+823,Merridie,Savory,abandoned cart,$4.48,true,09/12/2022,cross product,$4.04,true,12/25/2022,Monthly
+824,Edna,Geroldi,cross product,$6.53,true,07/24/2022,product launch,$2.25,true,10/21/2022,Weekly
+825,Ianthe,Mundie,product launch,$1.86,true,01/21/2022,frequency purchase,$6.25,false,12/26/2022,Never
+826,Jill,Bummfrey,product launch,$1.49,true,06/21/2022,frequency purchase,$2.31,false,7/21/2022,Yearly
+827,Uta,Toffolo,cross product,$8.95,false,03/17/2022,we missed you,$6.85,true,4/1/2022,Daily
+828,Randee,Scheffler,abandoned cart,$6.94,true,09/04/2022,we missed you,$3.06,false,1/30/2022,Yearly
+829,Kristofor,Stalf,we missed you,$9.53,false,02/17/2022,we missed you,$9.61,false,9/23/2022,Seldom
+830,Shanon,Gatus,cross product,$2.17,true,05/26/2022,we missed you,$0.19,false,1/12/2022,Seldom
+831,Johnna,Suggey,abandoned cart,$8.82,false,10/30/2022,frequency purchase,$0.38,true,10/5/2022,Daily
+832,Rosaline,Newtown,cross product,$6.10,false,10/30/2022,welcome,$8.37,true,5/18/2022,Monthly
+833,Pearle,Abrahamsen,frequency purchase,$3.07,false,06/04/2022,product launch,$2.07,true,6/29/2022,Yearly
+834,Pace,Jeannet,we missed you,$4.85,true,12/06/2022,welcome,$9.25,true,8/23/2022,Often
+835,Thane,Bonnier,we missed you,$8.56,false,07/12/2022,abandoned cart,$2.27,false,10/19/2022,Often
+836,Nikolas,Minster,welcome,$9.38,true,07/26/2022,frequency purchase,$9.61,false,3/1/2022,Weekly
+837,Melantha,Peppard,we missed you,$1.31,false,11/06/2022,frequency purchase,$4.36,false,5/5/2022,Yearly
+838,Clive,Grioli,we missed you,$7.69,true,12/22/2022,we missed you,$0.70,false,5/7/2022,Monthly
+839,Daren,Calf,frequency purchase,$6.81,true,05/19/2022,welcome,$6.78,false,3/7/2022,Yearly
+840,Frank,Ainslie,welcome,$7.20,false,09/06/2022,we missed you,$8.34,true,9/9/2022,Monthly
+841,Ange,Meedendorpe,we missed you,$6.91,true,10/29/2022,frequency purchase,$0.90,false,5/19/2022,Seldom
+842,Andee,Jeffray,welcome,$9.75,false,03/14/2022,product launch,$7.63,true,10/21/2022,Daily
+843,Laina,Leyes,welcome,$5.70,false,03/01/2022,cross product,$7.58,true,5/20/2022,Never
+844,Noni,Beeden,cross product,$2.86,true,12/18/2022,product launch,$7.75,true,3/7/2022,Weekly
+845,Penelope,Barca,cross product,$7.23,false,07/11/2022,welcome,$2.52,true,10/28/2022,Yearly
+846,Lorry,Brimelow,we missed you,$2.76,true,04/25/2022,cross product,$2.63,false,9/27/2022,Never
+847,Hamid,Coldham,product launch,$7.05,false,07/05/2022,frequency purchase,$8.49,false,11/13/2022,Weekly
+848,Katerine,Denisard,cross product,$7.86,false,02/18/2022,abandoned cart,$4.49,false,1/30/2022,Often
+849,Inger,Dolman,frequency purchase,$7.91,false,06/07/2022,product launch,$6.38,true,7/25/2022,Monthly
+850,Luther,Ticehurst,product launch,$9.23,true,02/26/2022,we missed you,$7.74,false,2/17/2022,Monthly
+851,Joshia,Peart,welcome,$5.69,false,07/18/2022,we missed you,$6.27,false,8/17/2022,Weekly
+852,Delcina,Vowels,abandoned cart,$7.19,false,09/14/2022,abandoned cart,$4.70,false,6/8/2022,Daily
+853,Bidget,Joutapaitis,cross product,$1.36,true,04/26/2022,welcome,$5.29,false,3/24/2022,Seldom
+854,Byran,Reston,abandoned cart,$2.02,false,07/09/2022,frequency purchase,$1.70,true,4/3/2022,Once
+855,Garrard,Jillett,abandoned cart,$3.69,false,06/17/2022,product launch,$4.83,false,10/28/2022,Seldom
+856,Othilia,Artist,welcome,$5.09,false,03/03/2022,cross product,$8.40,true,10/10/2022,Yearly
+857,Moshe,Caw,cross product,$0.79,true,06/21/2022,we missed you,$6.04,false,11/7/2022,Seldom
+858,Vivyanne,Wholesworth,welcome,$2.87,false,06/30/2022,welcome,$5.68,true,4/23/2022,Often
+859,Etti,Kimbrey,welcome,$3.13,false,12/10/2022,welcome,$5.41,true,2/7/2022,Seldom
+860,Betty,Houlahan,we missed you,$9.71,true,04/12/2022,welcome,$2.80,false,11/12/2022,Seldom
+861,Burch,Chaff,frequency purchase,$8.21,true,06/30/2022,frequency purchase,$9.86,false,12/15/2022,Monthly
+862,Hector,Lassells,frequency purchase,$4.38,false,11/10/2022,welcome,$2.77,false,5/19/2022,Seldom
+863,Maximilian,Morrall,cross product,$7.53,true,01/17/2022,we missed you,$5.97,false,3/15/2022,Never
+864,Mab,Matyatin,welcome,$6.69,true,02/05/2022,abandoned cart,$8.66,true,2/14/2022,Seldom
+865,Christalle,Connerry,we missed you,$2.24,false,03/16/2022,product launch,$2.83,false,4/17/2022,Yearly
+866,Joleen,Pencost,we missed you,$8.98,true,08/31/2022,frequency purchase,$3.90,true,6/2/2022,Never
+867,Aloysius,Shutte,cross product,$3.71,true,06/04/2022,frequency purchase,$4.07,true,12/25/2022,Daily
+868,Jobina,Clague,abandoned cart,$6.53,true,08/29/2022,we missed you,$0.91,false,2/20/2022,Never
+869,Mendie,Espadas,product launch,$5.69,false,12/15/2022,welcome,$0.77,false,7/19/2022,Daily
+870,Jorie,Riedel,frequency purchase,$1.80,false,09/09/2022,frequency purchase,$5.64,false,3/22/2022,Yearly
+871,Wilmette,Saben,abandoned cart,$8.18,false,09/04/2022,product launch,$1.32,true,10/9/2022,Weekly
+872,Birgitta,Sawdy,product launch,$1.10,false,09/13/2022,frequency purchase,$7.82,false,5/22/2022,Seldom
+873,Cord,Vasiltsov,frequency purchase,$1.09,false,03/05/2022,abandoned cart,$4.25,false,9/18/2022,Once
+874,Brooks,Breitling,cross product,$5.12,false,10/26/2022,cross product,$8.34,true,12/22/2022,Often
+875,Parke,Clinton,product launch,$9.82,false,01/03/2022,product launch,$8.96,false,10/24/2022,Seldom
+876,Virgil,Jahan,cross product,$8.22,false,09/03/2022,cross product,$6.36,false,9/4/2022,Never
+877,Millard,Cotterell,product launch,$1.69,true,09/12/2022,product launch,$7.74,true,8/13/2022,Never
+878,Fair,Ewbanks,we missed you,$2.09,false,10/11/2022,cross product,$8.63,false,2/23/2022,Daily
+879,Marmaduke,MacSweeney,abandoned cart,$9.99,true,06/06/2022,cross product,$2.96,false,8/28/2022,Monthly
+880,Cloris,Asprey,frequency purchase,$2.63,false,03/22/2022,welcome,$3.60,true,1/24/2022,Daily
+881,Lyndel,Grinval,frequency purchase,$2.41,true,06/10/2022,frequency purchase,$2.65,false,8/6/2022,Seldom
+882,Lola,Jouen,welcome,$1.94,true,07/27/2022,abandoned cart,$7.89,false,5/17/2022,Once
+883,Werner,McGrirl,product launch,$9.90,false,11/08/2022,product launch,$1.88,true,6/22/2022,Seldom
+884,Lorry,Anderson,welcome,$8.38,true,11/21/2022,welcome,$1.00,false,7/23/2022,Once
+885,Man,Perritt,product launch,$7.82,false,06/05/2022,welcome,$8.15,true,8/7/2022,Never
+886,Benny,Grice,product launch,$7.15,false,08/26/2022,welcome,$3.12,true,10/17/2022,Seldom
+887,Janelle,Shadrach,frequency purchase,$2.43,false,12/17/2022,cross product,$8.31,true,8/11/2022,Never
+888,Eyde,Woolacott,product launch,$3.63,false,02/16/2022,frequency purchase,$3.78,true,9/13/2022,Yearly
+889,Rochelle,Tapin,product launch,$5.95,false,09/04/2022,we missed you,$9.13,true,6/29/2022,Seldom
+890,Carolus,Mandre,welcome,$0.39,true,12/23/2022,frequency purchase,$0.84,true,11/2/2022,Yearly
+891,Vin,Flisher,welcome,$0.82,true,09/12/2022,product launch,$5.10,true,7/24/2022,Often
+892,Esta,Spalls,welcome,$5.36,true,11/09/2022,we missed you,$5.76,true,2/3/2022,Never
+893,Teodoor,MacAdam,product launch,$2.16,true,04/29/2022,product launch,$7.13,false,6/20/2022,Often
+894,Dennie,Jardine,we missed you,$2.70,false,10/29/2022,welcome,$10.00,false,8/27/2022,Daily
+895,Hubey,Josskowitz,we missed you,$3.63,true,12/29/2022,welcome,$4.14,false,12/13/2022,Often
+896,Margeaux,Purkis,abandoned cart,$5.92,true,03/19/2022,we missed you,$4.23,true,12/27/2022,Once
+897,Granger,Boone,cross product,$0.98,false,05/02/2022,welcome,$4.21,false,8/5/2022,Often
+898,Brande,Scorah,cross product,$3.42,false,07/28/2022,frequency purchase,$9.54,true,5/12/2022,Often
+899,Tiebout,Wooldridge,frequency purchase,$7.13,true,04/27/2022,frequency purchase,$4.61,false,4/28/2022,Daily
+900,Bobbie,Gouley,we missed you,$7.83,true,03/24/2022,product launch,$6.56,false,8/14/2022,Once
+901,Sarena,Stut,cross product,$0.87,true,04/05/2022,cross product,$8.37,false,10/28/2022,Yearly
+902,Christiana,Spens,we missed you,$2.80,false,07/11/2022,cross product,$9.80,true,10/21/2022,Never
+903,Hartley,Watkin,frequency purchase,$0.74,true,12/09/2022,welcome,$6.49,true,11/11/2022,Weekly
+904,Ode,Kilborn,we missed you,$4.49,true,07/16/2022,frequency purchase,$5.33,false,1/29/2022,Often
+905,Pepillo,McRae,cross product,$9.87,false,11/25/2022,abandoned cart,$0.92,false,3/6/2022,Seldom
+906,Lefty,MacCoughen,cross product,$9.61,true,05/02/2022,frequency purchase,$5.39,false,2/7/2022,Seldom
+907,Antonie,Coppo,frequency purchase,$8.86,true,04/13/2022,product launch,$6.27,false,10/8/2022,Daily
+908,Rockey,Orrell,frequency purchase,$0.30,true,02/14/2022,frequency purchase,$3.41,false,4/29/2022,Monthly
+909,Leandra,Warland,welcome,$6.53,false,02/25/2022,cross product,$1.17,true,12/12/2022,Once
+910,Orel,Caudray,product launch,$3.97,true,03/13/2022,welcome,$4.69,true,3/7/2022,Yearly
+911,Garrot,Medcalfe,we missed you,$5.11,true,09/28/2022,cross product,$8.51,false,11/22/2022,Weekly
+912,Keir,Etherson,we missed you,$4.39,true,07/07/2022,we missed you,$1.48,true,10/27/2022,Often
+913,Adeline,Pingston,cross product,$4.19,true,09/06/2022,welcome,$8.97,true,5/3/2022,Weekly
+914,Meggie,Ricson,frequency purchase,$9.62,false,05/04/2022,cross product,$1.50,true,6/2/2022,Once
+915,Amye,Saywood,welcome,$5.21,false,05/18/2022,frequency purchase,$8.99,false,6/17/2022,Weekly
+916,Chlo,Kilshall,abandoned cart,$3.91,false,10/21/2022,product launch,$8.07,true,1/30/2022,Monthly
+917,Dom,Redfern,cross product,$4.94,true,11/03/2022,abandoned cart,$9.80,true,9/13/2022,Once
+918,Tripp,Long,welcome,$3.41,false,12/16/2022,welcome,$0.03,false,1/13/2022,Often
+919,Agnes,O'Sheilds,abandoned cart,$8.45,true,03/22/2022,cross product,$5.13,false,2/5/2022,Yearly
+920,Jaymee,Dayley,cross product,$3.71,true,10/09/2022,product launch,$7.54,false,2/7/2022,Monthly
+921,Georg,Guillot,cross product,$2.06,false,10/31/2022,abandoned cart,$4.49,true,11/6/2022,Weekly
+922,Boone,Mattussevich,abandoned cart,$1.66,true,03/25/2022,welcome,$1.64,true,8/23/2022,Monthly
+923,Camala,Greser,we missed you,$2.90,true,01/11/2022,welcome,$3.58,false,11/5/2022,Daily
+924,Gabe,Orniz,frequency purchase,$8.60,false,10/18/2022,frequency purchase,$7.28,false,5/9/2022,Seldom
+925,Alwyn,Rickasse,cross product,$9.56,true,05/19/2022,product launch,$2.43,false,12/7/2022,Yearly
+926,Paulie,Karchewski,product launch,$0.34,false,03/04/2022,frequency purchase,$0.01,true,7/29/2022,Monthly
+927,Benedetto,Fierro,cross product,$5.00,false,11/17/2022,abandoned cart,$9.80,false,12/8/2022,Monthly
+928,Xaviera,Francklin,we missed you,$1.86,false,04/10/2022,welcome,$0.13,false,5/18/2022,Often
+929,Nicolea,Dumper,product launch,$1.72,true,05/26/2022,we missed you,$5.17,true,4/19/2022,Often
+930,Mariette,Charles,we missed you,$9.56,false,07/25/2022,frequency purchase,$9.31,false,4/8/2022,Never
+931,Curran,Milverton,frequency purchase,$5.11,false,11/15/2022,frequency purchase,$9.29,false,6/23/2022,Yearly
+932,Amber,Voice,cross product,$9.25,false,10/21/2022,welcome,$3.26,true,7/14/2022,Never
+933,Goober,Parram,we missed you,$4.96,false,10/08/2022,abandoned cart,$0.52,false,9/26/2022,Monthly
+934,Huey,Goatcher,abandoned cart,$0.96,false,12/17/2022,frequency purchase,$7.11,false,12/18/2022,Never
+935,Irene,Woolis,abandoned cart,$9.15,false,08/10/2022,abandoned cart,$5.15,true,2/18/2022,Never
+936,Alva,De Witt,product launch,$2.23,false,09/29/2022,welcome,$3.13,true,1/8/2022,Yearly
+937,Marcelline,Manchett,product launch,$7.78,true,04/19/2022,welcome,$7.06,true,12/3/2022,Weekly
+938,Phoebe,Schankelborg,welcome,$5.42,false,07/31/2022,frequency purchase,$8.25,false,6/5/2022,Never
+939,Kym,Abramof,cross product,$1.32,false,08/05/2022,abandoned cart,$4.57,false,6/29/2022,Seldom
+940,Gerhardine,Hurn,cross product,$5.06,true,04/19/2022,product launch,$6.57,true,5/21/2022,Never
+941,Trina,Digance,frequency purchase,$0.47,true,10/22/2022,abandoned cart,$1.51,false,2/23/2022,Never
+942,Talya,Lofts,product launch,$4.75,false,12/27/2022,welcome,$5.83,false,6/19/2022,Seldom
+943,Aggy,Derrett,cross product,$7.99,false,11/06/2022,welcome,$9.67,true,3/29/2022,Once
+944,Lydia,Whiskerd,frequency purchase,$3.61,false,02/20/2022,frequency purchase,$6.49,true,7/13/2022,Monthly
+945,Alfie,Hawksworth,abandoned cart,$0.73,true,02/10/2022,we missed you,$6.58,true,4/3/2022,Never
+946,Chet,Sneezem,cross product,$5.25,true,06/23/2022,we missed you,$8.70,false,4/10/2022,Often
+947,Alane,Hamel,we missed you,$4.39,true,01/08/2022,we missed you,$1.61,true,2/4/2022,Daily
+948,Tonnie,Clery,we missed you,$8.29,true,02/06/2022,we missed you,$3.34,false,2/22/2022,Weekly
+949,Joy,Wakelam,abandoned cart,$1.28,false,03/26/2022,cross product,$6.71,true,1/19/2022,Yearly
+950,Mortimer,Tilliards,welcome,$2.21,true,11/28/2022,we missed you,$5.24,true,1/2/2022,Once
+951,Florry,Penkman,frequency purchase,$2.66,false,03/01/2022,cross product,$4.69,false,6/10/2022,Once
+952,Jobye,Messom,frequency purchase,$5.20,false,02/08/2022,we missed you,$2.26,false,5/22/2022,Once
+953,Winifred,Paolotto,abandoned cart,$7.87,true,06/24/2022,product launch,$4.30,true,5/20/2022,Monthly
+954,Timothee,Aingel,abandoned cart,$1.68,false,11/03/2022,cross product,$7.05,true,5/17/2022,Weekly
+955,Julietta,Sarson,we missed you,$8.01,false,01/28/2022,product launch,$0.03,true,8/15/2022,Weekly
+956,Etan,Schwanden,product launch,$3.40,false,06/19/2022,frequency purchase,$6.58,true,7/15/2022,Weekly
+957,Toddy,Shawyers,we missed you,$1.08,true,02/14/2022,product launch,$8.93,true,12/27/2022,Often
+958,Florence,Jopling,we missed you,$7.08,false,08/08/2022,welcome,$4.72,false,3/24/2022,Yearly
+959,Jessamine,Blakeley,product launch,$1.53,false,04/07/2022,frequency purchase,$1.20,true,8/2/2022,Once
+960,Udale,Mingo,welcome,$4.67,true,07/04/2022,welcome,$3.56,false,1/10/2022,Never
+961,Codie,Ancliff,we missed you,$9.70,false,01/19/2022,cross product,$1.81,true,5/10/2022,Monthly
+962,Micki,Di Matteo,frequency purchase,$1.12,true,09/01/2022,we missed you,$2.23,false,8/13/2022,Never
+963,Kylie,O' Dornan,abandoned cart,$5.45,false,09/04/2022,product launch,$9.83,false,9/26/2022,Seldom
+964,Teddy,Hayhow,welcome,$8.50,true,10/20/2022,product launch,$0.32,true,12/24/2022,Often
+965,Kare,Drakers,we missed you,$9.15,true,04/30/2022,cross product,$1.37,true,1/31/2022,Yearly
+966,Pembroke,Dougan,product launch,$9.09,false,12/04/2022,we missed you,$4.51,false,9/12/2022,Monthly
+967,Krishna,Heams,welcome,$6.68,false,02/27/2022,welcome,$1.79,true,12/15/2022,Never
+968,Marion,Rabbe,cross product,$6.78,false,02/09/2022,product launch,$9.55,false,9/1/2022,Weekly
+969,Linnell,Cowell,product launch,$8.36,true,06/22/2022,welcome,$10.00,false,9/4/2022,Never
+970,Sapphira,Wadelin,abandoned cart,$3.89,true,05/18/2022,product launch,$4.70,true,1/30/2022,Seldom
+971,Sosanna,Glyssanne,product launch,$0.46,false,06/09/2022,cross product,$2.97,false,4/16/2022,Weekly
+972,Jayme,Vila,product launch,$7.33,false,03/28/2022,abandoned cart,$2.64,true,4/9/2022,Daily
+973,Dee,Fidler,product launch,$0.00,false,06/28/2022,we missed you,$5.02,true,7/14/2022,Weekly
+974,La verne,Silby,we missed you,$4.68,false,09/11/2022,we missed you,$1.84,true,8/17/2022,Often
+975,Connie,Huckle,product launch,$2.82,false,12/24/2022,cross product,$7.40,false,5/4/2022,Once
+976,Markos,Hince,frequency purchase,$8.81,false,11/04/2022,we missed you,$4.03,true,2/18/2022,Seldom
+977,Vinnie,Fust,cross product,$6.05,true,09/03/2022,frequency purchase,$5.36,true,5/23/2022,Weekly
+978,Terrill,Kissock,cross product,$8.49,true,07/09/2022,we missed you,$8.94,true,5/21/2022,Seldom
+979,Jerad,Bridson,product launch,$7.68,false,08/02/2022,product launch,$2.08,false,6/3/2022,Never
+980,Baxter,Clewlow,abandoned cart,$0.10,true,02/27/2022,cross product,$1.48,true,5/30/2022,Weekly
+981,Glory,Barthod,cross product,$4.62,false,06/19/2022,frequency purchase,$0.27,false,4/14/2022,Seldom
+982,Marge,Harrie,we missed you,$4.41,false,07/01/2022,we missed you,$3.60,true,3/19/2022,Once
+983,Agatha,Norcott,cross product,$4.08,true,07/22/2022,abandoned cart,$9.80,true,8/29/2022,Weekly
+984,Val,De Cruz,frequency purchase,$6.05,false,03/20/2022,abandoned cart,$1.23,true,7/17/2022,Often
+985,Benito,Padfield,welcome,$2.55,true,06/17/2022,product launch,$5.49,false,1/23/2022,Seldom
+986,Boycie,Lown,product launch,$6.96,false,04/10/2022,we missed you,$1.03,false,6/9/2022,Never
+987,Catha,Rymmer,abandoned cart,$3.70,false,03/08/2022,welcome,$1.50,true,10/16/2022,Monthly
+988,Natal,Naul,abandoned cart,$3.61,true,10/11/2022,welcome,$7.82,false,10/15/2022,Yearly
+989,Janeczka,Alvares,we missed you,$5.24,true,08/20/2022,frequency purchase,$9.98,true,7/4/2022,Seldom
+990,Christin,Ferruzzi,frequency purchase,$8.17,false,09/22/2022,we missed you,$5.15,false,8/27/2022,Never
+991,Erskine,Skipsea,product launch,$0.91,true,03/19/2022,abandoned cart,$5.33,true,9/13/2022,Weekly
+992,Mort,Lamasna,we missed you,$3.79,true,09/28/2022,welcome,$2.13,false,5/8/2022,Weekly
+993,Shaughn,Kelby,we missed you,$8.34,false,12/07/2022,product launch,$7.30,true,7/10/2022,Once
+994,Kevon,Emsley,product launch,$9.99,true,11/08/2022,abandoned cart,$8.07,true,5/14/2022,Weekly
+995,Hagan,Carlson,welcome,$5.54,true,07/06/2022,abandoned cart,$2.88,true,10/19/2022,Often
+996,Brina,Boundey,frequency purchase,$0.55,false,03/23/2022,product launch,$2.07,false,3/19/2022,Once
+997,Carter,Pinchon,abandoned cart,$7.42,true,06/01/2022,we missed you,$9.31,false,9/12/2022,Seldom
+998,Rodolphe,Josum,welcome,$6.02,true,04/30/2022,abandoned cart,$6.54,false,9/16/2022,Daily
+999,Sidonia,Pitford,product launch,$3.70,false,09/23/2022,welcome,$1.72,true,1/20/2022,Weekly
+1000,Thibaud,Kaasmann,cross product,$6.56,false,01/11/2022,product launch,$6.30,true,10/22/2022,Often
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
