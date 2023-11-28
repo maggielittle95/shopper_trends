@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,tiktok_campaign,tiktok_cpa,tiktok_conversion,tiktok_dates,email_campaign,email_cpa,email_conversion,email_dates
+1,Remus,Tamplin,cross product,$5.07 ,FALSE,7/18/22,abandoned cart,$3.00 ,TRUE,10/29/22
+2,Hillie,Yes,frequency purchase,$0.31 ,FALSE,6/7/22,welcome,$6.14 ,TRUE,5/24/22
+3,Aridatha,Robertelli,frequency purchase,$3.88 ,FALSE,10/16/22,cross product,$8.11 ,TRUE,8/1/22
+4,Cordie,Illing,we missed you,$5.57 ,TRUE,7/4/22,welcome,$7.44 ,TRUE,1/12/22
+5,Gannie,McKaile,frequency purchase,$0.76 ,TRUE,6/24/22,welcome,$7.29 ,FALSE,1/29/22
+6,Camel,Goater,frequency purchase,$5.06 ,FALSE,9/2/22,abandoned cart,$7.32 ,TRUE,9/15/22
+7,Aila,Taberer,cross product,$0.02 ,TRUE,2/27/22,welcome,$4.34 ,FALSE,12/21/22
+8,Demetris,Gravenell,cross product,$5.31 ,FALSE,4/10/22,welcome,$4.74 ,TRUE,7/27/22
+9,Lauree,Simonian,abandoned cart,$7.13 ,FALSE,1/9/22,frequency purchase,$6.99 ,FALSE,8/28/22
+10,Creight,Croughan,frequency purchase,$1.70 ,FALSE,3/4/22,welcome,$9.92 ,TRUE,5/30/22
+11,Tom,Bengle,welcome,$9.79 ,FALSE,11/10/22,abandoned cart,$2.26 ,FALSE,5/26/22
+12,Madonna,Gregorace,frequency purchase,$4.23 ,FALSE,5/17/22,welcome,$0.31 ,FALSE,2/27/22
+13,Jaymee,McIleen,cross product,$8.71 ,TRUE,6/28/22,frequency purchase,$9.59 ,TRUE,4/8/22
+14,Geraldine,Millis,frequency purchase,$5.50 ,FALSE,10/31/22,frequency purchase,$6.75 ,TRUE,1/15/22
+15,Emmie,Thornhill,we missed you,$5.46 ,TRUE,10/3/22,welcome,$1.44 ,FALSE,9/30/22
+16,Mace,Van Der Hoog,cross product,$1.39 ,FALSE,7/11/22,welcome,$4.31 ,TRUE,11/7/22
+17,Bridget,Normabell,frequency purchase,$9.18 ,FALSE,7/28/22,frequency purchase,$2.47 ,TRUE,11/14/22
+18,Benita,Pickup,we missed you,$7.10 ,FALSE,8/12/22,abandoned cart,$3.84 ,FALSE,1/12/22
+19,Ivan,Lovatt,cross product,$4.84 ,FALSE,8/31/22,abandoned cart,$2.56 ,TRUE,6/7/22
+20,Chastity,O'Ferris,welcome,$4.16 ,FALSE,2/1/22,frequency purchase,$9.45 ,TRUE,12/9/22
+21,Janette,Boldecke,frequency purchase,$8.62 ,TRUE,7/12/22,product launch,$8.18 ,FALSE,12/10/22
+22,Casandra,Ivey,frequency purchase,$9.80 ,FALSE,5/6/22,abandoned cart,$6.75 ,TRUE,6/23/22
+23,Shay,Lingner,frequency purchase,$8.57 ,FALSE,11/1/22,cross product,$5.57 ,TRUE,6/28/22
+24,Dolly,O'Driscoll,welcome,$1.78 ,FALSE,4/2/22,cross product,$6.81 ,FALSE,2/22/22
+25,Missy,Yegoshin,frequency purchase,$4.67 ,FALSE,2/14/22,welcome,$9.93 ,FALSE,1/28/22
+26,Skylar,Urian,frequency purchase,$6.12 ,FALSE,2/21/22,abandoned cart,$2.54 ,TRUE,7/10/22
+27,Aldis,Pieracci,frequency purchase,$0.38 ,FALSE,3/3/22,welcome,$2.05 ,TRUE,8/13/22
+28,Noemi,Kingaby,product launch,$8.44 ,FALSE,7/29/22,welcome,$2.02 ,TRUE,10/18/22
+29,Agnesse,Lawrie,product launch,$1.24 ,FALSE,7/4/22,welcome,$5.64 ,TRUE,9/12/22
+30,Chandra,MacDearmid,cross product,$3.06 ,FALSE,4/30/22,welcome,$2.75 ,TRUE,1/11/22
+31,Chicky,Bunhill,cross product,$0.24 ,FALSE,1/19/22,product launch,$0.10 ,TRUE,4/19/22
+32,Page,Newick,cross product,$3.44 ,FALSE,1/16/22,abandoned cart,$4.03 ,TRUE,6/22/22
+33,Estrella,Parris,we missed you,$0.61 ,TRUE,5/3/22,abandoned cart,$2.17 ,FALSE,4/7/22
+34,Tedra,Sandeson,frequency purchase,$9.39 ,FALSE,9/21/22,abandoned cart,$5.61 ,TRUE,4/23/22
+35,Ketti,Curedale,frequency purchase,$0.76 ,FALSE,9/9/22,welcome,$6.00 ,TRUE,12/3/22
+36,Elijah,Warwick,cross product,$3.48 ,FALSE,1/1/22,welcome,$8.09 ,FALSE,11/4/22
+37,Deane,Stevings,welcome,$3.19 ,TRUE,12/8/22,abandoned cart,$2.42 ,FALSE,6/4/22
+38,Arte,Markovic,cross product,$1.52 ,FALSE,3/30/22,we missed you,$5.09 ,TRUE,3/11/22
+39,Lucila,Semered,cross product,$1.92 ,FALSE,10/27/22,abandoned cart,$3.60 ,TRUE,4/10/22
+40,Charline,Bolver,welcome,$1.96 ,FALSE,5/7/22,abandoned cart,$1.26 ,TRUE,9/28/22
+41,Ramsay,Panons,welcome,$3.82 ,FALSE,2/13/22,we missed you,$3.82 ,FALSE,11/13/22
+42,Alisun,Haggart,frequency purchase,$6.48 ,FALSE,2/17/22,cross product,$5.11 ,FALSE,6/11/22
+43,Allene,Tattersfield,cross product,$5.77 ,TRUE,4/24/22,abandoned cart,$5.44 ,FALSE,12/2/22
+44,Giovanna,Grishinov,frequency purchase,$4.17 ,FALSE,7/20/22,frequency purchase,$8.75 ,FALSE,6/19/22
+45,Odetta,Andrus,product launch,$6.55 ,TRUE,10/2/22,frequency purchase,$6.99 ,FALSE,2/6/22
+46,Rodd,Coch,welcome,$3.36 ,FALSE,4/17/22,welcome,$6.93 ,TRUE,1/7/22
+47,Nancey,Shoorbrooke,product launch,$3.75 ,FALSE,9/20/22,welcome,$5.45 ,FALSE,7/20/22
+48,Salvidor,Glassford,cross product,$6.47 ,FALSE,7/18/22,welcome,$3.09 ,TRUE,9/30/22
+49,Olimpia,Kiehnlt,welcome,$5.78 ,TRUE,3/11/22,welcome,$2.55 ,FALSE,12/30/22
+50,Dennis,Back,product launch,$2.51 ,TRUE,12/11/22,abandoned cart,$3.86 ,TRUE,4/3/22
+51,Magdaia,Beneyto,frequency purchase,$1.23 ,FALSE,4/21/22,cross product,$8.59 ,TRUE,9/29/22
+52,Andrei,Lavell,cross product,$7.37 ,FALSE,1/15/22,cross product,$1.76 ,FALSE,8/26/22
+53,Timmie,Stockey,product launch,$4.56 ,TRUE,10/3/22,welcome,$1.34 ,FALSE,5/27/22
+54,Kiri,Itzkovich,we missed you,$6.50 ,FALSE,4/16/22,product launch,$6.77 ,FALSE,11/21/22
+55,Chloris,Liddel,welcome,$0.30 ,FALSE,3/19/22,welcome,$5.10 ,TRUE,7/13/22
+56,Darcy,Sollime,cross product,$5.30 ,FALSE,5/26/22,we missed you,$7.37 ,FALSE,8/18/22
+57,Pepi,Broy,frequency purchase,$0.46 ,FALSE,11/13/22,abandoned cart,$4.38 ,FALSE,7/3/22
+58,Flore,Rigg,frequency purchase,$6.80 ,FALSE,2/28/22,welcome,$1.81 ,TRUE,2/22/22
+59,Bradly,Busst,cross product,$8.59 ,TRUE,3/18/22,abandoned cart,$7.33 ,FALSE,3/2/22
+60,Martainn,Watkinson,frequency purchase,$1.20 ,TRUE,2/23/22,welcome,$9.06 ,FALSE,4/27/22
+61,Korrie,Caslin,product launch,$6.66 ,FALSE,10/15/22,abandoned cart,$7.72 ,FALSE,4/13/22
+62,Janna,Thornton-Dewhirst,abandoned cart,$2.18 ,FALSE,8/6/22,cross product,$2.33 ,FALSE,12/26/22
+63,Vivi,Redrup,cross product,$0.16 ,TRUE,6/16/22,product launch,$9.21 ,FALSE,3/17/22
+64,Kamila,Sprigging,frequency purchase,$3.51 ,FALSE,9/25/22,we missed you,$6.45 ,TRUE,7/29/22
+65,Vidovik,Daborn,welcome,$4.98 ,FALSE,8/23/22,welcome,$8.71 ,TRUE,10/12/22
+66,Brit,McCroft,frequency purchase,$4.12 ,TRUE,2/6/22,product launch,$5.97 ,TRUE,12/2/22
+67,Joyan,Isles,cross product,$4.42 ,FALSE,8/14/22,welcome,$0.03 ,FALSE,10/9/22
+68,Genia,Willmett,cross product,$9.91 ,TRUE,1/18/22,welcome,$7.14 ,FALSE,4/16/22
+69,Adelbert,Maysor,frequency purchase,$1.70 ,TRUE,12/10/22,welcome,$9.11 ,TRUE,3/25/22
+70,Cinnamon,Trimmill,frequency purchase,$5.02 ,FALSE,6/14/22,welcome,$8.92 ,FALSE,12/9/22
+71,Waneta,Gladhill,welcome,$6.91 ,TRUE,12/4/22,welcome,$7.21 ,TRUE,1/4/22
+72,Sisile,July,cross product,$9.20 ,FALSE,9/27/22,abandoned cart,$4.41 ,FALSE,6/29/22
+73,Norbert,Camplejohn,frequency purchase,$7.91 ,FALSE,5/29/22,welcome,$1.46 ,TRUE,4/7/22
+74,Ajay,Gerritsma,welcome,$8.85 ,FALSE,10/6/22,abandoned cart,$4.23 ,FALSE,2/27/22
+75,Gideon,Geddes,cross product,$0.44 ,TRUE,3/5/22,frequency purchase,$1.18 ,TRUE,4/2/22
+76,Greta,Stallibrass,frequency purchase,$9.64 ,TRUE,9/11/22,cross product,$6.67 ,FALSE,2/15/22
+77,Ches,Pagitt,frequency purchase,$2.09 ,FALSE,2/6/22,abandoned cart,$9.67 ,FALSE,7/1/22
+78,Ilyssa,Chsteney,cross product,$1.10 ,FALSE,7/22/22,we missed you,$6.51 ,FALSE,8/26/22
+79,Conrado,Baythrop,welcome,$5.72 ,FALSE,4/8/22,abandoned cart,$1.16 ,TRUE,3/4/22
+80,Selle,McMichell,cross product,$9.32 ,FALSE,12/29/22,frequency purchase,$9.51 ,TRUE,5/3/22
+81,Bard,Espadater,cross product,$1.37 ,FALSE,2/14/22,abandoned cart,$3.27 ,TRUE,8/5/22
+82,Harrie,Petticrow,welcome,$9.53 ,FALSE,12/6/22,cross product,$7.59 ,FALSE,9/28/22
+83,Melodie,Floch,frequency purchase,$0.40 ,FALSE,6/29/22,product launch,$3.74 ,TRUE,8/11/22
+84,Farleigh,Ivashinnikov,cross product,$3.63 ,FALSE,11/19/22,welcome,$8.68 ,TRUE,9/26/22
+85,Jessika,Porker,frequency purchase,$5.56 ,FALSE,4/10/22,abandoned cart,$1.90 ,TRUE,10/7/22
+86,Dion,Basler,cross product,$3.05 ,FALSE,2/23/22,welcome,$5.98 ,FALSE,2/19/22
+87,Marita,Schulke,frequency purchase,$7.75 ,TRUE,12/23/22,welcome,$7.68 ,TRUE,7/13/22
+88,Garald,Bigmore,product launch,$4.29 ,FALSE,12/25/22,product launch,$8.05 ,TRUE,3/9/22
+89,Gayel,Chappel,product launch,$4.32 ,TRUE,6/5/22,welcome,$9.46 ,FALSE,12/25/22
+90,Noach,Lightbown,cross product,$1.59 ,TRUE,12/9/22,welcome,$9.60 ,FALSE,2/2/22
+91,Ethyl,Laphorn,cross product,$8.80 ,FALSE,10/7/22,product launch,$2.56 ,FALSE,7/2/22
+92,Shaina,Ortsmann,frequency purchase,$9.83 ,FALSE,2/28/22,cross product,$2.23 ,TRUE,10/13/22
+93,Frannie,Stockey,frequency purchase,$8.99 ,TRUE,8/6/22,frequency purchase,$6.91 ,TRUE,7/20/22
+94,Muffin,Featonby,abandoned cart,$7.71 ,TRUE,5/22/22,welcome,$6.84 ,TRUE,9/14/22
+95,Cassandry,Brade,product launch,$1.61 ,FALSE,1/27/22,welcome,$2.49 ,TRUE,8/6/22
+96,Richard,Shadfourth,welcome,$0.77 ,FALSE,1/31/22,abandoned cart,$1.09 ,FALSE,10/28/22
+97,Milli,Breslauer,cross product,$0.50 ,FALSE,5/19/22,cross product,$6.55 ,TRUE,12/13/22
+98,Hally,Struss,cross product,$2.92 ,FALSE,9/27/22,frequency purchase,$7.40 ,FALSE,3/5/22
+99,Carter,Cristoferi,frequency purchase,$0.65 ,FALSE,3/2/22,welcome,$4.75 ,TRUE,2/9/22
+100,Grantley,Onyon,we missed you,$8.73 ,FALSE,11/7/22,welcome,$3.51 ,FALSE,10/10/22
+101,Ardine,Rushe,frequency purchase,$3.72 ,TRUE,8/16/22,welcome,$6.18 ,TRUE,8/28/22
+102,Gertrude,Balchin,frequency purchase,$4.75 ,FALSE,11/7/22,welcome,$7.26 ,TRUE,12/30/22
+103,Gustave,Grigoryev,frequency purchase,$7.44 ,TRUE,3/31/22,cross product,$9.40 ,FALSE,4/30/22
+104,Raeann,Cheshir,cross product,$9.98 ,FALSE,11/30/22,abandoned cart,$1.13 ,TRUE,5/2/22
+105,Crystal,Muddiman,cross product,$6.08 ,TRUE,4/29/22,product launch,$6.33 ,TRUE,3/19/22
+106,Tessy,Hessay,product launch,$4.11 ,FALSE,5/10/22,welcome,$1.48 ,TRUE,2/8/22
+107,Melitta,Maddox,frequency purchase,$5.01 ,TRUE,8/29/22,welcome,$8.39 ,TRUE,8/19/22
+108,Frazer,Jannasch,cross product,$2.37 ,FALSE,2/27/22,frequency purchase,$2.78 ,FALSE,4/24/22
+109,Jennica,Roath,welcome,$5.49 ,TRUE,1/13/22,welcome,$2.55 ,FALSE,9/15/22
+110,Rhiamon,Greasley,cross product,$6.26 ,TRUE,12/16/22,abandoned cart,$9.80 ,TRUE,6/27/22
+111,Kippy,Gilbey,cross product,$1.25 ,FALSE,3/26/22,frequency purchase,$7.43 ,TRUE,6/7/22
+112,Savina,Hansed,cross product,$8.92 ,TRUE,2/3/22,abandoned cart,$2.55 ,TRUE,7/26/22
+113,Prescott,Lorey,cross product,$6.24 ,FALSE,7/14/22,welcome,$9.76 ,TRUE,12/23/22
+114,Cyrille,Craft,frequency purchase,$2.92 ,TRUE,10/1/22,abandoned cart,$2.78 ,FALSE,3/12/22
+115,Danita,Kobsch,frequency purchase,$4.61 ,FALSE,12/29/22,cross product,$3.07 ,TRUE,5/10/22
+116,Hanni,Biner,cross product,$6.43 ,FALSE,5/19/22,welcome,$4.48 ,FALSE,9/29/22
+117,Urbanus,Goodhand,frequency purchase,$2.67 ,TRUE,5/9/22,welcome,$1.93 ,FALSE,10/8/22
+118,Sanford,Portwain,welcome,$8.70 ,FALSE,9/10/22,frequency purchase,$5.04 ,TRUE,1/23/22
+119,Edgardo,Backe,frequency purchase,$9.70 ,FALSE,8/28/22,abandoned cart,$1.14 ,FALSE,7/25/22
+120,Annemarie,Breache,cross product,$9.10 ,FALSE,12/22/22,welcome,$0.09 ,FALSE,9/14/22
+121,Gillian,Arpur,we missed you,$0.35 ,FALSE,10/30/22,frequency purchase,$7.99 ,TRUE,6/25/22
+122,Fredelia,Tabart,frequency purchase,$3.18 ,FALSE,6/25/22,welcome,$1.39 ,FALSE,1/4/22
+123,Kaitlin,Van Arsdale,frequency purchase,$3.08 ,FALSE,8/3/22,welcome,$4.08 ,FALSE,8/29/22
+124,Fitzgerald,Peploe,frequency purchase,$5.98 ,TRUE,9/30/22,welcome,$9.28 ,TRUE,5/27/22
+125,Early,Gomme,cross product,$5.93 ,FALSE,4/1/22,abandoned cart,$4.88 ,TRUE,12/25/22
+126,Archaimbaud,Thorogood,welcome,$3.54 ,FALSE,9/17/22,frequency purchase,$4.93 ,TRUE,12/26/22
+127,Keslie,Towsey,frequency purchase,$2.07 ,TRUE,8/2/22,welcome,$8.64 ,TRUE,4/29/22
+128,Janos,Tonkin,we missed you,$0.22 ,FALSE,11/9/22,frequency purchase,$5.79 ,TRUE,4/28/22
+129,Howie,Rippon,frequency purchase,$8.19 ,FALSE,8/3/22,welcome,$9.07 ,TRUE,10/24/22
+130,Loydie,Hebbron,frequency purchase,$1.66 ,FALSE,3/16/22,abandoned cart,$2.94 ,FALSE,6/7/22
+131,Janie,Ratter,frequency purchase,$4.06 ,FALSE,3/18/22,cross product,$3.17 ,TRUE,8/15/22
+132,Goldarina,Higginbottam,we missed you,$6.40 ,TRUE,6/1/22,welcome,$6.05 ,TRUE,1/2/22
+133,Walsh,Manus,cross product,$7.75 ,FALSE,3/23/22,frequency purchase,$0.53 ,TRUE,6/23/22
+134,Monti,Grestie,welcome,$4.71 ,FALSE,3/17/22,frequency purchase,$4.46 ,TRUE,8/9/22
+135,Alvis,Lifton,cross product,$8.03 ,TRUE,5/11/22,product launch,$6.69 ,FALSE,9/23/22
+136,Tine,Snead,we missed you,$7.09 ,FALSE,12/11/22,cross product,$0.20 ,FALSE,5/17/22
+137,Brooks,Arundell,cross product,$2.02 ,FALSE,2/8/22,abandoned cart,$5.88 ,FALSE,8/13/22
+138,Onida,Cahey,frequency purchase,$2.53 ,TRUE,3/5/22,welcome,$6.79 ,TRUE,12/22/22
+139,Matthew,Scholefield,we missed you,$7.28 ,FALSE,4/12/22,welcome,$6.67 ,TRUE,2/13/22
+140,Sibella,McBrearty,frequency purchase,$8.46 ,TRUE,1/13/22,welcome,$6.95 ,TRUE,11/26/22
+141,Way,Daymont,frequency purchase,$1.73 ,FALSE,5/11/22,product launch,$2.26 ,FALSE,6/24/22
+142,Christabella,Bette,welcome,$7.42 ,TRUE,6/10/22,abandoned cart,$2.67 ,FALSE,5/8/22
+143,Kissie,Trowler,product launch,$0.34 ,FALSE,6/12/22,welcome,$8.65 ,FALSE,3/24/22
+144,Halsy,Huikerby,cross product,$6.92 ,FALSE,5/13/22,welcome,$3.24 ,TRUE,11/1/22
+145,Remy,Postins,product launch,$5.66 ,FALSE,7/4/22,welcome,$1.15 ,FALSE,2/25/22
+146,Barrie,Walklate,product launch,$4.22 ,FALSE,1/23/22,cross product,$9.76 ,FALSE,1/1/22
+147,Dori,Carden,frequency purchase,$5.49 ,FALSE,7/24/22,frequency purchase,$2.69 ,TRUE,7/16/22
+148,Domenico,Tockell,frequency purchase,$1.06 ,TRUE,9/8/22,abandoned cart,$8.34 ,FALSE,1/24/22
+149,Esma,Wallas,cross product,$3.53 ,TRUE,5/19/22,frequency purchase,$9.31 ,TRUE,5/23/22
+150,Lorenza,Hilland,product launch,$8.50 ,TRUE,6/14/22,welcome,$9.33 ,TRUE,6/25/22
+151,Hallsy,Wiggall,cross product,$4.34 ,FALSE,1/24/22,welcome,$6.86 ,FALSE,11/8/22
+152,Nellie,Baxter,product launch,$6.42 ,FALSE,12/13/22,frequency purchase,$8.38 ,FALSE,6/23/22
+153,Karil,Samsin,frequency purchase,$7.86 ,FALSE,8/3/22,welcome,$9.54 ,FALSE,3/21/22
+154,Gordon,Torrecilla,frequency purchase,$4.78 ,FALSE,8/15/22,abandoned cart,$0.36 ,FALSE,2/9/22
+155,Maisie,Hazzard,frequency purchase,$9.76 ,FALSE,5/16/22,welcome,$1.40 ,FALSE,12/6/22
+156,Coleman,Kinton,product launch,$5.28 ,FALSE,5/31/22,abandoned cart,$2.55 ,FALSE,9/9/22
+157,Carlita,Catherall,cross product,$5.99 ,FALSE,10/5/22,frequency purchase,$3.25 ,TRUE,4/24/22
+158,Jenifer,Phillips,frequency purchase,$2.53 ,TRUE,3/5/22,cross product,$2.43 ,TRUE,2/14/22
+159,Alfredo,Tithecote,cross product,$1.06 ,FALSE,6/24/22,abandoned cart,$5.69 ,TRUE,6/2/22
+160,Pippy,Imrie,we missed you,$2.91 ,TRUE,10/3/22,welcome,$0.13 ,TRUE,6/15/22
+161,Kessiah,Laguerre,frequency purchase,$1.07 ,TRUE,10/3/22,frequency purchase,$9.59 ,TRUE,10/31/22
+162,Geordie,Mitcheson,abandoned cart,$2.79 ,TRUE,4/21/22,welcome,$2.97 ,TRUE,7/19/22
+163,Meade,Veschambes,cross product,$7.30 ,FALSE,10/11/22,we missed you,$0.30 ,TRUE,12/15/22
+164,Merrick,Cameron,frequency purchase,$7.25 ,FALSE,7/30/22,abandoned cart,$4.58 ,FALSE,6/3/22
+165,Brianne,Pargeter,frequency purchase,$9.69 ,TRUE,10/14/22,welcome,$3.87 ,FALSE,1/20/22
+166,Franchot,Selley,frequency purchase,$9.39 ,FALSE,11/7/22,welcome,$4.68 ,TRUE,8/24/22
+167,Magdalen,Gealy,frequency purchase,$2.17 ,FALSE,2/20/22,abandoned cart,$8.95 ,FALSE,10/12/22
+168,Gery,Dincke,cross product,$5.00 ,FALSE,6/18/22,we missed you,$4.11 ,TRUE,4/29/22
+169,Isis,Broxton,frequency purchase,$5.95 ,FALSE,5/16/22,welcome,$1.41 ,TRUE,3/25/22
+170,Neda,Wallhead,abandoned cart,$8.59 ,TRUE,4/13/22,we missed you,$6.10 ,FALSE,9/3/22
+171,Devlin,Shovelton,cross product,$5.79 ,TRUE,1/2/22,welcome,$7.66 ,TRUE,8/13/22
+172,Tansy,Sauvage,welcome,$0.57 ,FALSE,7/3/22,abandoned cart,$9.40 ,FALSE,3/11/22
+173,Nessi,Gutowski,frequency purchase,$5.49 ,TRUE,9/8/22,welcome,$4.07 ,TRUE,6/6/22
+174,Lester,Drewett,cross product,$7.97 ,FALSE,12/5/22,welcome,$0.25 ,FALSE,1/16/22
+175,Pennie,Jeffcock,frequency purchase,$3.91 ,FALSE,5/14/22,welcome,$5.99 ,FALSE,12/3/22
+176,Anneliese,Soff,cross product,$0.09 ,TRUE,1/27/22,welcome,$5.91 ,TRUE,11/30/22
+177,Marty,England,we missed you,$5.06 ,FALSE,9/2/22,frequency purchase,$5.74 ,FALSE,1/21/22
+178,Elfreda,Petrol,cross product,$6.26 ,TRUE,11/12/22,welcome,$2.64 ,FALSE,3/25/22
+179,Noelani,Fearnley,cross product,$5.09 ,TRUE,6/24/22,frequency purchase,$0.61 ,TRUE,8/3/22
+180,Barnett,Lowensohn,cross product,$7.94 ,TRUE,7/26/22,frequency purchase,$4.43 ,TRUE,6/28/22
+181,Deana,Rabat,product launch,$7.69 ,FALSE,8/17/22,product launch,$0.81 ,TRUE,4/23/22
+182,Felicdad,Cabrer,welcome,$6.10 ,TRUE,5/2/22,abandoned cart,$9.22 ,FALSE,12/2/22
+183,Oberon,Weddeburn - Scrimgeour,welcome,$0.09 ,FALSE,11/28/22,welcome,$3.59 ,TRUE,3/23/22
+184,Carola,Bonnyson,frequency purchase,$2.05 ,FALSE,7/7/22,welcome,$4.86 ,TRUE,3/18/22
+185,Chrissy,McIlharga,frequency purchase,$2.98 ,FALSE,3/14/22,frequency purchase,$8.00 ,FALSE,1/18/22
+186,Gene,Robberecht,abandoned cart,$2.82 ,TRUE,3/14/22,abandoned cart,$0.88 ,TRUE,2/26/22
+187,Lela,Wickerson,product launch,$9.93 ,TRUE,6/11/22,frequency purchase,$3.40 ,FALSE,1/21/22
+188,Loella,Huck,welcome,$2.98 ,TRUE,6/22/22,abandoned cart,$9.05 ,FALSE,4/9/22
+189,Vivie,Moakson,welcome,$0.03 ,TRUE,11/14/22,abandoned cart,$4.65 ,FALSE,12/15/22
+190,Juli,Ygou,cross product,$1.29 ,TRUE,4/24/22,welcome,$2.07 ,FALSE,7/5/22
+191,Marlene,Scatchard,welcome,$0.94 ,FALSE,8/30/22,product launch,$1.75 ,TRUE,12/19/22
+192,Merilyn,Sange,cross product,$8.05 ,FALSE,11/23/22,welcome,$8.43 ,TRUE,8/29/22
+193,Danyette,Covelle,welcome,$4.88 ,TRUE,5/14/22,welcome,$6.06 ,FALSE,4/1/22
+194,Mayer,Ferenc,frequency purchase,$6.25 ,FALSE,5/12/22,welcome,$1.50 ,TRUE,4/5/22
+195,Seka,Dorrity,frequency purchase,$2.93 ,FALSE,8/1/22,cross product,$1.21 ,FALSE,2/13/22
+196,Laurens,Dunsmuir,cross product,$9.86 ,FALSE,12/15/22,frequency purchase,$6.93 ,FALSE,1/10/22
+197,Stesha,Pybworth,cross product,$0.66 ,TRUE,8/2/22,abandoned cart,$4.07 ,TRUE,2/22/22
+198,Brittney,Agglione,we missed you,$8.91 ,FALSE,4/8/22,we missed you,$9.45 ,FALSE,7/7/22
+199,Immanuel,Horsey,frequency purchase,$0.46 ,FALSE,8/8/22,frequency purchase,$6.66 ,TRUE,5/14/22
+200,Leticia,Bonnier,frequency purchase,$8.69 ,TRUE,9/14/22,abandoned cart,$8.70 ,FALSE,8/22/22
+201,Eugine,Parlot,cross product,$5.40 ,FALSE,2/18/22,product launch,$6.81 ,FALSE,4/30/22
+202,Johnna,Aubri,frequency purchase,$7.64 ,FALSE,1/23/22,welcome,$9.10 ,TRUE,10/12/22
+203,Ewen,Speeks,cross product,$2.75 ,TRUE,3/28/22,frequency purchase,$7.46 ,FALSE,4/6/22
+204,Kevon,Williment,frequency purchase,$4.18 ,TRUE,11/8/22,welcome,$8.66 ,TRUE,9/20/22
+205,Jacinta,Bricklebank,product launch,$7.56 ,FALSE,6/4/22,frequency purchase,$0.34 ,FALSE,11/21/22
+206,Mariya,Sauter,frequency purchase,$0.20 ,FALSE,6/10/22,welcome,$0.32 ,FALSE,6/20/22
+207,Flor,Fairtlough,frequency purchase,$1.81 ,FALSE,11/3/22,abandoned cart,$7.75 ,TRUE,1/19/22
+208,Frazer,Phillippo,welcome,$1.61 ,FALSE,1/30/22,abandoned cart,$5.49 ,FALSE,8/14/22
+209,Antonin,Lambis,product launch,$4.45 ,FALSE,11/16/22,cross product,$5.31 ,TRUE,7/16/22
+210,Carrie,Rollo,abandoned cart,$1.11 ,FALSE,10/27/22,cross product,$6.57 ,FALSE,8/6/22
+211,Korie,Scoble,frequency purchase,$1.03 ,FALSE,11/5/22,abandoned cart,$2.85 ,TRUE,2/18/22
+212,Alyce,Kadd,welcome,$1.67 ,TRUE,12/9/22,welcome,$2.30 ,FALSE,1/17/22
+213,Raf,Cordero,cross product,$3.76 ,FALSE,6/23/22,abandoned cart,$9.75 ,TRUE,10/15/22
+214,Dimitry,MacMoyer,welcome,$3.57 ,TRUE,1/22/22,welcome,$5.28 ,TRUE,12/7/22
+215,Sophi,Josowitz,frequency purchase,$7.81 ,TRUE,2/20/22,welcome,$9.12 ,TRUE,1/31/22
+216,Adrienne,Recher,frequency purchase,$2.10 ,FALSE,12/5/22,welcome,$5.77 ,TRUE,1/16/22
+217,Kai,Auletta,we missed you,$9.08 ,TRUE,5/5/22,frequency purchase,$9.65 ,FALSE,12/14/22
+218,Casey,Davisson,frequency purchase,$6.14 ,FALSE,1/17/22,abandoned cart,$2.29 ,TRUE,2/22/22
+219,Brendon,Caveau,welcome,$2.59 ,FALSE,6/13/22,abandoned cart,$8.72 ,FALSE,3/10/22
+220,Tersina,Fortoun,welcome,$0.24 ,FALSE,11/3/22,abandoned cart,$3.53 ,FALSE,3/7/22
+221,Fiona,Scrimshaw,cross product,$7.05 ,TRUE,1/9/22,welcome,$3.23 ,FALSE,5/10/22
+222,Jewel,Dovey,welcome,$9.68 ,TRUE,4/11/22,frequency purchase,$0.31 ,FALSE,10/24/22
+223,Mikaela,Quilligan,frequency purchase,$2.51 ,FALSE,12/15/22,abandoned cart,$1.87 ,FALSE,3/10/22
+224,Ibby,Januszewski,we missed you,$0.88 ,FALSE,6/1/22,product launch,$9.31 ,TRUE,6/2/22
+225,Walliw,Sitch,product launch,$1.39 ,FALSE,8/14/22,welcome,$8.47 ,FALSE,3/13/22
+226,Sula,Ashdown,cross product,$7.98 ,FALSE,5/10/22,frequency purchase,$2.43 ,TRUE,11/25/22
+227,Camila,Jeffcoat,abandoned cart,$4.20 ,FALSE,7/17/22,frequency purchase,$1.57 ,FALSE,7/12/22
+228,Alejandrina,Ferrettino,welcome,$7.63 ,FALSE,11/16/22,cross product,$0.75 ,TRUE,7/19/22
+229,Henrik,Longmire,frequency purchase,$5.34 ,TRUE,8/5/22,cross product,$0.01 ,FALSE,2/25/22
+230,Hamnet,Beakes,frequency purchase,$7.05 ,FALSE,5/8/22,abandoned cart,$7.21 ,TRUE,3/1/22
+231,Con,Skermer,abandoned cart,$8.91 ,TRUE,2/25/22,welcome,$8.46 ,TRUE,1/26/22
+232,Scarlett,Pallatina,frequency purchase,$7.71 ,FALSE,12/8/22,abandoned cart,$5.70 ,TRUE,2/8/22
+233,Gayle,Roderham,frequency purchase,$6.22 ,TRUE,11/8/22,welcome,$8.71 ,TRUE,4/27/22
+234,Janeva,Beevens,frequency purchase,$9.46 ,FALSE,4/17/22,cross product,$0.02 ,TRUE,11/14/22
+235,Ebenezer,Eldred,cross product,$8.79 ,FALSE,10/17/22,we missed you,$5.99 ,FALSE,8/2/22
+236,Mel,Halt,frequency purchase,$0.50 ,FALSE,9/28/22,welcome,$8.16 ,TRUE,1/30/22
+237,Rafe,Hauxley,cross product,$7.59 ,FALSE,11/8/22,frequency purchase,$1.70 ,FALSE,3/7/22
+238,Abdul,Human,frequency purchase,$5.42 ,FALSE,12/19/22,frequency purchase,$6.21 ,TRUE,2/8/22
+239,Jarret,McShee,frequency purchase,$5.27 ,TRUE,7/23/22,frequency purchase,$5.43 ,TRUE,1/27/22
+240,Leeanne,Float,welcome,$1.06 ,FALSE,9/30/22,welcome,$8.14 ,FALSE,7/5/22
+241,Sarene,Gutowski,cross product,$6.70 ,TRUE,9/8/22,welcome,$6.97 ,TRUE,4/19/22
+242,Wolfy,Tonna,welcome,$4.41 ,FALSE,4/6/22,welcome,$4.54 ,FALSE,4/25/22
+243,Ennis,McCluskey,frequency purchase,$5.58 ,FALSE,12/17/22,cross product,$9.12 ,FALSE,1/16/22
+244,Moise,Condit,product launch,$6.32 ,FALSE,7/11/22,welcome,$9.90 ,FALSE,5/12/22
+245,Elsinore,Minchella,frequency purchase,$3.93 ,TRUE,7/8/22,frequency purchase,$6.31 ,TRUE,9/12/22
+246,Iolanthe,Reuss,abandoned cart,$9.71 ,FALSE,8/4/22,abandoned cart,$5.57 ,FALSE,2/14/22
+247,Koo,Rushbury,cross product,$2.26 ,FALSE,11/17/22,frequency purchase,$1.51 ,FALSE,5/27/22
+248,Alexa,Beazleigh,frequency purchase,$8.15 ,FALSE,4/9/22,abandoned cart,$0.61 ,FALSE,3/13/22
+249,Yank,Marrable,cross product,$1.23 ,FALSE,9/19/22,welcome,$0.34 ,TRUE,8/7/22
+250,Reinold,Madgwick,frequency purchase,$6.95 ,FALSE,6/28/22,product launch,$6.05 ,FALSE,8/20/22
+251,Imogen,Hornig,we missed you,$8.81 ,TRUE,4/13/22,frequency purchase,$0.90 ,TRUE,5/16/22
+252,Felicio,Coursor,abandoned cart,$8.15 ,TRUE,5/31/22,frequency purchase,$1.99 ,TRUE,2/1/22
+253,Deck,Millhouse,frequency purchase,$9.41 ,TRUE,12/6/22,abandoned cart,$6.60 ,TRUE,6/14/22
+254,Viole,Imm,cross product,$1.61 ,FALSE,5/13/22,cross product,$5.92 ,FALSE,1/16/22
+255,Tuckie,Berthe,product launch,$0.38 ,FALSE,1/30/22,frequency purchase,$10.00 ,TRUE,6/23/22
+256,Danice,Binton,cross product,$5.17 ,FALSE,6/4/22,frequency purchase,$4.17 ,TRUE,2/25/22
+257,Ameline,Tease,cross product,$5.56 ,TRUE,12/2/22,we missed you,$7.32 ,TRUE,10/1/22
+258,Devy,Shinefield,cross product,$5.06 ,TRUE,8/3/22,abandoned cart,$0.34 ,TRUE,10/11/22
+259,Marilyn,Haith,welcome,$1.26 ,TRUE,11/16/22,we missed you,$5.08 ,FALSE,6/29/22
+260,Rosabelle,Loughead,frequency purchase,$5.16 ,TRUE,7/7/22,we missed you,$7.65 ,TRUE,12/14/22
+261,Davide,Pretorius,welcome,$2.21 ,FALSE,10/19/22,welcome,$1.10 ,FALSE,8/5/22
+262,Isac,Stearley,frequency purchase,$1.30 ,TRUE,6/3/22,welcome,$3.85 ,FALSE,10/17/22
+263,Maggie,McVey,we missed you,$0.20 ,FALSE,4/29/22,frequency purchase,$1.33 ,FALSE,10/5/22
+264,Joane,Abbis,cross product,$7.49 ,FALSE,9/2/22,frequency purchase,$0.14 ,FALSE,4/9/22
+265,Kylila,Skeffington,abandoned cart,$3.60 ,TRUE,3/3/22,frequency purchase,$5.85 ,FALSE,4/16/22
+266,Burnaby,Iamittii,frequency purchase,$2.54 ,FALSE,11/14/22,frequency purchase,$8.15 ,TRUE,7/19/22
+267,Lise,Pinhorn,cross product,$7.85 ,FALSE,12/10/22,product launch,$5.07 ,TRUE,8/21/22
+268,Coralie,Nehls,cross product,$8.89 ,FALSE,5/12/22,welcome,$4.50 ,FALSE,3/20/22
+269,Robenia,Tidbald,we missed you,$0.60 ,TRUE,2/17/22,frequency purchase,$0.79 ,TRUE,11/10/22
+270,Coralyn,Motto,welcome,$7.25 ,TRUE,11/14/22,welcome,$5.97 ,TRUE,1/4/22
+271,Moina,Davids,we missed you,$8.47 ,TRUE,7/17/22,frequency purchase,$0.51 ,TRUE,3/11/22
+272,Phillipe,Shelper,cross product,$4.31 ,TRUE,5/9/22,welcome,$4.44 ,TRUE,7/18/22
+273,Bentlee,Trazzi,cross product,$1.50 ,TRUE,10/2/22,frequency purchase,$6.66 ,FALSE,1/21/22
+274,Doralynne,Boydle,frequency purchase,$5.17 ,FALSE,2/27/22,welcome,$0.86 ,FALSE,1/3/22
+275,Madel,Luther,frequency purchase,$3.61 ,TRUE,9/20/22,abandoned cart,$1.94 ,FALSE,9/22/22
+276,Inger,Geratasch,product launch,$3.23 ,TRUE,1/14/22,frequency purchase,$4.09 ,FALSE,12/11/22
+277,Jacinta,Toft,frequency purchase,$6.35 ,TRUE,4/18/22,welcome,$7.03 ,FALSE,10/22/22
+278,Yance,Frammingham,frequency purchase,$8.88 ,TRUE,9/20/22,cross product,$1.10 ,FALSE,1/30/22
+279,Giffard,O'Kelly,frequency purchase,$9.38 ,FALSE,4/11/22,frequency purchase,$2.70 ,FALSE,3/2/22
+280,Marcello,Thunderchief,cross product,$5.02 ,FALSE,12/15/22,frequency purchase,$3.93 ,TRUE,12/9/22
+281,Lowrance,Stiegers,frequency purchase,$3.14 ,FALSE,8/24/22,welcome,$8.05 ,FALSE,2/17/22
+282,Ondrea,German,frequency purchase,$0.77 ,TRUE,1/29/22,welcome,$0.38 ,FALSE,8/25/22
+283,Ernaline,Cawthery,frequency purchase,$3.38 ,FALSE,6/7/22,abandoned cart,$5.49 ,TRUE,5/5/22
+284,Kristien,Gruszczak,cross product,$3.32 ,FALSE,7/11/22,product launch,$2.94 ,TRUE,9/20/22
+285,Joella,Gilfoy,frequency purchase,$7.27 ,TRUE,11/9/22,we missed you,$5.11 ,TRUE,8/28/22
+286,Kristy,Cayette,frequency purchase,$3.08 ,FALSE,6/24/22,cross product,$0.30 ,TRUE,3/1/22
+287,Patrice,Rice,cross product,$7.33 ,TRUE,2/8/22,product launch,$8.02 ,TRUE,10/1/22
+288,Chick,Cotterell,frequency purchase,$6.89 ,TRUE,3/29/22,frequency purchase,$9.67 ,TRUE,10/3/22
+289,Marcie,Muckian,welcome,$0.24 ,FALSE,9/9/22,cross product,$1.42 ,TRUE,8/5/22
+290,Quint,Eller,product launch,$7.71 ,TRUE,2/18/22,frequency purchase,$0.46 ,TRUE,11/15/22
+291,Rafaello,Franzonello,frequency purchase,$5.50 ,FALSE,5/18/22,abandoned cart,$1.15 ,TRUE,11/17/22
+292,Joanie,Bondy,frequency purchase,$6.38 ,TRUE,12/8/22,product launch,$9.84 ,FALSE,10/28/22
+293,Padraic,Romke,frequency purchase,$1.89 ,FALSE,5/20/22,welcome,$6.33 ,TRUE,11/14/22
+294,Barnabas,Atack,welcome,$9.10 ,FALSE,5/25/22,welcome,$8.91 ,FALSE,9/20/22
+295,Jami,Naisby,we missed you,$6.98 ,FALSE,6/21/22,cross product,$7.87 ,FALSE,10/28/22
+296,Brit,Wealleans,cross product,$3.99 ,FALSE,5/15/22,welcome,$7.92 ,FALSE,2/16/22
+297,Goraud,Lauthian,cross product,$0.38 ,FALSE,4/3/22,welcome,$4.18 ,TRUE,9/25/22
+298,Mozelle,Giraudat,cross product,$1.55 ,FALSE,10/22/22,abandoned cart,$9.24 ,FALSE,8/27/22
+299,Hadria,Breed,frequency purchase,$7.50 ,FALSE,1/28/22,frequency purchase,$4.90 ,TRUE,4/9/22
+300,Antoni,Tathacott,welcome,$0.52 ,FALSE,7/24/22,cross product,$2.52 ,TRUE,9/19/22
+301,Ruthanne,Snowman,welcome,$7.23 ,FALSE,1/11/22,cross product,$1.40 ,FALSE,6/2/22
+302,Dusty,Trinkwon,cross product,$2.79 ,FALSE,9/28/22,cross product,$0.90 ,TRUE,5/29/22
+303,Augie,Drohane,frequency purchase,$2.74 ,FALSE,3/16/22,welcome,$5.55 ,FALSE,7/23/22
+304,Pearce,Palke,frequency purchase,$3.88 ,FALSE,1/14/22,welcome,$0.47 ,TRUE,9/11/22
+305,Heloise,Pannaman,cross product,$2.87 ,FALSE,5/15/22,frequency purchase,$9.23 ,TRUE,8/30/22
+306,Craig,Iseton,frequency purchase,$7.31 ,FALSE,6/20/22,cross product,$4.15 ,TRUE,7/7/22
+307,Anastasia,Duffil,product launch,$6.45 ,FALSE,5/17/22,frequency purchase,$2.13 ,FALSE,1/5/22
+308,Pen,Jeannard,cross product,$6.42 ,FALSE,8/11/22,abandoned cart,$2.98 ,TRUE,7/7/22
+309,Margareta,Heales,cross product,$6.27 ,FALSE,6/6/22,cross product,$0.92 ,TRUE,4/26/22
+310,Ddene,Butters,welcome,$4.24 ,TRUE,6/7/22,welcome,$6.15 ,TRUE,11/18/22
+311,Sisile,Varnals,frequency purchase,$5.77 ,TRUE,5/11/22,welcome,$2.31 ,TRUE,3/28/22
+312,Sandra,Herculson,welcome,$0.16 ,FALSE,8/3/22,cross product,$6.86 ,FALSE,7/9/22
+313,Jerrome,Rankcom,welcome,$5.47 ,FALSE,1/28/22,welcome,$4.08 ,TRUE,3/1/22
+314,Tirrell,Lannen,cross product,$8.16 ,FALSE,6/8/22,frequency purchase,$5.49 ,TRUE,4/18/22
+315,Carolyne,Quarrie,cross product,$6.23 ,TRUE,2/25/22,welcome,$7.60 ,TRUE,1/19/22
+316,Pavlov,Jellico,product launch,$9.61 ,FALSE,11/22/22,frequency purchase,$7.70 ,FALSE,11/26/22
+317,Whitney,Pitson,abandoned cart,$9.93 ,TRUE,11/28/22,frequency purchase,$8.57 ,TRUE,1/26/22
+318,Marci,Berthel,abandoned cart,$6.98 ,TRUE,3/8/22,welcome,$9.80 ,TRUE,1/10/22
+319,Carleen,Grason,cross product,$5.22 ,TRUE,10/6/22,welcome,$9.83 ,TRUE,1/14/22
+320,Rosina,Tompkins,welcome,$0.28 ,FALSE,9/19/22,product launch,$7.91 ,FALSE,4/12/22
+321,Lishe,Ives,frequency purchase,$2.22 ,FALSE,8/28/22,abandoned cart,$4.34 ,TRUE,3/5/22
+322,Roderigo,Errington,frequency purchase,$4.69 ,FALSE,7/4/22,welcome,$9.67 ,FALSE,5/17/22
+323,Dulcia,Demkowicz,welcome,$3.04 ,TRUE,8/25/22,welcome,$1.78 ,TRUE,4/15/22
+324,Therese,Mullaney,frequency purchase,$9.02 ,TRUE,9/23/22,abandoned cart,$1.25 ,FALSE,3/4/22
+325,Jennette,Fulks,frequency purchase,$9.87 ,TRUE,10/25/22,abandoned cart,$6.32 ,TRUE,6/20/22
+326,Rafaelia,Shortin,abandoned cart,$4.76 ,FALSE,7/30/22,welcome,$6.19 ,FALSE,10/28/22
+327,Brynna,Binner,we missed you,$5.35 ,FALSE,10/16/22,welcome,$6.32 ,TRUE,2/4/22
+328,Itch,Shoemark,product launch,$6.01 ,TRUE,5/30/22,welcome,$0.56 ,FALSE,12/13/22
+329,Pietra,Bateup,frequency purchase,$0.35 ,TRUE,11/15/22,welcome,$7.10 ,FALSE,12/9/22
+330,Francesca,Yurevich,cross product,$4.88 ,FALSE,4/19/22,frequency purchase,$1.79 ,FALSE,4/27/22
+331,Brandyn,Caen,frequency purchase,$8.41 ,TRUE,10/1/22,frequency purchase,$2.67 ,FALSE,4/19/22
+332,Derick,Scrange,cross product,$3.53 ,TRUE,12/14/22,abandoned cart,$1.21 ,FALSE,10/6/22
+333,Lilly,Hoxey,cross product,$6.84 ,TRUE,9/28/22,abandoned cart,$0.30 ,FALSE,9/28/22
+334,Guthrey,Sommerland,cross product,$6.09 ,FALSE,1/25/22,cross product,$7.39 ,FALSE,7/31/22
+335,Anatola,Wheaton,abandoned cart,$8.45 ,FALSE,9/4/22,frequency purchase,$1.84 ,FALSE,5/6/22
+336,Lulu,Laurentin,frequency purchase,$7.35 ,FALSE,2/23/22,abandoned cart,$9.68 ,TRUE,1/6/22
+337,Jenda,Merricks,cross product,$2.68 ,TRUE,11/21/22,welcome,$5.69 ,TRUE,1/31/22
+338,Mahalia,Leveritt,cross product,$4.39 ,FALSE,12/2/22,cross product,$3.37 ,FALSE,3/25/22
+339,Georgette,Maffucci,welcome,$0.08 ,FALSE,11/2/22,cross product,$9.75 ,TRUE,10/6/22
+340,Lurette,Seid,product launch,$6.84 ,TRUE,1/16/22,welcome,$1.84 ,TRUE,7/3/22
+341,Merv,Hallowes,frequency purchase,$8.99 ,FALSE,11/9/22,product launch,$1.62 ,FALSE,5/26/22
+342,Cecilius,Ghilardini,welcome,$9.35 ,FALSE,9/26/22,abandoned cart,$7.98 ,FALSE,4/22/22
+343,Simone,Fearenside,abandoned cart,$6.91 ,TRUE,12/8/22,frequency purchase,$9.55 ,FALSE,9/30/22
+344,Barry,Berthomier,cross product,$5.63 ,FALSE,12/5/22,cross product,$5.58 ,TRUE,10/16/22
+345,Rustin,Vogl,frequency purchase,$3.63 ,FALSE,12/1/22,abandoned cart,$0.24 ,FALSE,10/15/22
+346,Boigie,Cashman,welcome,$7.77 ,FALSE,1/20/22,welcome,$6.07 ,FALSE,3/24/22
+347,Valida,Francom,frequency purchase,$6.11 ,FALSE,12/30/22,frequency purchase,$8.44 ,FALSE,9/29/22
+348,Sydney,Geale,we missed you,$7.86 ,FALSE,9/10/22,frequency purchase,$2.30 ,FALSE,8/6/22
+349,Monti,Murrigans,frequency purchase,$8.53 ,FALSE,7/2/22,cross product,$8.83 ,TRUE,3/31/22
+350,Marcello,Roddie,frequency purchase,$4.64 ,TRUE,8/3/22,welcome,$8.00 ,TRUE,9/20/22
+351,Carlynne,Cremer,frequency purchase,$9.30 ,TRUE,1/14/22,frequency purchase,$5.59 ,FALSE,9/29/22
+352,Arny,Robey,we missed you,$1.66 ,FALSE,8/7/22,abandoned cart,$3.11 ,FALSE,11/11/22
+353,Caldwell,Aulsford,cross product,$8.61 ,TRUE,12/6/22,welcome,$6.86 ,TRUE,8/22/22
+354,Hamnet,Montes,welcome,$6.57 ,FALSE,4/9/22,welcome,$6.94 ,FALSE,6/21/22
+355,Rupert,Gian,product launch,$5.89 ,FALSE,6/9/22,cross product,$7.24 ,TRUE,8/12/22
+356,Ameline,Earnshaw,cross product,$4.92 ,TRUE,7/4/22,welcome,$7.46 ,TRUE,3/8/22
+357,Kaila,Partner,frequency purchase,$2.72 ,FALSE,3/17/22,abandoned cart,$5.48 ,FALSE,11/2/22
+358,Guillema,Pickover,we missed you,$6.69 ,TRUE,6/17/22,frequency purchase,$0.35 ,FALSE,1/20/22
+359,Francis,Walters,frequency purchase,$8.70 ,TRUE,11/18/22,abandoned cart,$4.63 ,TRUE,5/30/22
+360,Stanislaus,Esche,frequency purchase,$2.03 ,FALSE,10/6/22,abandoned cart,$9.65 ,TRUE,8/8/22
+361,Ami,Jocelyn,frequency purchase,$5.37 ,TRUE,12/15/22,abandoned cart,$3.62 ,TRUE,5/8/22
+362,Derick,Cornwall,frequency purchase,$5.19 ,FALSE,8/3/22,welcome,$1.47 ,TRUE,11/9/22
+363,Windham,Gorges,frequency purchase,$4.80 ,TRUE,5/19/22,welcome,$1.09 ,TRUE,7/19/22
+364,Codie,Waleran,cross product,$1.95 ,TRUE,12/25/22,frequency purchase,$0.87 ,FALSE,9/18/22
+365,Perle,Filip,product launch,$3.98 ,TRUE,11/29/22,frequency purchase,$1.46 ,TRUE,6/28/22
+366,Burgess,Carlone,frequency purchase,$5.35 ,TRUE,6/10/22,welcome,$6.04 ,TRUE,10/15/22
+367,Anabal,Leggen,cross product,$2.32 ,FALSE,9/17/22,abandoned cart,$2.36 ,TRUE,2/17/22
+368,Deonne,Pollak,welcome,$1.70 ,TRUE,9/1/22,welcome,$9.47 ,FALSE,7/24/22
+369,Cecilio,Rivalland,welcome,$4.91 ,FALSE,6/5/22,frequency purchase,$6.58 ,TRUE,11/20/22
+370,Jackqueline,Ibbeson,frequency purchase,$6.92 ,FALSE,7/28/22,welcome,$7.89 ,FALSE,1/6/22
+371,Silvano,Gossop,frequency purchase,$1.90 ,TRUE,5/2/22,welcome,$4.02 ,FALSE,2/21/22
+372,Rudolph,Eggins,frequency purchase,$3.01 ,FALSE,3/10/22,product launch,$1.35 ,FALSE,6/24/22
+373,Joscelin,McKinie,cross product,$5.45 ,TRUE,2/18/22,abandoned cart,$9.43 ,FALSE,3/7/22
+374,Dennis,Pellington,welcome,$9.71 ,FALSE,12/7/22,we missed you,$4.29 ,TRUE,12/24/22
+375,Keene,Station,abandoned cart,$8.52 ,TRUE,8/20/22,welcome,$6.90 ,TRUE,5/1/22
+376,Madelaine,Lehrle,frequency purchase,$3.32 ,FALSE,8/1/22,welcome,$0.75 ,TRUE,9/17/22
+377,Emlyn,Atwool,frequency purchase,$6.27 ,TRUE,3/25/22,cross product,$9.16 ,TRUE,2/28/22
+378,Demetris,Ivic,cross product,$7.96 ,FALSE,12/23/22,abandoned cart,$4.75 ,FALSE,9/11/22
+379,Juliet,Wilkennson,cross product,$6.67 ,TRUE,10/18/22,welcome,$9.99 ,FALSE,7/29/22
+380,Shelley,Huyche,cross product,$0.11 ,TRUE,10/2/22,welcome,$4.90 ,TRUE,10/20/22
+381,Tad,Feaveryear,product launch,$5.70 ,TRUE,5/29/22,we missed you,$2.13 ,FALSE,5/19/22
+382,Verine,Tow,abandoned cart,$3.51 ,TRUE,3/31/22,welcome,$4.65 ,TRUE,8/4/22
+383,Enriqueta,Shapter,cross product,$0.88 ,FALSE,8/4/22,welcome,$6.21 ,FALSE,12/16/22
+384,Ardelia,Steade,abandoned cart,$7.29 ,FALSE,2/14/22,cross product,$5.48 ,TRUE,4/13/22
+385,Jermayne,Yerrall,cross product,$5.85 ,FALSE,6/15/22,we missed you,$5.81 ,FALSE,12/29/22
+386,Robinson,Tewkesberrie,product launch,$8.45 ,FALSE,11/23/22,product launch,$0.59 ,FALSE,5/30/22
+387,Cyndy,Fulstow,cross product,$2.94 ,TRUE,5/10/22,product launch,$3.95 ,TRUE,2/25/22
+388,Neilla,Vernon,product launch,$2.90 ,TRUE,3/17/22,abandoned cart,$1.71 ,FALSE,5/31/22
+389,Russell,Campanelle,cross product,$0.74 ,FALSE,3/21/22,abandoned cart,$4.50 ,TRUE,1/19/22
+390,Leonid,Abbatt,we missed you,$0.14 ,FALSE,9/24/22,welcome,$4.39 ,TRUE,8/15/22
+391,Lem,Heather,frequency purchase,$0.23 ,TRUE,4/17/22,frequency purchase,$4.98 ,TRUE,10/9/22
+392,Alyss,Karslake,frequency purchase,$2.12 ,TRUE,1/10/22,abandoned cart,$4.76 ,FALSE,3/13/22
+393,Timmi,Werendell,welcome,$2.55 ,TRUE,9/17/22,abandoned cart,$2.46 ,TRUE,9/30/22
+394,Gabbie,Temporal,welcome,$6.81 ,FALSE,7/9/22,welcome,$7.29 ,FALSE,1/16/22
+395,Hillary,Arnaut,cross product,$4.20 ,FALSE,4/11/22,abandoned cart,$7.73 ,TRUE,10/29/22
+396,Fanni,Loyd,welcome,$1.37 ,TRUE,2/18/22,abandoned cart,$2.89 ,TRUE,8/24/22
+397,Terrel,Chifney,frequency purchase,$9.20 ,TRUE,10/1/22,abandoned cart,$8.38 ,FALSE,12/10/22
+398,Rheba,Stockwell,cross product,$6.71 ,TRUE,5/15/22,welcome,$4.41 ,FALSE,11/26/22
+399,Ketti,Danslow,frequency purchase,$2.43 ,TRUE,5/26/22,abandoned cart,$5.98 ,FALSE,4/28/22
+400,Amble,Cockerell,frequency purchase,$8.69 ,TRUE,4/9/22,abandoned cart,$8.12 ,FALSE,3/27/22
+401,Loise,Bosson,welcome,$9.18 ,FALSE,2/20/22,frequency purchase,$8.19 ,FALSE,10/5/22
+402,Lorelei,Frushard,welcome,$5.16 ,FALSE,1/2/22,abandoned cart,$5.84 ,TRUE,4/30/22
+403,Esdras,MacCaughey,frequency purchase,$6.16 ,FALSE,8/14/22,welcome,$1.08 ,FALSE,1/16/22
+404,Nicko,Burless,product launch,$2.79 ,TRUE,4/22/22,abandoned cart,$6.92 ,TRUE,3/22/22
+405,Colet,Gegay,cross product,$3.93 ,TRUE,7/16/22,welcome,$7.30 ,TRUE,8/16/22
+406,Myrna,Charle,we missed you,$3.74 ,FALSE,6/18/22,product launch,$9.08 ,TRUE,5/2/22
+407,Goraud,Osselton,product launch,$4.04 ,TRUE,4/11/22,welcome,$5.15 ,FALSE,11/24/22
+408,Alfie,Hans,cross product,$3.04 ,TRUE,9/10/22,product launch,$7.59 ,FALSE,9/27/22
+409,Marjie,Aldiss,welcome,$3.24 ,TRUE,6/27/22,abandoned cart,$9.99 ,TRUE,9/29/22
+410,Brannon,MacCarter,cross product,$7.93 ,TRUE,1/4/22,welcome,$0.33 ,TRUE,11/18/22
+411,Ileane,Nickoles,cross product,$1.81 ,FALSE,9/20/22,abandoned cart,$6.93 ,TRUE,9/15/22
+412,Conrado,Emslie,we missed you,$2.94 ,TRUE,9/29/22,welcome,$4.03 ,FALSE,10/9/22
+413,Blisse,Dwelley,frequency purchase,$6.85 ,TRUE,11/6/22,frequency purchase,$3.72 ,TRUE,1/15/22
+414,Liliane,Mallabone,abandoned cart,$7.17 ,FALSE,5/16/22,frequency purchase,$2.21 ,TRUE,8/12/22
+415,Seka,Abrahim,welcome,$8.79 ,TRUE,8/27/22,welcome,$6.14 ,FALSE,7/15/22
+416,Shayne,Cuell,cross product,$6.45 ,TRUE,3/21/22,cross product,$9.84 ,TRUE,7/27/22
+417,Klarika,Ledford,frequency purchase,$6.59 ,FALSE,1/16/22,welcome,$4.71 ,FALSE,5/24/22
+418,Lorrie,Naper,product launch,$8.69 ,TRUE,3/9/22,we missed you,$9.78 ,FALSE,2/19/22
+419,Willetta,Peatman,frequency purchase,$4.88 ,TRUE,9/25/22,welcome,$6.06 ,FALSE,5/12/22
+420,Honoria,Scheu,we missed you,$2.97 ,FALSE,2/3/22,welcome,$1.57 ,TRUE,2/26/22
+421,Gerianne,Meran,cross product,$5.69 ,FALSE,9/16/22,we missed you,$5.07 ,TRUE,6/21/22
+422,Jermain,Hatter,welcome,$6.82 ,TRUE,6/17/22,welcome,$1.82 ,FALSE,5/20/22
+423,Imojean,Lainge,welcome,$6.11 ,TRUE,4/24/22,frequency purchase,$0.16 ,FALSE,8/10/22
+424,Brigg,Jados,frequency purchase,$3.41 ,TRUE,9/13/22,welcome,$0.74 ,FALSE,3/5/22
+425,Von,Ivatts,welcome,$4.35 ,FALSE,9/14/22,welcome,$7.62 ,FALSE,4/29/22
+426,Rafael,Chander,cross product,$1.74 ,FALSE,3/19/22,frequency purchase,$4.76 ,FALSE,5/30/22
+427,Petronia,Baxstare,cross product,$8.44 ,FALSE,5/21/22,product launch,$0.03 ,FALSE,9/10/22
+428,Daniella,Leggitt,welcome,$7.79 ,TRUE,10/19/22,we missed you,$7.72 ,TRUE,7/18/22
+429,Rouvin,Chorlton,welcome,$2.99 ,TRUE,7/4/22,abandoned cart,$8.50 ,FALSE,5/13/22
+430,Sarene,Eynaud,frequency purchase,$7.11 ,TRUE,3/31/22,frequency purchase,$2.00 ,TRUE,11/20/22
+431,Trace,Tomkys,frequency purchase,$8.79 ,TRUE,6/29/22,cross product,$7.40 ,TRUE,10/24/22
+432,Nance,Cosgriff,we missed you,$0.99 ,FALSE,7/26/22,cross product,$0.92 ,TRUE,9/12/22
+433,Sheela,Boeck,frequency purchase,$6.02 ,TRUE,8/16/22,abandoned cart,$0.59 ,FALSE,9/21/22
+434,Stuart,Hawket,cross product,$0.12 ,FALSE,1/10/22,abandoned cart,$2.86 ,TRUE,7/11/22
+435,Merilee,Elcoat,frequency purchase,$1.61 ,TRUE,10/21/22,frequency purchase,$7.58 ,TRUE,7/18/22
+436,Rita,Flucker,product launch,$3.51 ,FALSE,2/21/22,frequency purchase,$9.71 ,FALSE,12/6/22
+437,Fancie,Rulton,frequency purchase,$1.37 ,FALSE,12/22/22,cross product,$3.30 ,FALSE,11/12/22
+438,Augustin,Latch,frequency purchase,$1.11 ,TRUE,8/22/22,welcome,$8.13 ,FALSE,10/18/22
+439,Kristian,Leghorn,frequency purchase,$5.10 ,FALSE,6/12/22,abandoned cart,$0.83 ,FALSE,10/29/22
+440,Hakim,Kupis,cross product,$8.10 ,FALSE,5/3/22,abandoned cart,$6.86 ,TRUE,10/26/22
+441,Raffaello,Norcross,frequency purchase,$1.88 ,TRUE,5/23/22,abandoned cart,$7.04 ,FALSE,8/11/22
+442,Kristoforo,Clendinning,frequency purchase,$8.96 ,FALSE,12/1/22,welcome,$3.63 ,FALSE,7/25/22
+443,Marin,MacCoughen,cross product,$1.53 ,FALSE,11/8/22,product launch,$0.46 ,TRUE,5/13/22
+444,Hyatt,Jamot,frequency purchase,$5.28 ,TRUE,7/18/22,product launch,$1.93 ,FALSE,4/16/22
+445,Matelda,Planke,frequency purchase,$7.63 ,FALSE,7/11/22,product launch,$5.67 ,FALSE,10/1/22
+446,Nari,Redley,product launch,$0.54 ,FALSE,3/9/22,abandoned cart,$4.92 ,TRUE,7/11/22
+447,Karoline,Kettlestring,frequency purchase,$8.58 ,TRUE,12/7/22,frequency purchase,$7.85 ,FALSE,3/6/22
+448,Robby,Paye,welcome,$0.77 ,FALSE,10/30/22,we missed you,$1.15 ,TRUE,1/18/22
+449,Jerrilyn,Delos,cross product,$1.48 ,FALSE,6/3/22,welcome,$6.24 ,TRUE,5/28/22
+450,Chas,Hanfrey,we missed you,$3.00 ,FALSE,5/8/22,welcome,$4.32 ,TRUE,2/22/22
+451,Thoma,Whatsize,frequency purchase,$8.89 ,TRUE,5/30/22,abandoned cart,$9.53 ,TRUE,8/2/22
+452,Maribel,Dealy,welcome,$4.99 ,FALSE,8/28/22,cross product,$6.08 ,TRUE,9/16/22
+453,Clarinda,Fundell,frequency purchase,$3.44 ,TRUE,9/29/22,cross product,$6.28 ,TRUE,12/14/22
+454,Cam,Episcopio,cross product,$1.07 ,TRUE,11/17/22,welcome,$1.00 ,TRUE,1/17/22
+455,Bendick,di Rocca,cross product,$6.32 ,TRUE,8/25/22,we missed you,$1.48 ,FALSE,8/23/22
+456,Ursola,Eble,frequency purchase,$9.64 ,TRUE,2/5/22,we missed you,$7.82 ,FALSE,1/1/22
+457,Winifield,Fairlie,product launch,$1.31 ,TRUE,4/26/22,abandoned cart,$7.52 ,TRUE,5/23/22
+458,Francisco,Tweddell,product launch,$7.05 ,TRUE,3/3/22,we missed you,$6.10 ,TRUE,9/6/22
+459,Lizabeth,Rawstron,frequency purchase,$4.09 ,FALSE,3/22/22,product launch,$8.56 ,FALSE,8/21/22
+460,Gris,Caswall,welcome,$5.20 ,FALSE,9/21/22,welcome,$1.15 ,FALSE,4/9/22
+461,Hastings,Orris,frequency purchase,$0.14 ,FALSE,11/26/22,cross product,$1.24 ,TRUE,6/28/22
+462,Kasper,Wrought,product launch,$1.55 ,FALSE,5/20/22,abandoned cart,$1.76 ,TRUE,6/9/22
+463,Rhea,Chillistone,product launch,$5.40 ,FALSE,10/22/22,cross product,$1.37 ,TRUE,6/15/22
+464,Juditha,Mellenby,frequency purchase,$5.55 ,FALSE,2/13/22,welcome,$9.27 ,FALSE,1/4/22
+465,Harlen,Gerlack,frequency purchase,$7.08 ,FALSE,2/17/22,cross product,$6.13 ,TRUE,8/16/22
+466,Samuel,Scrooby,cross product,$0.72 ,FALSE,1/19/22,welcome,$5.06 ,FALSE,4/28/22
+467,Glenda,Rachuig,frequency purchase,$8.05 ,TRUE,11/30/22,welcome,$9.72 ,TRUE,1/24/22
+468,Deanna,Bockett,cross product,$0.70 ,FALSE,3/10/22,product launch,$4.28 ,FALSE,9/21/22
+469,Corry,Lorkin,cross product,$0.50 ,FALSE,10/8/22,welcome,$8.58 ,FALSE,3/22/22
+470,Garrik,Reddy,cross product,$5.30 ,TRUE,3/20/22,welcome,$9.10 ,FALSE,9/29/22
+471,Rosene,Jeanin,cross product,$8.88 ,FALSE,11/30/22,welcome,$9.67 ,TRUE,11/9/22
+472,Daryle,Guyot,cross product,$7.28 ,FALSE,1/25/22,welcome,$1.02 ,TRUE,12/8/22
+473,Stella,Halm,cross product,$0.68 ,FALSE,12/25/22,abandoned cart,$9.75 ,FALSE,8/28/22
+474,Jud,De Roeck,welcome,$5.16 ,TRUE,10/24/22,cross product,$9.83 ,TRUE,1/4/22
+475,Taite,Bellini,cross product,$1.66 ,FALSE,9/2/22,welcome,$7.94 ,TRUE,5/10/22
+476,Dorotea,Demangeon,frequency purchase,$4.23 ,FALSE,4/2/22,cross product,$3.35 ,TRUE,9/10/22
+477,Maribeth,Cottey,cross product,$2.50 ,TRUE,9/15/22,frequency purchase,$8.50 ,FALSE,10/18/22
+478,Nanci,Barbier,abandoned cart,$3.70 ,FALSE,1/2/22,frequency purchase,$6.32 ,FALSE,11/21/22
+479,Ana,Wooster,frequency purchase,$7.44 ,TRUE,7/13/22,welcome,$6.78 ,FALSE,4/26/22
+480,Maible,Geddes,product launch,$6.00 ,FALSE,9/17/22,abandoned cart,$4.87 ,TRUE,3/23/22
+481,Timmy,Greve,frequency purchase,$1.71 ,FALSE,4/25/22,welcome,$4.00 ,FALSE,2/14/22
+482,Papageno,Handscombe,product launch,$3.28 ,TRUE,3/31/22,abandoned cart,$6.42 ,TRUE,12/15/22
+483,Brandon,Loosmore,frequency purchase,$3.99 ,FALSE,4/22/22,abandoned cart,$0.77 ,FALSE,7/12/22
+484,Toma,Fairburn,frequency purchase,$4.32 ,TRUE,3/14/22,welcome,$3.49 ,FALSE,8/13/22
+485,Boy,Agglio,cross product,$8.82 ,FALSE,4/10/22,frequency purchase,$2.08 ,FALSE,2/26/22
+486,Justus,Naper,frequency purchase,$0.05 ,TRUE,5/17/22,welcome,$2.77 ,TRUE,11/6/22
+487,Joela,McNutt,frequency purchase,$0.53 ,FALSE,3/23/22,welcome,$9.95 ,FALSE,11/20/22
+488,Nanine,Charer,product launch,$1.59 ,TRUE,10/13/22,welcome,$7.04 ,TRUE,5/22/22
+489,Arlene,Shillam,we missed you,$9.98 ,FALSE,3/17/22,cross product,$7.92 ,FALSE,11/16/22
+490,Nevil,Reddie,frequency purchase,$6.72 ,TRUE,2/9/22,frequency purchase,$8.04 ,TRUE,10/26/22
+491,Iolande,Blowen,welcome,$6.69 ,TRUE,8/15/22,abandoned cart,$4.72 ,TRUE,6/20/22
+492,Tandi,Gilstin,frequency purchase,$0.75 ,TRUE,10/2/22,welcome,$3.72 ,TRUE,7/28/22
+493,Far,Thorley,frequency purchase,$2.20 ,FALSE,7/31/22,product launch,$4.60 ,TRUE,4/18/22
+494,Templeton,Mithun,abandoned cart,$5.45 ,TRUE,8/6/22,frequency purchase,$0.91 ,FALSE,5/26/22
+495,Aubrie,Izkovitz,product launch,$4.33 ,FALSE,6/4/22,abandoned cart,$6.94 ,TRUE,10/11/22
+496,Lenette,Sutlieff,welcome,$7.87 ,TRUE,7/30/22,abandoned cart,$5.00 ,TRUE,10/19/22
+497,Ricky,Lowndsbrough,frequency purchase,$4.42 ,FALSE,6/5/22,frequency purchase,$0.34 ,TRUE,10/23/22
+498,Amandy,Bloodworth,cross product,$8.13 ,TRUE,9/30/22,frequency purchase,$3.08 ,FALSE,8/3/22
+499,Lorraine,Kirsch,cross product,$0.69 ,FALSE,10/21/22,welcome,$4.48 ,TRUE,2/6/22
+500,Teri,Buckham,frequency purchase,$2.16 ,FALSE,2/4/22,frequency purchase,$9.56 ,FALSE,3/29/22
+501,Derek,Robbeke,abandoned cart,$2.29 ,FALSE,7/19/22,welcome,$8.90 ,FALSE,5/15/22
+502,Aluin,Ferraron,product launch,$7.05 ,TRUE,6/30/22,cross product,$8.53 ,FALSE,4/7/22
+503,Elaina,Edensor,frequency purchase,$3.55 ,FALSE,5/14/22,abandoned cart,$4.10 ,TRUE,5/11/22
+504,Asher,Iglesiaz,frequency purchase,$0.67 ,TRUE,4/21/22,welcome,$5.69 ,TRUE,5/14/22
+505,Archambault,Damiata,product launch,$1.86 ,FALSE,8/18/22,cross product,$9.58 ,TRUE,8/11/22
+506,Lida,Mewe,welcome,$7.54 ,TRUE,8/14/22,welcome,$0.69 ,FALSE,9/1/22
+507,Alanna,Darte,product launch,$9.17 ,TRUE,12/27/22,frequency purchase,$2.11 ,TRUE,7/8/22
+508,Elora,Gabler,cross product,$7.10 ,TRUE,6/5/22,frequency purchase,$2.49 ,FALSE,9/21/22
+509,Gustavus,Lepope,frequency purchase,$8.38 ,TRUE,9/8/22,abandoned cart,$8.03 ,FALSE,5/2/22
+510,Rod,Reiner,cross product,$2.07 ,FALSE,9/10/22,abandoned cart,$3.48 ,FALSE,6/10/22
+511,Adi,McDuall,we missed you,$9.49 ,FALSE,12/27/22,welcome,$3.68 ,TRUE,5/1/22
+512,Marv,Howen,product launch,$7.53 ,FALSE,3/13/22,welcome,$7.56 ,FALSE,10/22/22
+513,Dael,Bergin,frequency purchase,$8.63 ,TRUE,6/26/22,frequency purchase,$4.89 ,FALSE,6/23/22
+514,Andriette,Thow,cross product,$6.88 ,FALSE,11/24/22,we missed you,$8.33 ,TRUE,3/31/22
+515,Earlie,Southernwood,frequency purchase,$4.45 ,FALSE,12/4/22,welcome,$4.52 ,TRUE,3/29/22
+516,Frasquito,Wandrey,cross product,$6.99 ,TRUE,8/6/22,welcome,$4.87 ,TRUE,1/25/22
+517,Ketty,Whistlecraft,welcome,$9.81 ,FALSE,4/9/22,abandoned cart,$2.38 ,TRUE,4/23/22
+518,Sibby,Klageman,frequency purchase,$1.01 ,FALSE,2/5/22,frequency purchase,$9.57 ,TRUE,10/21/22
+519,Megen,Maron,frequency purchase,$5.75 ,TRUE,7/9/22,product launch,$7.46 ,FALSE,5/3/22
+520,Winston,Gorner,product launch,$0.86 ,TRUE,9/7/22,welcome,$5.20 ,TRUE,10/21/22
+521,Victoria,Von Hindenburg,abandoned cart,$5.41 ,FALSE,11/5/22,welcome,$1.68 ,TRUE,8/27/22
+522,Brew,Gasgarth,frequency purchase,$2.38 ,TRUE,4/28/22,welcome,$2.86 ,FALSE,10/29/22
+523,Clemmie,Bullman,product launch,$6.02 ,TRUE,6/23/22,welcome,$6.41 ,TRUE,11/5/22
+524,Anderson,Shillaber,product launch,$8.59 ,FALSE,6/1/22,abandoned cart,$3.68 ,TRUE,9/1/22
+525,Marcelo,McMeekin,welcome,$9.53 ,FALSE,12/15/22,cross product,$4.89 ,FALSE,2/19/22
+526,Genovera,McIlvaney,frequency purchase,$0.65 ,FALSE,12/19/22,welcome,$3.77 ,FALSE,2/26/22
+527,Amabelle,Chesley,welcome,$5.91 ,TRUE,5/9/22,frequency purchase,$8.64 ,TRUE,9/29/22
+528,Monika,Astbury,abandoned cart,$5.32 ,TRUE,8/5/22,cross product,$9.29 ,TRUE,1/13/22
+529,Billy,Fehners,abandoned cart,$9.90 ,FALSE,8/6/22,cross product,$4.24 ,TRUE,2/28/22
+530,Barthel,Creggan,cross product,$4.11 ,FALSE,4/8/22,cross product,$6.29 ,FALSE,3/20/22
+531,Karlens,Frearson,cross product,$5.33 ,FALSE,1/13/22,frequency purchase,$4.93 ,TRUE,11/3/22
+532,Cosmo,Doughill,cross product,$6.63 ,TRUE,10/3/22,welcome,$0.87 ,TRUE,8/4/22
+533,Leontine,Offiler,frequency purchase,$5.75 ,TRUE,10/31/22,cross product,$7.96 ,TRUE,8/14/22
+534,Forest,Jarville,we missed you,$8.03 ,FALSE,2/10/22,welcome,$5.68 ,TRUE,12/14/22
+535,Johnette,Fitt,product launch,$4.61 ,TRUE,8/27/22,product launch,$4.47 ,TRUE,6/11/22
+536,Chrissie,Featherstone,cross product,$6.35 ,TRUE,12/30/22,abandoned cart,$0.60 ,FALSE,7/31/22
+537,Martelle,Cornwell,frequency purchase,$4.30 ,TRUE,8/23/22,frequency purchase,$8.60 ,FALSE,8/10/22
+538,Vail,Malshinger,cross product,$7.01 ,FALSE,3/28/22,product launch,$7.52 ,TRUE,1/9/22
+539,Jay,Bergstram,frequency purchase,$2.01 ,FALSE,11/6/22,welcome,$4.96 ,FALSE,1/4/22
+540,Myrna,Alibone,frequency purchase,$1.36 ,FALSE,4/12/22,welcome,$0.13 ,TRUE,10/16/22
+541,Skye,Sutworth,cross product,$2.54 ,FALSE,3/9/22,product launch,$5.70 ,TRUE,3/12/22
+542,Rosalie,Fairweather,frequency purchase,$8.60 ,TRUE,5/1/22,frequency purchase,$0.80 ,TRUE,6/15/22
+543,Aurel,McErlaine,cross product,$0.65 ,TRUE,8/18/22,abandoned cart,$3.88 ,TRUE,12/7/22
+544,Bunny,Dunnett,product launch,$2.30 ,FALSE,1/30/22,abandoned cart,$7.49 ,FALSE,9/25/22
+545,Lesley,Reicharz,cross product,$7.41 ,TRUE,9/8/22,welcome,$3.90 ,FALSE,2/14/22
+546,Briana,Callingham,product launch,$3.58 ,FALSE,8/14/22,frequency purchase,$5.43 ,FALSE,12/15/22
+547,Pam,Walshaw,cross product,$2.10 ,TRUE,5/8/22,frequency purchase,$8.32 ,FALSE,6/12/22
+548,Patin,Tomankowski,cross product,$3.05 ,FALSE,12/7/22,product launch,$3.66 ,TRUE,2/14/22
+549,Debee,O'Hallihane,frequency purchase,$4.26 ,TRUE,3/5/22,welcome,$5.54 ,TRUE,8/6/22
+550,Wylie,Samwaye,frequency purchase,$0.47 ,TRUE,6/20/22,abandoned cart,$5.25 ,TRUE,8/26/22
+551,Andreas,Mapam,welcome,$3.22 ,FALSE,8/2/22,welcome,$9.77 ,TRUE,12/11/22
+552,Gabi,Fort,welcome,$4.22 ,FALSE,3/20/22,abandoned cart,$3.52 ,TRUE,5/19/22
+553,Roberto,Amoore,cross product,$7.71 ,TRUE,3/16/22,welcome,$8.57 ,TRUE,11/24/22
+554,Yul,Butland,cross product,$1.29 ,TRUE,11/13/22,frequency purchase,$1.13 ,FALSE,7/14/22
+555,Herman,Spottiswoode,cross product,$8.81 ,FALSE,8/1/22,abandoned cart,$1.77 ,TRUE,11/7/22
+556,Bunnie,Kiellor,cross product,$4.09 ,FALSE,2/12/22,cross product,$6.73 ,FALSE,7/1/22
+557,Grata,Boother,frequency purchase,$9.23 ,FALSE,9/9/22,we missed you,$1.48 ,TRUE,12/14/22
+558,Gerik,Dunstan,welcome,$5.21 ,TRUE,1/22/22,welcome,$8.05 ,FALSE,10/3/22
+559,Mufinella,Coxwell,frequency purchase,$2.11 ,TRUE,9/5/22,abandoned cart,$5.25 ,TRUE,6/11/22
+560,Constancia,Di Claudio,frequency purchase,$6.87 ,TRUE,5/1/22,abandoned cart,$9.39 ,TRUE,5/23/22
+561,Tammara,Gawkroge,frequency purchase,$1.66 ,TRUE,3/31/22,abandoned cart,$6.43 ,TRUE,11/4/22
+562,Troy,Bande,frequency purchase,$3.57 ,FALSE,7/28/22,abandoned cart,$7.54 ,TRUE,3/13/22
+563,Kiel,Bowlas,cross product,$7.72 ,TRUE,8/20/22,welcome,$4.40 ,FALSE,4/7/22
+564,Maynord,Berrecloth,product launch,$8.82 ,TRUE,7/18/22,welcome,$8.93 ,FALSE,5/22/22
+565,Austen,Dockrell,product launch,$8.15 ,TRUE,12/15/22,abandoned cart,$8.43 ,TRUE,12/9/22
+566,Cleon,Sowley,cross product,$4.68 ,FALSE,9/12/22,abandoned cart,$4.84 ,FALSE,7/5/22
+567,Cointon,Spittal,welcome,$4.27 ,FALSE,6/2/22,cross product,$3.72 ,TRUE,4/7/22
+568,Alard,Jewess,we missed you,$9.92 ,FALSE,3/3/22,abandoned cart,$2.76 ,TRUE,1/27/22
+569,Madelle,Grassot,cross product,$8.99 ,FALSE,2/25/22,abandoned cart,$9.48 ,TRUE,10/23/22
+570,Jorgan,Cockton,cross product,$5.62 ,TRUE,1/13/22,frequency purchase,$5.79 ,FALSE,5/26/22
+571,Dolf,Alstead,cross product,$1.82 ,FALSE,1/18/22,abandoned cart,$6.63 ,TRUE,4/22/22
+572,Pinchas,Waycott,cross product,$1.75 ,TRUE,6/3/22,abandoned cart,$9.05 ,FALSE,6/29/22
+573,Josie,Huntington,frequency purchase,$6.35 ,FALSE,7/28/22,welcome,$0.43 ,FALSE,5/8/22
+574,Bridie,Serraillier,cross product,$9.90 ,FALSE,10/18/22,welcome,$6.06 ,FALSE,2/28/22
+575,Ardine,Banton,frequency purchase,$3.01 ,FALSE,8/6/22,abandoned cart,$2.62 ,TRUE,3/14/22
+576,See,Bragge,welcome,$8.62 ,TRUE,8/8/22,abandoned cart,$10.00 ,TRUE,11/5/22
+577,Hunfredo,Dooland,frequency purchase,$7.33 ,TRUE,11/4/22,welcome,$2.86 ,FALSE,10/11/22
+578,Lena,Kield,frequency purchase,$4.44 ,FALSE,3/18/22,cross product,$4.85 ,FALSE,10/26/22
+579,Bryn,Benyon,cross product,$0.44 ,TRUE,10/20/22,cross product,$1.75 ,FALSE,12/15/22
+580,Garvy,Clampton,cross product,$6.75 ,FALSE,8/29/22,frequency purchase,$7.37 ,TRUE,10/5/22
+581,Cherie,Sivell,we missed you,$3.65 ,TRUE,9/18/22,product launch,$8.62 ,TRUE,1/6/22
+582,Nadine,Sweed,frequency purchase,$9.75 ,FALSE,11/14/22,abandoned cart,$7.30 ,TRUE,5/1/22
+583,Garey,Buyers,frequency purchase,$7.44 ,TRUE,12/18/22,frequency purchase,$7.48 ,TRUE,5/11/22
+584,Robin,Merali,frequency purchase,$3.96 ,FALSE,3/8/22,welcome,$6.71 ,TRUE,12/15/22
+585,Cyril,Inman,cross product,$5.51 ,TRUE,1/16/22,abandoned cart,$8.02 ,TRUE,10/22/22
+586,Townsend,McMackin,frequency purchase,$8.16 ,FALSE,10/17/22,frequency purchase,$5.04 ,FALSE,10/4/22
+587,Raffaello,Base,frequency purchase,$6.85 ,FALSE,6/14/22,welcome,$2.93 ,FALSE,12/3/22
+588,Gertrudis,Cosgry,cross product,$2.64 ,TRUE,9/14/22,abandoned cart,$0.39 ,FALSE,10/30/22
+589,Kylen,Dimitrescu,cross product,$5.68 ,FALSE,5/29/22,frequency purchase,$7.57 ,TRUE,12/8/22
+590,Reynard,Sulter,cross product,$6.20 ,FALSE,11/3/22,welcome,$4.50 ,FALSE,5/11/22
+591,Umberto,Goosey,frequency purchase,$1.58 ,FALSE,5/1/22,product launch,$8.21 ,TRUE,10/28/22
+592,Brandtr,England,frequency purchase,$7.64 ,FALSE,3/27/22,we missed you,$5.51 ,FALSE,10/15/22
+593,Steffane,Whitwam,cross product,$1.41 ,FALSE,8/6/22,welcome,$7.68 ,FALSE,12/17/22
+594,Shelia,Prestige,product launch,$1.62 ,TRUE,2/11/22,product launch,$3.97 ,TRUE,7/27/22
+595,Jack,Britee,cross product,$6.71 ,TRUE,3/15/22,product launch,$1.20 ,FALSE,6/25/22
+596,Hamnet,Calbrathe,cross product,$8.33 ,FALSE,4/11/22,frequency purchase,$5.78 ,FALSE,12/21/22
+597,Diena,Roxburch,we missed you,$3.96 ,TRUE,12/1/22,cross product,$3.81 ,TRUE,8/3/22
+598,Anne-marie,Browell,product launch,$5.60 ,FALSE,6/2/22,cross product,$8.78 ,FALSE,3/7/22
+599,Sumner,Julian,product launch,$9.95 ,FALSE,2/15/22,we missed you,$5.77 ,FALSE,10/5/22
+600,Niels,Chainey,product launch,$6.77 ,TRUE,4/29/22,product launch,$6.56 ,FALSE,12/6/22
+601,Robinson,Finicj,frequency purchase,$0.58 ,FALSE,11/27/22,welcome,$9.89 ,TRUE,6/10/22
+602,Martelle,Ettles,frequency purchase,$6.18 ,TRUE,9/2/22,we missed you,$9.30 ,FALSE,10/27/22
+603,Bettye,Browett,product launch,$8.85 ,TRUE,7/7/22,abandoned cart,$5.57 ,TRUE,6/5/22
+604,Delinda,Carnall,we missed you,$7.06 ,FALSE,8/6/22,we missed you,$7.67 ,FALSE,1/31/22
+605,Cara,Metcalf,abandoned cart,$7.43 ,FALSE,8/12/22,welcome,$5.71 ,FALSE,3/31/22
+606,Padgett,Courson,cross product,$7.38 ,TRUE,8/21/22,welcome,$0.02 ,FALSE,2/26/22
+607,Kathryn,Nutley,product launch,$0.66 ,TRUE,2/23/22,welcome,$0.24 ,FALSE,10/30/22
+608,Stevy,Krop,abandoned cart,$6.85 ,TRUE,5/29/22,abandoned cart,$3.27 ,TRUE,11/25/22
+609,Mollee,Dixson,cross product,$2.76 ,TRUE,12/17/22,abandoned cart,$4.12 ,TRUE,9/24/22
+610,Thatch,Merry,we missed you,$7.07 ,TRUE,9/8/22,cross product,$1.05 ,TRUE,4/19/22
+611,Weston,Dionisio,cross product,$6.39 ,FALSE,12/22/22,we missed you,$4.02 ,TRUE,5/19/22
+612,Clayborn,Barrell,frequency purchase,$4.75 ,FALSE,3/10/22,abandoned cart,$6.31 ,FALSE,5/26/22
+613,Demeter,Czajka,product launch,$9.52 ,TRUE,10/29/22,abandoned cart,$5.18 ,TRUE,8/18/22
+614,Neil,Neate,product launch,$5.30 ,TRUE,10/27/22,cross product,$4.34 ,TRUE,6/15/22
+615,Blanch,MacArd,cross product,$1.58 ,FALSE,6/16/22,frequency purchase,$9.36 ,TRUE,10/16/22
+616,Auberon,Busson,frequency purchase,$0.58 ,TRUE,9/19/22,product launch,$9.19 ,FALSE,7/21/22
+617,Agata,Peile,frequency purchase,$5.21 ,TRUE,2/24/22,abandoned cart,$9.26 ,TRUE,6/16/22
+618,Claiborn,Bruck,frequency purchase,$5.61 ,FALSE,6/14/22,abandoned cart,$8.63 ,FALSE,2/25/22
+619,Chrisse,Ciciari,cross product,$2.11 ,TRUE,9/5/22,welcome,$7.24 ,TRUE,11/8/22
+620,Deerdre,Rock,abandoned cart,$6.70 ,FALSE,7/24/22,welcome,$8.45 ,FALSE,9/23/22
+621,Jessee,Tremoille,frequency purchase,$2.55 ,TRUE,11/6/22,abandoned cart,$6.52 ,FALSE,2/24/22
+622,Talbot,Rentenbeck,frequency purchase,$2.98 ,FALSE,4/24/22,frequency purchase,$6.26 ,FALSE,3/2/22
+623,Nikolas,Gelletly,frequency purchase,$3.09 ,TRUE,2/24/22,frequency purchase,$9.86 ,TRUE,4/11/22
+624,Colan,Edmundson,cross product,$0.26 ,TRUE,3/5/22,welcome,$1.34 ,TRUE,11/22/22
+625,Roxanne,Blabie,frequency purchase,$2.14 ,TRUE,8/28/22,frequency purchase,$4.87 ,TRUE,6/12/22
+626,Benson,Dubs,frequency purchase,$9.99 ,FALSE,5/1/22,welcome,$5.28 ,TRUE,12/22/22
+627,Cristionna,Harwick,product launch,$1.91 ,FALSE,8/7/22,frequency purchase,$8.03 ,TRUE,8/11/22
+628,Filbert,Cobley,cross product,$5.63 ,FALSE,4/12/22,welcome,$0.62 ,FALSE,10/17/22
+629,Alexander,Pavlovic,cross product,$2.50 ,TRUE,3/7/22,cross product,$0.44 ,FALSE,1/31/22
+630,Sandro,Bonevant,product launch,$5.71 ,FALSE,10/11/22,we missed you,$5.05 ,TRUE,10/25/22
+631,Phillie,Nelthropp,abandoned cart,$2.77 ,FALSE,8/13/22,abandoned cart,$5.77 ,FALSE,1/20/22
+632,Lianna,Gloyens,cross product,$3.29 ,FALSE,9/26/22,we missed you,$0.43 ,FALSE,12/20/22
+633,Barney,Heineken,abandoned cart,$7.25 ,TRUE,1/24/22,frequency purchase,$2.62 ,TRUE,6/1/22
+634,Osbourn,Tratton,welcome,$7.75 ,TRUE,3/10/22,abandoned cart,$0.46 ,TRUE,1/28/22
+635,Trish,Enstone,cross product,$9.94 ,FALSE,5/6/22,welcome,$1.99 ,TRUE,1/7/22
+636,Emmet,Lytle,cross product,$5.41 ,TRUE,10/20/22,welcome,$0.06 ,TRUE,4/28/22
+637,Valerie,Devey,frequency purchase,$3.45 ,FALSE,1/5/22,abandoned cart,$9.43 ,TRUE,3/11/22
+638,Fawne,Stairmond,frequency purchase,$1.35 ,FALSE,7/30/22,frequency purchase,$6.05 ,TRUE,1/29/22
+639,Pall,Cannon,cross product,$7.49 ,FALSE,5/8/22,abandoned cart,$2.43 ,FALSE,2/27/22
+640,Dedra,Martinho,frequency purchase,$3.43 ,FALSE,10/17/22,abandoned cart,$6.27 ,FALSE,4/9/22
+641,Tamarah,Sheehan,cross product,$6.05 ,FALSE,4/30/22,welcome,$1.03 ,TRUE,7/21/22
+642,Gaby,Bowring,abandoned cart,$9.16 ,FALSE,11/20/22,welcome,$4.77 ,TRUE,4/14/22
+643,Dar,Fensome,cross product,$5.89 ,FALSE,10/19/22,welcome,$0.72 ,FALSE,12/25/22
+644,Egan,Keeting,frequency purchase,$9.63 ,TRUE,6/4/22,product launch,$7.06 ,TRUE,11/21/22
+645,Gordan,Biddwell,frequency purchase,$1.46 ,FALSE,7/6/22,welcome,$4.33 ,FALSE,3/30/22
+646,Margarete,Bousfield,frequency purchase,$7.76 ,FALSE,8/9/22,welcome,$1.98 ,FALSE,12/6/22
+647,Lorie,Annott,product launch,$1.18 ,TRUE,8/1/22,welcome,$0.65 ,FALSE,4/30/22
+648,Bidget,Osban,product launch,$6.34 ,FALSE,1/7/22,we missed you,$8.27 ,TRUE,3/4/22
+649,Jud,Guillotin,abandoned cart,$8.27 ,FALSE,7/1/22,frequency purchase,$7.14 ,FALSE,6/18/22
+650,Luigi,Bothie,cross product,$1.28 ,FALSE,1/17/22,we missed you,$4.03 ,FALSE,12/27/22
+651,Harry,Goghin,frequency purchase,$2.40 ,FALSE,6/5/22,abandoned cart,$7.75 ,TRUE,1/14/22
+652,Daisie,Ferry,cross product,$0.55 ,FALSE,12/18/22,product launch,$5.30 ,FALSE,9/17/22
+653,Gaspar,Gilmartin,cross product,$2.04 ,FALSE,3/5/22,welcome,$4.55 ,FALSE,10/2/22
+654,Pooh,Yurshev,we missed you,$3.51 ,FALSE,5/11/22,frequency purchase,$7.68 ,TRUE,9/3/22
+655,Heloise,Menchenton,product launch,$6.93 ,TRUE,8/20/22,frequency purchase,$5.52 ,FALSE,10/23/22
+656,Octavius,Waggatt,cross product,$0.20 ,FALSE,3/11/22,welcome,$3.51 ,FALSE,5/4/22
+657,Jada,Cragg,product launch,$2.40 ,FALSE,11/22/22,we missed you,$6.42 ,TRUE,2/28/22
+658,Ambur,Gebbie,welcome,$8.42 ,FALSE,4/21/22,cross product,$5.42 ,TRUE,6/16/22
+659,Aaron,Shermar,product launch,$6.44 ,TRUE,3/22/22,welcome,$6.54 ,TRUE,3/26/22
+660,Delia,Jeannesson,cross product,$2.44 ,FALSE,4/24/22,welcome,$6.34 ,FALSE,1/2/22
+661,Kaylee,Cavalier,cross product,$2.41 ,TRUE,11/10/22,abandoned cart,$8.23 ,TRUE,7/6/22
+662,Grant,Lias,product launch,$0.91 ,FALSE,2/27/22,frequency purchase,$1.84 ,TRUE,4/6/22
+663,Mariana,Bungey,frequency purchase,$6.12 ,FALSE,7/4/22,frequency purchase,$4.11 ,FALSE,1/31/22
+664,Ada,Cleave,frequency purchase,$7.35 ,FALSE,10/5/22,welcome,$0.66 ,TRUE,6/26/22
+665,Brian,Hinstock,frequency purchase,$6.07 ,FALSE,5/17/22,abandoned cart,$0.35 ,FALSE,3/25/22
+666,Tiff,Cresswell,cross product,$1.94 ,FALSE,11/25/22,welcome,$1.07 ,TRUE,8/13/22
+667,Corrianne,Blampied,we missed you,$2.02 ,FALSE,10/9/22,welcome,$3.89 ,TRUE,9/8/22
+668,Sherm,Boleyn,cross product,$1.14 ,FALSE,3/21/22,welcome,$6.86 ,TRUE,6/27/22
+669,Leonidas,Seedull,product launch,$4.07 ,TRUE,2/10/22,frequency purchase,$7.05 ,TRUE,3/11/22
+670,Dudley,Jillett,cross product,$2.29 ,TRUE,3/11/22,abandoned cart,$9.40 ,TRUE,12/6/22
+671,Kaitlynn,Pendlebury,cross product,$0.61 ,TRUE,11/18/22,welcome,$4.64 ,TRUE,9/25/22
+672,Tybie,Peppin,we missed you,$9.67 ,FALSE,7/28/22,we missed you,$4.27 ,FALSE,8/5/22
+673,Kaleena,Dommerque,cross product,$4.28 ,FALSE,3/2/22,welcome,$7.01 ,FALSE,6/12/22
+674,Deana,Laville,frequency purchase,$0.09 ,FALSE,9/13/22,welcome,$6.79 ,TRUE,8/27/22
+675,Evanne,Vallow,welcome,$4.70 ,TRUE,11/25/22,product launch,$1.78 ,FALSE,1/19/22
+676,Hestia,Cuerda,cross product,$7.34 ,TRUE,3/18/22,welcome,$6.19 ,FALSE,3/28/22
+677,Saunders,McConville,cross product,$9.73 ,FALSE,3/5/22,abandoned cart,$3.58 ,FALSE,1/12/22
+678,Jesse,Eckford,product launch,$5.21 ,FALSE,7/1/22,abandoned cart,$2.02 ,TRUE,9/16/22
+679,Cullen,Gilleson,frequency purchase,$4.58 ,FALSE,5/27/22,welcome,$7.57 ,TRUE,3/16/22
+680,Leshia,Quillinane,product launch,$1.11 ,FALSE,9/10/22,welcome,$2.65 ,TRUE,2/28/22
+681,Etheline,Miles,cross product,$4.17 ,FALSE,6/18/22,welcome,$8.30 ,TRUE,4/7/22
+682,Pippo,Yurkevich,product launch,$6.63 ,TRUE,3/1/22,abandoned cart,$7.78 ,FALSE,9/10/22
+683,Maximilien,Charman,frequency purchase,$5.51 ,FALSE,8/3/22,welcome,$5.85 ,TRUE,3/11/22
+684,Garek,Palphreyman,frequency purchase,$2.13 ,TRUE,1/17/22,frequency purchase,$2.61 ,FALSE,1/7/22
+685,Carline,Lescop,frequency purchase,$9.97 ,TRUE,5/1/22,abandoned cart,$9.30 ,FALSE,3/4/22
+686,Bradly,Greasley,frequency purchase,$4.11 ,FALSE,1/22/22,welcome,$7.82 ,FALSE,11/5/22
+687,Aubrey,Scroggs,cross product,$8.32 ,TRUE,9/3/22,frequency purchase,$1.60 ,TRUE,11/2/22
+688,Granny,Cloake,abandoned cart,$8.42 ,TRUE,6/14/22,frequency purchase,$0.65 ,FALSE,6/4/22
+689,Keven,Danielski,cross product,$4.94 ,TRUE,11/14/22,welcome,$0.41 ,FALSE,5/1/22
+690,Devina,Moulsdale,cross product,$8.43 ,FALSE,9/5/22,cross product,$4.00 ,FALSE,1/24/22
+691,Salmon,Baylay,frequency purchase,$8.84 ,FALSE,4/22/22,frequency purchase,$3.53 ,FALSE,10/11/22
+692,Sandy,Callcott,frequency purchase,$2.67 ,TRUE,10/4/22,frequency purchase,$2.87 ,TRUE,1/11/22
+693,Jolene,Gatiss,frequency purchase,$8.78 ,TRUE,6/13/22,we missed you,$7.21 ,FALSE,5/26/22
+694,Paulette,Rentoul,product launch,$5.47 ,TRUE,9/21/22,abandoned cart,$9.69 ,TRUE,10/29/22
+695,Andrey,Cush,frequency purchase,$0.02 ,FALSE,7/28/22,frequency purchase,$0.13 ,FALSE,11/19/22
+696,Kelly,Regnard,frequency purchase,$7.76 ,TRUE,6/6/22,we missed you,$2.03 ,FALSE,3/16/22
+697,Langsdon,Longbottom,frequency purchase,$0.23 ,TRUE,1/27/22,cross product,$3.85 ,FALSE,12/15/22
+698,Virginie,Redpath,frequency purchase,$1.64 ,TRUE,4/22/22,we missed you,$0.26 ,FALSE,9/10/22
+699,Pasquale,Smidmor,frequency purchase,$2.58 ,TRUE,8/16/22,product launch,$5.26 ,FALSE,5/13/22
+700,Timi,Vequaud,frequency purchase,$2.79 ,FALSE,1/13/22,welcome,$0.21 ,TRUE,8/16/22
+701,Zitella,Tallach,product launch,$6.34 ,FALSE,6/25/22,we missed you,$1.78 ,TRUE,12/25/22
+702,Lurette,Pearce,abandoned cart,$8.81 ,TRUE,12/25/22,welcome,$1.93 ,TRUE,10/19/22
+703,Gray,Luetchford,cross product,$3.63 ,TRUE,4/8/22,abandoned cart,$1.44 ,TRUE,11/11/22
+704,Kliment,Bullocke,product launch,$9.43 ,FALSE,10/13/22,abandoned cart,$9.88 ,FALSE,5/8/22
+705,Fanechka,Philipeau,we missed you,$8.71 ,TRUE,4/10/22,welcome,$8.94 ,FALSE,5/10/22
+706,Dorie,Sarginson,frequency purchase,$7.82 ,TRUE,2/11/22,welcome,$9.85 ,TRUE,4/13/22
+707,Mandi,Rothschild,cross product,$1.25 ,FALSE,6/2/22,product launch,$2.03 ,TRUE,1/25/22
+708,Olwen,Wincer,cross product,$4.31 ,TRUE,4/17/22,abandoned cart,$3.40 ,FALSE,7/3/22
+709,Bobinette,Start,frequency purchase,$8.25 ,TRUE,8/30/22,welcome,$9.09 ,TRUE,10/13/22
+710,Gabriel,MacBain,frequency purchase,$6.86 ,TRUE,12/14/22,cross product,$8.09 ,TRUE,12/5/22
+711,Jewel,Foulger,cross product,$3.26 ,TRUE,7/20/22,frequency purchase,$5.17 ,FALSE,7/24/22
+712,Elinor,Twine,cross product,$9.18 ,TRUE,4/28/22,welcome,$6.23 ,TRUE,9/25/22
+713,Mariam,Takle,product launch,$2.51 ,TRUE,4/21/22,welcome,$1.71 ,TRUE,1/4/22
+714,Lane,McEvay,cross product,$2.67 ,FALSE,1/6/22,abandoned cart,$8.43 ,TRUE,5/24/22
+715,Corrine,Vedekhin,cross product,$8.67 ,FALSE,1/24/22,welcome,$7.17 ,TRUE,7/18/22
+716,Ninette,Rivers,product launch,$9.89 ,FALSE,12/14/22,cross product,$2.37 ,TRUE,6/26/22
+717,Niko,Babbidge,we missed you,$0.05 ,FALSE,3/27/22,abandoned cart,$7.87 ,TRUE,5/14/22
+718,Irita,Ondrich,product launch,$8.56 ,TRUE,10/29/22,frequency purchase,$1.23 ,TRUE,2/1/22
+719,Quillan,Szymaniak,frequency purchase,$9.61 ,FALSE,8/24/22,we missed you,$7.07 ,FALSE,7/1/22
+720,Lacee,Kennet,frequency purchase,$6.64 ,FALSE,11/4/22,welcome,$3.39 ,FALSE,11/6/22
+721,Germaine,Jerosch,frequency purchase,$3.87 ,TRUE,6/20/22,abandoned cart,$1.16 ,TRUE,2/21/22
+722,Cordy,Dyott,welcome,$2.39 ,FALSE,6/2/22,product launch,$8.64 ,FALSE,2/9/22
+723,Lindy,Ibbeson,frequency purchase,$3.57 ,TRUE,2/3/22,cross product,$9.35 ,TRUE,4/16/22
+724,Lorant,Drayton,frequency purchase,$8.89 ,FALSE,6/2/22,welcome,$3.92 ,TRUE,7/4/22
+725,Nerta,Rehn,product launch,$1.67 ,FALSE,2/24/22,abandoned cart,$9.99 ,TRUE,7/3/22
+726,Sandy,Darrigrand,product launch,$3.83 ,TRUE,6/17/22,abandoned cart,$8.28 ,FALSE,9/4/22
+727,Laverna,Embra,cross product,$8.77 ,TRUE,7/11/22,welcome,$9.80 ,TRUE,11/3/22
+728,Charisse,Vida,cross product,$0.64 ,FALSE,3/12/22,welcome,$0.36 ,TRUE,3/31/22
+729,Armstrong,Ussher,cross product,$8.07 ,TRUE,8/1/22,cross product,$2.99 ,TRUE,6/14/22
+730,Harland,Kaes,product launch,$9.48 ,FALSE,4/16/22,cross product,$4.34 ,TRUE,12/15/22
+731,Thane,Stetlye,cross product,$3.68 ,FALSE,4/3/22,abandoned cart,$0.06 ,FALSE,7/13/22
+732,Christie,Hanaby,frequency purchase,$5.18 ,TRUE,5/27/22,frequency purchase,$7.73 ,FALSE,3/11/22
+733,Kerby,Gilliver,frequency purchase,$2.64 ,TRUE,6/10/22,frequency purchase,$6.82 ,TRUE,10/11/22
+734,Valentin,Perutto,abandoned cart,$7.60 ,TRUE,12/29/22,abandoned cart,$9.32 ,FALSE,10/2/22
+735,Fletcher,Hutchinson,frequency purchase,$6.35 ,FALSE,10/6/22,welcome,$3.58 ,FALSE,10/1/22
+736,Orton,Flowerden,frequency purchase,$8.10 ,TRUE,8/8/22,frequency purchase,$5.75 ,TRUE,12/6/22
+737,Dunstan,Dolder,frequency purchase,$5.25 ,FALSE,4/22/22,cross product,$4.30 ,FALSE,10/21/22
+738,Maxim,Couzens,product launch,$5.77 ,TRUE,4/27/22,frequency purchase,$6.92 ,TRUE,12/20/22
+739,Avrom,Kinloch,cross product,$3.51 ,FALSE,11/9/22,abandoned cart,$4.78 ,FALSE,8/21/22
+740,Rozelle,Bleas,cross product,$4.45 ,FALSE,12/19/22,cross product,$9.31 ,FALSE,8/23/22
+741,Van,Seers,cross product,$4.88 ,FALSE,7/26/22,cross product,$8.20 ,TRUE,6/14/22
+742,Jelene,Fayer,frequency purchase,$6.92 ,TRUE,4/21/22,frequency purchase,$7.38 ,FALSE,9/30/22
+743,Shell,Kyme,frequency purchase,$3.02 ,TRUE,3/29/22,cross product,$6.64 ,TRUE,1/21/22
+744,Annnora,Kinkead,cross product,$1.72 ,TRUE,7/14/22,frequency purchase,$7.08 ,FALSE,3/11/22
+745,Cynthea,Olkowicz,frequency purchase,$3.92 ,FALSE,7/22/22,cross product,$8.79 ,FALSE,12/29/22
+746,Gwendolen,Ashmole,cross product,$3.63 ,FALSE,6/29/22,welcome,$0.84 ,FALSE,12/2/22
+747,Mercie,Stoneley,frequency purchase,$1.42 ,FALSE,6/18/22,welcome,$2.86 ,FALSE,1/25/22
+748,Holly-anne,MacCarroll,product launch,$2.62 ,FALSE,8/27/22,abandoned cart,$7.33 ,TRUE,10/2/22
+749,Benji,Skone,frequency purchase,$3.89 ,TRUE,8/21/22,cross product,$5.51 ,FALSE,7/21/22
+750,Currey,O'Cannavan,cross product,$0.77 ,TRUE,6/19/22,welcome,$2.06 ,TRUE,2/7/22
+751,Sheelah,Cowdry,product launch,$0.35 ,TRUE,7/27/22,abandoned cart,$6.93 ,FALSE,1/19/22
+752,Torr,Deverock,welcome,$6.18 ,TRUE,1/18/22,abandoned cart,$2.96 ,FALSE,10/23/22
+753,Perren,Hansod,frequency purchase,$1.64 ,FALSE,10/8/22,abandoned cart,$4.35 ,FALSE,8/23/22
+754,Hamid,Brabham,cross product,$8.98 ,TRUE,12/22/22,welcome,$4.79 ,TRUE,8/30/22
+755,Bell,Heinle,frequency purchase,$7.54 ,FALSE,11/12/22,welcome,$6.95 ,TRUE,4/7/22
+756,Caldwell,Kalkofen,welcome,$6.89 ,FALSE,6/13/22,welcome,$5.72 ,FALSE,3/8/22
+757,Marcellina,Evers,product launch,$2.88 ,FALSE,2/19/22,product launch,$3.41 ,TRUE,6/4/22
+758,Abram,Stother,product launch,$3.07 ,FALSE,1/22/22,abandoned cart,$2.10 ,FALSE,6/28/22
+759,Town,Ledgley,frequency purchase,$8.33 ,TRUE,12/12/22,cross product,$0.71 ,FALSE,2/26/22
+760,Barri,Bowmaker,frequency purchase,$1.76 ,TRUE,12/11/22,product launch,$0.27 ,TRUE,9/23/22
+761,Monica,Orchard,we missed you,$9.12 ,FALSE,10/14/22,we missed you,$2.28 ,FALSE,1/30/22
+762,Raynell,Utteridge,cross product,$6.70 ,TRUE,7/29/22,we missed you,$9.97 ,TRUE,10/19/22
+763,Teddi,Philott,abandoned cart,$7.33 ,FALSE,9/30/22,frequency purchase,$5.20 ,TRUE,10/22/22
+764,Millie,Enston,welcome,$3.59 ,TRUE,6/10/22,cross product,$7.40 ,FALSE,5/12/22
+765,Ariel,Mangin,welcome,$8.12 ,TRUE,5/7/22,product launch,$2.92 ,FALSE,2/11/22
+766,Chic,Brimacombe,cross product,$0.97 ,FALSE,1/7/22,frequency purchase,$4.70 ,TRUE,7/1/22
+767,Leelah,Rocks,welcome,$9.54 ,FALSE,11/27/22,welcome,$4.93 ,TRUE,3/7/22
+768,Loutitia,Akrigg,frequency purchase,$8.82 ,FALSE,3/3/22,abandoned cart,$2.16 ,TRUE,7/15/22
+769,Shari,Benge,frequency purchase,$4.76 ,FALSE,11/11/22,welcome,$0.57 ,FALSE,7/6/22
+770,Gwenni,Lonergan,frequency purchase,$7.64 ,TRUE,8/30/22,abandoned cart,$2.86 ,FALSE,11/20/22
+771,Rochella,Goburn,product launch,$3.73 ,TRUE,2/12/22,frequency purchase,$7.21 ,TRUE,5/24/22
+772,Millisent,Andres,cross product,$0.08 ,TRUE,8/11/22,cross product,$3.41 ,TRUE,12/30/22
+773,Andriette,Nasey,frequency purchase,$5.74 ,TRUE,12/4/22,cross product,$4.15 ,TRUE,8/14/22
+774,Bucky,Prettjohn,cross product,$5.43 ,FALSE,1/15/22,we missed you,$3.81 ,FALSE,11/4/22
+775,Beulah,Backson,frequency purchase,$6.63 ,FALSE,11/7/22,we missed you,$8.24 ,TRUE,10/24/22
+776,Afton,Arkley,we missed you,$2.84 ,FALSE,4/23/22,welcome,$2.30 ,TRUE,2/26/22
+777,Dewey,Davidovici,product launch,$7.33 ,TRUE,7/22/22,frequency purchase,$7.67 ,TRUE,10/20/22
+778,Bobbie,Sibyllina,frequency purchase,$0.65 ,FALSE,4/6/22,abandoned cart,$3.49 ,TRUE,2/14/22
+779,Halley,Fowlds,frequency purchase,$9.96 ,FALSE,3/11/22,frequency purchase,$3.38 ,FALSE,9/30/22
+780,Kristi,Luney,cross product,$5.91 ,FALSE,10/27/22,abandoned cart,$9.17 ,FALSE,12/23/22
+781,Leonhard,Whyborn,frequency purchase,$2.07 ,FALSE,12/17/22,abandoned cart,$9.08 ,FALSE,2/9/22
+782,Iolanthe,Tuffs,welcome,$7.79 ,FALSE,4/7/22,welcome,$6.41 ,TRUE,2/20/22
+783,Keane,Rozalski,frequency purchase,$8.14 ,TRUE,12/24/22,we missed you,$8.03 ,FALSE,1/26/22
+784,Isaac,Zebedee,welcome,$4.99 ,FALSE,4/23/22,product launch,$5.92 ,FALSE,8/23/22
+785,Duffy,Falkinder,welcome,$3.07 ,TRUE,1/17/22,welcome,$9.38 ,TRUE,8/26/22
+786,Emmye,Chalfant,product launch,$8.59 ,FALSE,10/4/22,abandoned cart,$8.16 ,TRUE,7/28/22
+787,Thomasin,Tams,frequency purchase,$3.52 ,FALSE,10/9/22,abandoned cart,$3.49 ,TRUE,12/16/22
+788,Tabby,Coatts,cross product,$2.57 ,TRUE,7/3/22,abandoned cart,$7.02 ,FALSE,8/26/22
+789,Moore,Klug,abandoned cart,$4.47 ,FALSE,12/16/22,welcome,$4.20 ,TRUE,10/1/22
+790,Yehudit,Antushev,cross product,$5.05 ,TRUE,8/20/22,abandoned cart,$2.13 ,TRUE,2/4/22
+791,Tait,Steger,frequency purchase,$6.93 ,FALSE,1/29/22,welcome,$3.89 ,FALSE,7/2/22
+792,Clarey,Haith,frequency purchase,$1.95 ,FALSE,9/19/22,abandoned cart,$7.31 ,TRUE,6/3/22
+793,Heidie,Palombi,cross product,$7.68 ,FALSE,7/4/22,welcome,$5.29 ,FALSE,6/16/22
+794,Candis,Wilde,frequency purchase,$0.51 ,FALSE,1/20/22,welcome,$7.62 ,TRUE,6/25/22
+795,Karina,Born,frequency purchase,$1.86 ,TRUE,1/26/22,abandoned cart,$1.90 ,TRUE,11/2/22
+796,Faulkner,Sutherland,frequency purchase,$0.06 ,TRUE,3/31/22,welcome,$6.67 ,FALSE,11/13/22
+797,Beverlie,MacNeilage,product launch,$7.20 ,FALSE,7/31/22,product launch,$3.43 ,TRUE,5/14/22
+798,Jena,Tutchell,frequency purchase,$2.87 ,FALSE,1/4/22,product launch,$3.28 ,TRUE,11/22/22
+799,Vittorio,Krabbe,cross product,$8.91 ,TRUE,4/19/22,cross product,$6.37 ,TRUE,6/28/22
+800,Jennine,Gisbye,we missed you,$8.88 ,FALSE,7/24/22,abandoned cart,$3.44 ,TRUE,6/20/22
+801,Amos,Ingley,abandoned cart,$4.47 ,FALSE,4/27/22,frequency purchase,$6.63 ,TRUE,12/15/22
+802,Frederik,Fri,frequency purchase,$2.14 ,TRUE,2/4/22,welcome,$6.18 ,FALSE,4/6/22
+803,Janina,Kerrey,welcome,$9.76 ,FALSE,2/8/22,abandoned cart,$6.04 ,TRUE,10/12/22
+804,Steffen,Cromleholme,frequency purchase,$9.48 ,FALSE,1/18/22,welcome,$1.06 ,FALSE,1/6/22
+805,Marcellina,Dametti,frequency purchase,$6.69 ,TRUE,1/22/22,welcome,$5.23 ,FALSE,9/6/22
+806,Constantin,Giral,welcome,$6.31 ,TRUE,3/31/22,abandoned cart,$5.30 ,FALSE,2/27/22
+807,Bennie,MacPharlain,frequency purchase,$5.89 ,TRUE,2/12/22,frequency purchase,$9.83 ,TRUE,10/21/22
+808,Dodie,Jacqueminot,cross product,$8.91 ,TRUE,4/26/22,abandoned cart,$4.37 ,TRUE,1/6/22
+809,Hillard,Lerven,welcome,$9.07 ,TRUE,12/23/22,welcome,$1.02 ,TRUE,6/9/22
+810,Catlaina,Hablot,cross product,$8.71 ,FALSE,11/1/22,abandoned cart,$8.81 ,TRUE,1/21/22
+811,Oswald,Tunnoch,frequency purchase,$1.43 ,FALSE,2/11/22,welcome,$8.13 ,TRUE,12/12/22
+812,Puff,Mikalski,welcome,$4.79 ,TRUE,7/14/22,welcome,$1.87 ,FALSE,5/21/22
+813,Verina,Deathridge,cross product,$4.33 ,TRUE,5/18/22,frequency purchase,$1.01 ,TRUE,7/9/22
+814,Griselda,Huson,cross product,$4.61 ,TRUE,12/26/22,frequency purchase,$8.07 ,TRUE,5/21/22
+815,Rachele,Dunge,welcome,$2.14 ,FALSE,5/10/22,cross product,$3.40 ,TRUE,2/17/22
+816,Maisie,Rickasse,frequency purchase,$6.76 ,TRUE,4/3/22,welcome,$7.77 ,TRUE,2/26/22
+817,Pall,Stanbury,abandoned cart,$0.99 ,FALSE,2/10/22,we missed you,$6.10 ,FALSE,1/24/22
+818,Tucker,Conkling,frequency purchase,$1.99 ,TRUE,5/5/22,welcome,$2.22 ,TRUE,5/14/22
+819,Bancroft,Silkstone,frequency purchase,$8.91 ,TRUE,11/17/22,cross product,$9.74 ,FALSE,7/10/22
+820,Cyndia,Gadeaux,cross product,$7.07 ,FALSE,7/28/22,welcome,$7.05 ,TRUE,12/11/22
+821,Lian,Houseago,frequency purchase,$7.99 ,FALSE,10/11/22,abandoned cart,$9.46 ,TRUE,4/20/22
+822,Manya,Titcumb,cross product,$0.88 ,FALSE,8/23/22,cross product,$2.26 ,TRUE,11/21/22
+823,Gaelan,Skillitt,welcome,$4.71 ,FALSE,2/17/22,frequency purchase,$8.33 ,FALSE,4/9/22
+824,Savina,Bagehot,cross product,$3.69 ,FALSE,4/19/22,cross product,$3.12 ,FALSE,12/18/22
+825,Fabiano,Schwandner,cross product,$8.68 ,TRUE,6/4/22,abandoned cart,$7.00 ,TRUE,10/2/22
+826,Nollie,MacCaughen,welcome,$2.71 ,FALSE,5/13/22,abandoned cart,$2.98 ,TRUE,7/8/22
+827,Ree,Gislebert,frequency purchase,$1.31 ,FALSE,12/17/22,abandoned cart,$4.96 ,FALSE,12/23/22
+828,Minerva,Kilty,frequency purchase,$2.64 ,FALSE,10/13/22,welcome,$1.32 ,TRUE,4/26/22
+829,Gunther,Stoven,frequency purchase,$4.11 ,FALSE,4/26/22,frequency purchase,$3.27 ,FALSE,9/8/22
+830,Gloriane,Cluse,welcome,$2.78 ,FALSE,9/26/22,abandoned cart,$5.93 ,FALSE,6/5/22
+831,Renee,Greet,frequency purchase,$2.04 ,FALSE,9/15/22,welcome,$6.63 ,TRUE,10/22/22
+832,Marjory,Medland,frequency purchase,$3.44 ,TRUE,1/30/22,frequency purchase,$4.89 ,TRUE,7/20/22
+833,Lemmie,Pitfield,cross product,$2.93 ,FALSE,11/23/22,welcome,$5.90 ,TRUE,9/26/22
+834,Eryn,Deere,frequency purchase,$6.02 ,FALSE,6/29/22,welcome,$8.98 ,TRUE,7/7/22
+835,Alice,Dressel,frequency purchase,$7.96 ,FALSE,3/25/22,abandoned cart,$0.42 ,TRUE,1/13/22
+836,Melessa,MacArdle,frequency purchase,$6.76 ,TRUE,11/11/22,welcome,$0.31 ,FALSE,12/9/22
+837,Addie,Croan,frequency purchase,$2.98 ,TRUE,10/25/22,welcome,$3.79 ,TRUE,2/24/22
+838,Else,Antognetti,product launch,$5.17 ,TRUE,7/17/22,frequency purchase,$8.64 ,TRUE,12/2/22
+839,Bonita,Eggle,cross product,$4.34 ,FALSE,4/27/22,welcome,$6.97 ,TRUE,3/2/22
+840,Igor,Stowgill,frequency purchase,$6.99 ,FALSE,2/25/22,abandoned cart,$9.57 ,FALSE,9/9/22
+841,Hillard,Dellatorre,cross product,$9.92 ,FALSE,2/17/22,welcome,$3.64 ,TRUE,9/1/22
+842,Brittne,Krauze,cross product,$3.94 ,TRUE,8/10/22,cross product,$1.03 ,TRUE,8/2/22
+843,Gunilla,Streatfeild,cross product,$6.88 ,FALSE,10/26/22,welcome,$5.40 ,FALSE,11/4/22
+844,Alistair,Ellam,cross product,$1.32 ,TRUE,1/30/22,welcome,$8.80 ,TRUE,1/22/22
+845,Emiline,Dewsbury,frequency purchase,$2.65 ,FALSE,6/27/22,product launch,$0.58 ,TRUE,1/23/22
+846,Issi,Mellows,product launch,$0.37 ,TRUE,8/14/22,product launch,$8.90 ,TRUE,7/7/22
+847,Sibelle,Tiuit,frequency purchase,$3.25 ,TRUE,10/23/22,product launch,$2.51 ,TRUE,6/9/22
+848,Ode,Godlonton,frequency purchase,$3.86 ,FALSE,12/30/22,welcome,$2.43 ,FALSE,10/1/22
+849,Cristina,Naish,frequency purchase,$9.38 ,FALSE,5/20/22,product launch,$5.32 ,TRUE,11/24/22
+850,Bryn,Brewse,product launch,$6.91 ,FALSE,2/5/22,welcome,$8.03 ,FALSE,12/15/22
+851,Fabe,Brasseur,product launch,$4.02 ,FALSE,7/24/22,cross product,$9.15 ,TRUE,6/12/22
+852,Kati,Shalcros,frequency purchase,$7.23 ,FALSE,5/10/22,frequency purchase,$3.15 ,TRUE,9/30/22
+853,Melinda,Kenwell,product launch,$9.47 ,TRUE,1/23/22,frequency purchase,$2.98 ,FALSE,12/14/22
+854,Werner,Osmint,product launch,$9.61 ,FALSE,10/12/22,abandoned cart,$8.86 ,FALSE,9/25/22
+855,Marrilee,O'Suaird,frequency purchase,$2.92 ,FALSE,3/14/22,welcome,$3.04 ,TRUE,10/12/22
+856,Yasmeen,McAuslene,cross product,$7.49 ,TRUE,8/28/22,cross product,$4.09 ,TRUE,9/16/22
+857,Stanfield,Hazle,we missed you,$0.47 ,FALSE,9/10/22,cross product,$8.55 ,TRUE,4/1/22
+858,Kacey,Hunnam,frequency purchase,$9.38 ,TRUE,3/30/22,frequency purchase,$8.24 ,FALSE,1/9/22
+859,Camilla,Boerder,abandoned cart,$4.92 ,FALSE,6/16/22,product launch,$8.90 ,TRUE,6/11/22
+860,Towney,Worcs,product launch,$7.14 ,FALSE,11/9/22,abandoned cart,$2.11 ,FALSE,3/23/22
+861,Renard,Shinefield,cross product,$8.39 ,TRUE,4/14/22,we missed you,$1.86 ,FALSE,11/3/22
+862,Hollyanne,Crickmer,welcome,$7.01 ,FALSE,12/30/22,frequency purchase,$8.47 ,FALSE,12/29/22
+863,Alex,Lewry,cross product,$2.93 ,TRUE,5/7/22,welcome,$1.47 ,FALSE,6/22/22
+864,Josias,Kirtlan,frequency purchase,$6.30 ,TRUE,6/5/22,welcome,$8.49 ,FALSE,7/8/22
+865,Brenn,Dunbabin,frequency purchase,$3.27 ,FALSE,11/11/22,frequency purchase,$2.36 ,TRUE,6/15/22
+866,Giulio,Mourgue,cross product,$6.80 ,TRUE,10/24/22,abandoned cart,$4.35 ,TRUE,3/3/22
+867,Harold,Rookledge,welcome,$2.21 ,FALSE,7/30/22,welcome,$8.65 ,FALSE,9/22/22
+868,Marmaduke,Harpham,cross product,$8.82 ,FALSE,9/20/22,abandoned cart,$6.72 ,FALSE,12/22/22
+869,Goldi,Cancellieri,cross product,$7.81 ,FALSE,11/29/22,frequency purchase,$5.39 ,FALSE,9/6/22
+870,Anneliese,Roots,frequency purchase,$8.98 ,TRUE,1/14/22,welcome,$8.10 ,FALSE,1/7/22
+871,Neils,Konig,cross product,$1.22 ,FALSE,4/22/22,abandoned cart,$9.56 ,FALSE,8/29/22
+872,Rowen,Petren,abandoned cart,$0.49 ,TRUE,6/17/22,welcome,$1.78 ,FALSE,10/7/22
+873,Madison,Mullaney,welcome,$2.72 ,FALSE,6/14/22,welcome,$6.66 ,FALSE,10/9/22
+874,Marrissa,Robelow,cross product,$8.57 ,FALSE,3/29/22,we missed you,$8.09 ,FALSE,12/27/22
+875,Waylan,Burge,welcome,$7.81 ,TRUE,8/11/22,welcome,$4.29 ,FALSE,3/28/22
+876,Winnah,Morrill,cross product,$3.47 ,TRUE,11/9/22,welcome,$5.13 ,FALSE,7/14/22
+877,Hubey,Howler,welcome,$0.92 ,FALSE,7/29/22,welcome,$5.38 ,FALSE,11/25/22
+878,Giusto,Beal,frequency purchase,$0.92 ,FALSE,5/19/22,abandoned cart,$9.20 ,TRUE,4/20/22
+879,Cheri,Yonnie,cross product,$7.15 ,FALSE,11/23/22,cross product,$7.48 ,TRUE,3/16/22
+880,Idalina,Spybey,cross product,$8.77 ,FALSE,11/28/22,welcome,$7.09 ,FALSE,6/17/22
+881,Ivette,Bumphrey,cross product,$9.27 ,FALSE,12/24/22,product launch,$6.36 ,TRUE,3/20/22
+882,Jdavie,Livens,cross product,$5.79 ,TRUE,12/8/22,welcome,$5.24 ,TRUE,6/22/22
+883,Zola,Avramovich,cross product,$3.16 ,TRUE,4/6/22,cross product,$8.79 ,FALSE,12/8/22
+884,Heinrick,Milch,cross product,$1.93 ,FALSE,7/13/22,abandoned cart,$9.80 ,TRUE,10/9/22
+885,Darrell,Franceschino,cross product,$9.54 ,FALSE,10/3/22,abandoned cart,$2.53 ,FALSE,2/4/22
+886,Karla,Josselson,welcome,$7.46 ,FALSE,9/29/22,abandoned cart,$7.07 ,TRUE,3/13/22
+887,Madison,Hobble,frequency purchase,$6.83 ,TRUE,3/27/22,frequency purchase,$3.48 ,FALSE,8/6/22
+888,Haleigh,Ogers,abandoned cart,$5.40 ,TRUE,9/1/22,frequency purchase,$5.96 ,FALSE,5/29/22
+889,Perice,Andrini,cross product,$7.17 ,FALSE,2/1/22,abandoned cart,$4.57 ,TRUE,7/13/22
+890,Gabriellia,Perett,abandoned cart,$2.74 ,FALSE,3/22/22,welcome,$2.88 ,FALSE,12/3/22
+891,Inglis,Tumini,welcome,$9.22 ,FALSE,9/7/22,abandoned cart,$3.55 ,FALSE,7/29/22
+892,Pattin,Fitzgerald,product launch,$7.62 ,TRUE,9/19/22,welcome,$1.88 ,TRUE,7/4/22
+893,Hyacinthie,Scottesmoor,cross product,$1.75 ,FALSE,2/26/22,abandoned cart,$7.25 ,FALSE,8/22/22
+894,Annecorinne,Slixby,cross product,$8.28 ,FALSE,3/29/22,frequency purchase,$1.84 ,FALSE,4/28/22
+895,Rosanne,Anthony,abandoned cart,$5.88 ,TRUE,2/21/22,cross product,$0.57 ,TRUE,1/23/22
+896,Shalne,Etienne,frequency purchase,$7.55 ,FALSE,10/7/22,abandoned cart,$4.39 ,TRUE,11/23/22
+897,Stavro,Jubb,welcome,$2.22 ,TRUE,9/28/22,frequency purchase,$9.00 ,TRUE,8/12/22
+898,Albertina,Leupold,cross product,$4.42 ,FALSE,1/22/22,welcome,$1.91 ,FALSE,9/15/22
+899,Demetria,Botley,cross product,$3.44 ,FALSE,7/3/22,abandoned cart,$0.93 ,TRUE,8/7/22
+900,Fredric,Vispo,cross product,$7.84 ,FALSE,11/20/22,abandoned cart,$3.87 ,FALSE,6/22/22
+901,Arlan,Lembrick,frequency purchase,$4.17 ,FALSE,7/11/22,welcome,$9.27 ,FALSE,4/29/22
+902,Starlin,Sedgwick,frequency purchase,$4.81 ,TRUE,11/24/22,frequency purchase,$2.65 ,FALSE,8/16/22
+903,Renelle,Lambricht,cross product,$2.24 ,FALSE,5/20/22,welcome,$7.86 ,TRUE,10/4/22
+904,Aubrie,Quayle,product launch,$6.36 ,TRUE,11/14/22,abandoned cart,$3.19 ,TRUE,12/25/22
+905,Winni,Broadhead,cross product,$9.94 ,FALSE,6/27/22,cross product,$0.32 ,FALSE,6/14/22
+906,Diana,Edgeley,frequency purchase,$3.78 ,FALSE,8/21/22,welcome,$1.43 ,TRUE,11/5/22
+907,Bibi,Luto,we missed you,$0.32 ,TRUE,2/6/22,abandoned cart,$6.88 ,TRUE,9/9/22
+908,Ansell,Storry,cross product,$6.23 ,FALSE,11/20/22,frequency purchase,$8.63 ,FALSE,3/9/22
+909,Sandie,Putley,frequency purchase,$4.58 ,FALSE,5/2/22,welcome,$2.43 ,FALSE,11/26/22
+910,Gannie,Reyes,welcome,$8.60 ,TRUE,9/17/22,we missed you,$5.08 ,FALSE,4/19/22
+911,Linc,Gater,cross product,$6.82 ,FALSE,12/28/22,welcome,$7.60 ,TRUE,8/19/22
+912,Blanche,Karadzas,frequency purchase,$1.68 ,TRUE,4/21/22,abandoned cart,$0.35 ,FALSE,1/21/22
+913,Lexy,Crutcher,welcome,$1.25 ,FALSE,9/29/22,abandoned cart,$0.35 ,TRUE,3/5/22
+914,Grazia,Tabrett,frequency purchase,$9.02 ,FALSE,10/8/22,frequency purchase,$7.56 ,FALSE,8/7/22
+915,Calida,Simco,cross product,$4.26 ,TRUE,1/8/22,we missed you,$2.50 ,TRUE,1/14/22
+916,Jason,Hegarty,welcome,$6.74 ,FALSE,6/23/22,abandoned cart,$3.41 ,TRUE,12/15/22
+917,Valina,Pearlman,abandoned cart,$5.13 ,FALSE,6/24/22,welcome,$0.67 ,FALSE,6/21/22
+918,Bonnee,Grzelczyk,cross product,$7.75 ,FALSE,2/26/22,product launch,$0.83 ,FALSE,12/5/22
+919,Carly,Lowin,welcome,$9.73 ,TRUE,8/13/22,abandoned cart,$0.05 ,FALSE,4/27/22
+920,Jessey,Barbier,frequency purchase,$8.43 ,FALSE,5/14/22,welcome,$2.44 ,TRUE,3/4/22
+921,Jere,Cortnay,frequency purchase,$3.62 ,TRUE,4/9/22,abandoned cart,$7.37 ,FALSE,2/25/22
+922,Venita,Trevains,abandoned cart,$7.26 ,FALSE,10/26/22,cross product,$5.10 ,TRUE,9/5/22
+923,Elianora,Bettington,we missed you,$7.26 ,TRUE,4/2/22,abandoned cart,$8.11 ,FALSE,10/10/22
+924,Shelbi,Nevitt,cross product,$8.58 ,FALSE,2/2/22,welcome,$6.81 ,TRUE,5/11/22
+925,Oralia,Lambdon,product launch,$2.92 ,TRUE,12/1/22,frequency purchase,$0.87 ,FALSE,8/7/22
+926,Dorolice,Gadson,frequency purchase,$6.07 ,TRUE,3/6/22,welcome,$7.79 ,TRUE,12/14/22
+927,Prudi,Banaszkiewicz,frequency purchase,$7.33 ,TRUE,9/17/22,welcome,$8.10 ,TRUE,12/11/22
+928,Bennie,Butterick,welcome,$0.07 ,FALSE,12/22/22,welcome,$8.77 ,TRUE,2/17/22
+929,Claire,Tamburi,cross product,$8.49 ,FALSE,7/27/22,frequency purchase,$7.69 ,TRUE,12/24/22
+930,Bethina,Earle,welcome,$8.05 ,TRUE,9/25/22,welcome,$5.94 ,TRUE,5/21/22
+931,Etheline,Quare,cross product,$2.21 ,FALSE,10/29/22,abandoned cart,$3.27 ,TRUE,2/4/22
+932,Jewelle,Moorerud,cross product,$0.06 ,FALSE,1/26/22,welcome,$8.69 ,TRUE,8/16/22
+933,Sande,Crassweller,product launch,$1.55 ,FALSE,5/6/22,frequency purchase,$7.21 ,TRUE,8/19/22
+934,Hillie,Mackerel,welcome,$6.68 ,FALSE,1/20/22,welcome,$2.92 ,FALSE,6/19/22
+935,Alvera,Stammirs,cross product,$8.13 ,TRUE,10/1/22,abandoned cart,$9.38 ,TRUE,8/31/22
+936,Korie,Brugden,welcome,$2.99 ,TRUE,11/29/22,welcome,$1.94 ,TRUE,5/2/22
+937,Olvan,Beckmann,product launch,$1.40 ,FALSE,7/8/22,cross product,$2.90 ,TRUE,3/16/22
+938,Lockwood,De La Salle,cross product,$7.03 ,TRUE,7/6/22,frequency purchase,$7.01 ,TRUE,6/24/22
+939,Giordano,Cookney,product launch,$9.72 ,FALSE,3/22/22,cross product,$1.98 ,TRUE,11/9/22
+940,Clara,Winterflood,frequency purchase,$4.12 ,TRUE,1/11/22,cross product,$5.94 ,TRUE,2/22/22
+941,Edik,Pauncefoot,abandoned cart,$6.48 ,TRUE,12/6/22,frequency purchase,$2.12 ,TRUE,6/8/22
+942,Arlena,Constantine,product launch,$2.51 ,FALSE,7/9/22,abandoned cart,$0.38 ,TRUE,1/2/22
+943,Rosemaria,McGee,welcome,$1.69 ,TRUE,6/5/22,cross product,$5.65 ,FALSE,12/30/22
+944,Lon,Ronaldson,frequency purchase,$3.96 ,FALSE,12/1/22,welcome,$2.79 ,TRUE,7/23/22
+945,Ainslie,Grovier,cross product,$3.27 ,TRUE,7/20/22,welcome,$9.29 ,TRUE,12/19/22
+946,Juliane,Gentner,frequency purchase,$7.74 ,TRUE,9/23/22,welcome,$5.12 ,FALSE,8/12/22
+947,Boycie,Gange,frequency purchase,$0.34 ,FALSE,11/23/22,welcome,$1.23 ,FALSE,8/23/22
+948,Vonnie,Harcase,abandoned cart,$6.39 ,TRUE,2/22/22,welcome,$9.85 ,FALSE,8/1/22
+949,Gussie,MacBey,cross product,$1.94 ,TRUE,10/21/22,abandoned cart,$8.72 ,FALSE,2/28/22
+950,Ediva,Humblestone,frequency purchase,$0.92 ,FALSE,1/12/22,welcome,$6.90 ,FALSE,12/19/22
+951,Cynthia,Phythien,frequency purchase,$4.93 ,FALSE,8/20/22,abandoned cart,$9.91 ,TRUE,4/11/22
+952,Basia,Antoniak,we missed you,$4.43 ,TRUE,10/22/22,we missed you,$0.56 ,FALSE,2/10/22
+953,Albertine,Milier,frequency purchase,$2.41 ,FALSE,12/17/22,welcome,$1.56 ,FALSE,5/24/22
+954,Mair,Godley,frequency purchase,$8.46 ,TRUE,12/30/22,abandoned cart,$4.27 ,FALSE,9/29/22
+955,Milli,Drewery,frequency purchase,$8.53 ,FALSE,3/30/22,frequency purchase,$0.02 ,FALSE,1/20/22
+956,Andrea,Quinnelly,we missed you,$4.41 ,FALSE,12/28/22,frequency purchase,$5.38 ,FALSE,4/22/22
+957,Cherilyn,Coom,cross product,$6.04 ,FALSE,3/13/22,we missed you,$5.22 ,TRUE,8/27/22
+958,Nanine,Beddin,frequency purchase,$0.78 ,FALSE,9/5/22,welcome,$1.68 ,TRUE,3/16/22
+959,Bee,Chaunce,product launch,$6.20 ,TRUE,2/19/22,cross product,$1.93 ,TRUE,1/6/22
+960,Brynne,Martindale,frequency purchase,$7.64 ,FALSE,7/21/22,frequency purchase,$4.82 ,TRUE,10/18/22
+961,Adiana,Jowling,cross product,$1.74 ,FALSE,1/3/22,welcome,$7.47 ,TRUE,9/13/22
+962,Tomas,Disbury,product launch,$5.90 ,FALSE,12/29/22,welcome,$8.76 ,FALSE,11/24/22
+963,Clara,Ricardot,welcome,$6.00 ,TRUE,6/2/22,welcome,$3.34 ,TRUE,9/20/22
+964,Miner,Bratty,frequency purchase,$5.98 ,FALSE,1/25/22,welcome,$6.55 ,TRUE,11/16/22
+965,Chester,Wyburn,frequency purchase,$1.41 ,TRUE,8/6/22,product launch,$3.52 ,FALSE,7/19/22
+966,Hermie,Summerlad,welcome,$7.08 ,FALSE,9/4/22,welcome,$4.06 ,TRUE,7/31/22
+967,Nanine,Boswell,we missed you,$6.37 ,FALSE,12/12/22,cross product,$6.82 ,FALSE,1/6/22
+968,Jacqueline,Choules,product launch,$6.30 ,TRUE,1/8/22,welcome,$9.84 ,FALSE,11/13/22
+969,Nicholle,Tavinor,frequency purchase,$0.62 ,FALSE,3/19/22,frequency purchase,$4.57 ,TRUE,8/16/22
+970,Melisent,Basilotta,frequency purchase,$9.08 ,FALSE,2/8/22,welcome,$8.02 ,FALSE,6/20/22
+971,Cherin,Stonier,cross product,$0.62 ,FALSE,6/3/22,welcome,$7.08 ,FALSE,2/7/22
+972,Gussie,Kindleside,frequency purchase,$3.76 ,FALSE,5/1/22,welcome,$3.74 ,FALSE,2/19/22
+973,Cesar,Goundrill,abandoned cart,$3.14 ,FALSE,7/27/22,welcome,$9.13 ,TRUE,2/14/22
+974,Ignace,Bunting,welcome,$3.80 ,FALSE,7/27/22,abandoned cart,$3.02 ,TRUE,5/15/22
+975,Sharity,Ashall,product launch,$3.28 ,TRUE,1/23/22,cross product,$9.51 ,TRUE,12/8/22
+976,Lionello,Eccleshall,welcome,$1.45 ,TRUE,8/20/22,we missed you,$5.63 ,TRUE,3/25/22
+977,Finlay,Payn,frequency purchase,$5.06 ,FALSE,12/12/22,welcome,$6.46 ,TRUE,6/21/22
+978,Tabby,Alvarado,frequency purchase,$7.33 ,FALSE,10/16/22,cross product,$4.18 ,FALSE,12/13/22
+979,Aurie,Biasi,product launch,$3.25 ,FALSE,6/27/22,welcome,$1.19 ,FALSE,11/4/22
+980,Josselyn,Phette,we missed you,$9.78 ,TRUE,11/21/22,abandoned cart,$0.44 ,TRUE,12/5/22
+981,Morena,Light,frequency purchase,$2.44 ,FALSE,5/14/22,cross product,$9.08 ,FALSE,3/22/22
+982,Wileen,Kendell,cross product,$7.27 ,FALSE,4/2/22,abandoned cart,$0.48 ,TRUE,12/28/22
+983,Mathe,Murrthum,cross product,$5.31 ,TRUE,4/7/22,welcome,$3.61 ,TRUE,7/3/22
+984,Lynnett,Peschet,we missed you,$0.30 ,FALSE,6/1/22,abandoned cart,$7.21 ,FALSE,2/18/22
+985,Warner,Samudio,welcome,$8.74 ,TRUE,1/29/22,cross product,$9.31 ,FALSE,12/11/22
+986,Hewet,Shoosmith,product launch,$4.06 ,TRUE,2/14/22,welcome,$8.76 ,TRUE,2/6/22
+987,Auria,Custed,welcome,$9.94 ,FALSE,7/27/22,frequency purchase,$5.45 ,TRUE,9/21/22
+988,Shalna,Abram,welcome,$2.15 ,FALSE,8/21/22,abandoned cart,$0.31 ,TRUE,5/27/22
+989,Zedekiah,Huckerbe,cross product,$5.66 ,TRUE,8/28/22,welcome,$0.04 ,FALSE,9/30/22
+990,Briant,Climie,cross product,$7.14 ,TRUE,9/26/22,we missed you,$1.62 ,TRUE,3/6/22
+991,Helsa,Graalmans,cross product,$8.20 ,FALSE,4/15/22,welcome,$3.14 ,FALSE,7/31/22
+992,Normy,Thornewill,frequency purchase,$6.15 ,FALSE,8/29/22,cross product,$9.07 ,TRUE,11/7/22
+993,Shirleen,Immings,frequency purchase,$0.93 ,FALSE,11/7/22,product launch,$4.42 ,TRUE,9/18/22
+994,Faber,Detheridge,abandoned cart,$0.93 ,FALSE,12/1/22,welcome,$6.02 ,TRUE,12/12/22
+995,Lurleen,Gabbitus,cross product,$3.12 ,TRUE,9/8/22,frequency purchase,$9.22 ,FALSE,7/23/22
+996,May,Brightwell,welcome,$6.95 ,FALSE,6/16/22,welcome,$7.14 ,FALSE,7/4/22
+997,Cullin,Maier,product launch,$6.98 ,FALSE,9/2/22,abandoned cart,$6.55 ,FALSE,3/21/22
+998,Benita,Christoffersen,abandoned cart,$6.79 ,TRUE,5/30/22,abandoned cart,$4.39 ,TRUE,1/4/22
+999,Lynnette,Tomanek,frequency purchase,$1.97 ,FALSE,7/20/22,frequency purchase,$9.49 ,TRUE,5/2/22
+1000,Sergeant,Huckster,frequency purchase,$2.27 ,FALSE,6/2/22,welcome,$6.57 ,FALSE,8/2/22
