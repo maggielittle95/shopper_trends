@@ -15,9 +15,7 @@ Running the Program Locally:
 1. Fork the repository repo link
 2. Clone the repository to your Github account
 3. Access the repository from your command line or preferred CMD software
-4. Install a virtual environment. The command in Gitbash is python -m venv venv
-5. Activate the virtual environment. The command in Gitbash is source venv/scripts/activate
-6. Install the requirements.txt file to install necessary packages by running pip install requirements.txt
+4. Install a virtual environment. Below are directions are how to install per your machine:
 
 Virtual Environment Commands
 | Command | Linux/Mac | GitBash |
@@ -31,6 +29,13 @@ Virtual Environment Commands
 | Deactivate | `deactivate` | `deactivate` |
 
 
+1. Activate the virtual environment. 
+2. Install the requirements.txt file to install necessary packages by running 'pip install requirements.txt'
+3. Run the data_cleaning.ipynb first. A database called 'cl_shopper_trends.db' will be created. 
+4. Run the 'marketing_analysis.ipynb' file to produce marketing insights and visualizations. 
+
+
+
 Features:
 1. Read TWO data files (JSON, CSV, Excel, etc.): shopping_trends.csv and mock_data.csv files
 2. Set up a local database and read data in with SQLite
@@ -38,8 +43,8 @@ Features:
 last_purchase               datetime64[ns]
 first_purchase_month                 int32
 last_purchase_month                  int32)
-4. Nine matplotlib/ seaborn visualizations to display marketing data
-5. Annotated code with markdown cells in Jupyter Notebook, clear code comments,and README.md included. 
+1. Nine matplotlib/ seaborn visualizations to display marketing data
+2. Annotated code with markdown cells in Jupyter Notebook, clear code comments,and README.md included. 
 
 Enriching the Data:
 - 1. Since this interview is based on example questions, you may be required to fill in data where not provided. For example, most marketing teams would like to know their average order value and the customer lifetime value of their company. However, these are not columns already provided. You can create a dataframe or alter your table based on new values to supplement this exercise. Always great to show how you can innovate in an interview! 
