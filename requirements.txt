@@ -1,8 +1,7 @@
-pandas as pd
-matplotlib.pyplot as plt
-matplotlib as mpl
-seaborn as sns
-numpy as np
-random
-sqlite3
+ipykernel
+pandas
+matplotlib
+seaborn
+numpy
 sqlalchemy
+sqlite3
